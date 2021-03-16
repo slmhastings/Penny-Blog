@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: The 10 Terms You'll See in Your Job Offer—And What They Actually Mean
-date: 2017-03-15T14:00:00.000Z
+title: The 10 Terms You'll See in Your Job Offer
+date: 2021-03-15T14:00:00.000Z
 description: |
   
   Yay! You got a job offer! Look at you go, girl!
