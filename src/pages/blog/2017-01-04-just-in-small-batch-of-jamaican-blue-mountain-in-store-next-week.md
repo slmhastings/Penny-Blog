@@ -2,21 +2,11 @@
 templateKey: blog-post
 title: The 10 Terms You'll See in Your Job Offer—And What They Actually Mean
 date: 2017-03-15T14:00:00.000Z
-description: >
+description: |
   
   Yay! You got a job offer! Look at you go, girl!
 
-
-  Time to celebrate! – Wait. What are all of these words? And what do they mean? 
-
-
-  If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
-
-
-  At Penny, we’re all about making complicated lingo… Un-complicated. 
-
-
-  Your job offer is...
+  Time to celebrate! – Wait. What are all of these words? And what do they mean?
 featuredpost: true
 featuredimage: /img/8618ae8a82491781dcdb38d044081c41.jpg
 tags:
@@ -24,15 +14,11 @@ tags:
   - money
   - benefits
 ---
-Yay! You got a job offer! Look at you go, girl!
+#### If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
 
-Time to celebrate! – Wait. What are all of these words? And what do they mean? 
+#### At Penny, we’re all about making complicated lingo… Un-complicated. 
 
-If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
-
-At Penny, we’re all about making complicated lingo… Un-complicated. 
-
-Your job offer is like a formal handshake, on paper. It outlines important benefits and details about your new job like your vacation time (gotta love this!) and opportunities for a “company match” from your employer (AKA free money! We cover this in more detail below).
+#### Your job offer is like a formal handshake, on paper. It outlines important benefits and details about your new job like your vacation time (gotta love this!) and opportunities for a “company match” from your employer (AKA free money! We cover this in more detail below).
 
 Plus, we tell you which areas you might want to consider negotiating before you sign off. Whoever said women can’t negotiate better job benefits? \*wink\*
 
