@@ -14,6 +14,10 @@ tags:
   - money
   - benefits
 ---
+![](/img/8618ae8a82491781dcdb38d044081c41.jpg)
+
+Source: Pinterest
+
 #### If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
 
 #### At Penny, we’re all about making complicated lingo… Un-complicated. 
@@ -43,8 +47,6 @@ Do you know what goes into your taxes? [How to read your paystub](<another blog 
 # Gross
 
 #### AKA Your money before taxes
-
-
 
 If they tell you your sign-on bonus is gross $5,000 - it's not. Sad to break this news, but you are not getting $5,000 cash money. It could be HALF of that. Why? Yep, taxes, baby. Ya, ew, gross. 
 
@@ -90,15 +92,11 @@ Sucks to not know a real number, but who doesn’t like bonuses?
 
 #### AKA When you get the perks (aka are allowed to “cash in”)
 
-
-
 This is when your benefits really kick in and you can enjoy them to your heart’s content. Usually, they start after 1 year of employment, or after your probationary or trial period is over. 
 
 # Supplemental Contributions 
 
 #### AKA Your company retirement match, aka FREE MONEY!!!
-
-
 
 When you add money to a retirement account (like the 401k) companies often match your contribution amount. This is literally free money, above and beyond your salary, and a great place to negotiate for more. 
 
@@ -123,8 +121,6 @@ Mark your calendar!
 
 #### AKA when you can plan that Europe trip
 
-
-
 Combination of paid vacation, sick or personal days. “Accrued” just means it’s the hours you added up by working there (and haven’t used yet). 
 
 You know how most companies have extra vacation days or time off as a bonus for employees that have worked with them a long time? This is it! Time to count down the days to your favorite getaway. 
@@ -132,8 +128,6 @@ You know how most companies have extra vacation days or time off as a bonus for 
 # Dollar-for-dollar
 
 #### AKA 100%
-
-
 
 If your company tells you they offer “401(k) dollar-for-dollar matching contributions”, you have full permission to jump up and down – that’s literally FREE money!!! 
 
@@ -147,23 +141,17 @@ Confused about 401k matches and contributions? [Read this.](<blog post: 401k ira
 
 #### AKA a portion of something
 
-
-
 Let’s say you see something like “pro-rated vacation entitlement” on your offer. And you start your new job in July (which is 6 months into the year). Pro-rated vacay means that instead of getting a full 4 weeks of vacation, you’ll get only 2 weeks for this calendar year. 
 
 Your time off is cut back to a portion of what is \*really\* included in your full benefits package, had you been working there for a full 365 days. 
 
 Chances are, you weren’t gonna take a full month off anyway, (probably not a smart move for a new job) but it’s good to know what you are working with.
 
-
-
 # Probationary Period 
 
 #### AKA a trial period
 
 This could be for 3 months, 6 months or up to 1 year. When you first get a job, your company wants to have an opportunity to suss you out. A probationary period gives them a chance to see if this new relationship will work out or not, and give them (and you) a free pass to call it quits if it isn’t. No hard feelings. 
-
-
 
 ## Next time you get a new job offer, you’ll know exactly what you’re signing up for, money-wise. 
 
