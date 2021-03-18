@@ -15,14 +15,15 @@ export default class BlogIndexPage extends React.Component {
           }}
         >
           <h1
-            className="has-text-weight-bold is-size-1"
+            className="has-text-weight-bold"
             style={{
               
               boxShadow: '#f6f1f1 0.5rem 0px 0px, #f6f1f1 -0.5rem 0px 0px',
               color: '#637C76',
               padding: '1rem',
               textAlign: 'center',
-              fontFamily: 'hatton bold'
+              fontFamily: 'Hatton',
+              fontSize: '6rem'
             }}
           >
             money makin' doesn't have to be so hard
