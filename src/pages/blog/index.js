@@ -2,6 +2,7 @@ import React from 'react'
 
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
+import Subhead from '../../components/Subhead'
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -10,21 +11,24 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/header2.png')`,
           }}
         >
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
-              color: 'white',
+              
+              boxShadow: '#f6f1f1 0.5rem 0px 0px, #f6f1f1 -0.5rem 0px 0px',
+              color: '#637C76',
               padding: '1rem',
+              textAlign: 'center',
+              fontFamily: 'hatton bold'
             }}
           >
-            Latest Stories
+            money makin' doesn't have to be so hard
           </h1>
         </div>
+        <Subhead />
         <section className="section">
           <div className="container">
             <div className="content">

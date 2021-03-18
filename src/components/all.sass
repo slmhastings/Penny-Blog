@@ -1,7 +1,6 @@
 @import "~bulma/sass/utilities/initial-variables"
 
-// Config vars
-// Kaldi logo brand color: #FD461E
+
 $kaldi-red: #D64000
 $kaldi-red-invert: #fff
 
@@ -138,3 +137,43 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+
+
+.marquee h1
+  font-family: Hatton semibold
+  font-size: 70px
+  display: inline-block
+  padding-left: 25%
+  animation: marquee 10s linear infinite
+
+@keyframes marquee
+  0%
+    transform: translate(100%, 0)
+
+  100%
+    transform: translate(-100%, 0)
+
+
+html
+  background-color: #F6F1F1 
+
+.notification
+  background-color: #E2D2CF
+  border-radius: 4px
+  position: relative
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem
+
+.subhead
+  max-height: 100px
+
+  img
+    left: 690px
+    border-style: none
+    position: relative
+    width: 261px
+    height: auto
+    z-index: 50
+    bottom: 168px
+
+
