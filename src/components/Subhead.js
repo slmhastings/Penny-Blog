@@ -5,7 +5,8 @@ function Subhead() {
   return (
     <div class="subhead">
       <h5 style={{
-        textAlign:"center"
+        textAlign:"center",
+        fontSize:"xx-large"
       }}>Check out our latest articles on HOW to money</h5>
       <img src={pennycircle1} />
       
