@@ -51,17 +51,73 @@ No, seriously. Let’s talk numbers for a second. If you start to invest $3K per
 
 Yes, you read that right. And thats with $300 a month for a year. Magic!
 
-P.S. Access to this calendar is available in [our handy app](www.penny-finance.com). 
+P.S. Access to this calculator is available in [our handy app](www.penny-finance.com). 
 
 When you set up one (or more) of these retirement accounts, it means you can keep even more of your money for future you to enjoy. Win, win, win.
 
-* You pay less taxes, so you save money twice: (1) You’re storing your money for future use, and (2) you’re paying less taxes on the amount you’re saving and investing.
-* You have the same opportunity to invest your money as with any traditional bank account (again, tax-free). Saving for your future doesn’t mean your money has to sit there, rotting away with virtual cobwebs and zero growth. You can invest your savings, and watch your retirement funds double, triple, and quadruple. 
-* You can save double the amount if your employer matches your contribution. These accounts offer major tax savings for companies too, so many are open to this. The amount they match is separate from your actual salary, so you really do get extra free money just for saving money.
-* You don’t have to wait until you’re making thousands of dollars, graduate, or the stars align. You can open an account today and start saving and investing even if you don’t have a lot of income to spare. More money in your pocket. Even if you don’t have a lot of it to start with.
+Are your eyes glazing over? We know... it is impossible to teach this via a blog. That's why we built Penny Finance. Our app shows you how, instead. Because, how can you actually apply this info to your ever-changing life? 
 
-Are your eyes glazing over? We know... its impossible to teach via a blog. That's why we built Penny. Our app shows you how, instead. Because, how can you actually apply this info to your ever-changing life? 
+### [Phew, Show me how plz ](www.penny-finance.com/quiz)
 
-##### [Phew, Show me how plz ](www.penny-finance.com/quiz)
+If you are into this and can learn this way, keep reading!!! 
 
-##### [Actually, I am into this, explain the difference between 401ks and IRAs plz! ](<Link to 401k blog>)
+# What is the difference between a 401k and an IRA?
+
+They are both retirement accounts. They both have tax benefits. They are both great for saving and investing. They both can’t be touched until you are ~60.
+
+> The difference is in who set it up. A 401k was set up 4 you. An IRA was set up by you.\
+> Did you set it up or did your company set it up for you?
+
+#### IRA: Individual Retirement Account
+
+There are two types of IRA accounts: Roth IRA and Traditional IRA.
+
+Both are accounts you can set up on your own. Both offer you more ownership, options and flexibility on how you want to invest your money compared to a 401k.
+
+The main difference is whether you pay less taxes today (Traditional IRA) or less taxes later (Roth IRA).
+
+If you’re on the fence about which account to open, get both!
+
+You can contribute to both a Roth IRA and a Traditional IRA, for a maximum of $6,000 combined if you’re under 50. Even if you start investing only $100 into each, you really can’t go wrong.
+
+#### 401k: Money 4 You
+
+If your company set up a retirement account for you, you probably have a 401k. These accounts are named after the tax codes that brought them about. You might feel like there’s a million different accounts that start with 4, but remember – if it starts with 4, it’s a benefit 4 you. Easy, right?
+
+The biggest benefit for the 401k compared to IRAs? More money, more savings. 
+
+You have a much higher contribution margin: you can deposit up to $19,500 per year in a 401k. More money invested means extra money for you to enjoy in the future.
+
+* Your employer may top-up your contributions AKA match (double the money = more money in your pocket)
+* You have a higher contribution limit (more money invested = more money in your pocket)
+* You pay less taxes today (you guessed it – more money in your pocket)
+
+At this point, you might be wondering why anyone would get an IRA if the 401k is so great.
+
+More benefits, more rules. There are limitations around what you can invest in. If you were excited about investing on your own at your favorite bank, the 401k won’t give you that choice. You’ll have a menu of investment options, and you’ll need to stick with the bank your company picked. At first glance, this feels like a downer. What happened to your money, your rules, right? 
+
+In reality, the 401k still wins. Having a menu to choose from makes investing much easier. And these menu options aren’t just picked at random – they are carefully curated to give you the best bang for your buck. Instead of trying to figure out which investment options are better in an IRA, you can pick from a curated menu of choices in the 401k and focus on saving money (and time, cuz someone else already did the homework for you!) 
+
+# Can I have both? Do I need to choose?
+
+Yep. You can have the cake and eat it, too. You can have both a 401k and an IRA, and contribute money to both within the same year. That being said, there are rules around how much money you can add to these accounts and limits on how much you can invest and/or withdraw later. If you’re not ready to dive in, the easiest way to start is one step at a time. Open one account. Get the hang of it. Open more later. Your 50-year-old self will be grateful you did.
+
+#### What if I have an account that isn’t a 401k or IRA, but I think it’s a retirement account?
+
+Totally possible! If you work for the government or for a school, you might have a 403b or 457. Again, if it starts with a 4, it’s a benefit 4 you. If you work for a small business or entrepreneur you might have a SEP IRA. Also great.  All of these accounts provide amazing savings and tax advantages.
+
+Money tip: If your account statement just says your name on it, like “Jane Smith” and / or you can withdraw money without any \*major\* warnings that you are about to “distribute” or incur tax bill – then it isn’t a retirement account.
+
+# What if I don’t have an account, which type of retirement account is best for me?
+
+If your employer offers a plan, start there. They can help set up a 401k or similar account 4 you, and even match your contributions.
+
+If your employer doesn’t offer a plan, you have 2 options: a traditional IRA or a Roth IRA. Generally speaking, you can’t go wrong with either. If you are 20 to 30 years old, a Roth IRA will most likely have the greatest financial benefit.
+
+However, without going through your full situation (your age, your tax bracket, your salary, your employment status) it is hard to make a blanket recommendation.
+
+There’s no one-size-fits-all recommendation to finances. And there shouldn’t be. You have goals and dreams you want to achieve. Your money matters. And you need a financial plan that is personalized to you. Not a blanket recommendation that may or may not help you save more.
+
+That is why we made Penny. Our intelligent calculators will determine the best option for you, with you, powered by you. 
+
+##### [Start investing in yourself today. ](www.penny-finance.com)
