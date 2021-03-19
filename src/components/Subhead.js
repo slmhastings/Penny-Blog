@@ -1,14 +1,11 @@
-import React from "react"
-import pennycircle1 from "/Users/sequonaprof/Penny_Finance/Blog-Penny/content/assets/pennycircle1.png"
+import React from 'react'
+
 
 function Subhead() {
   return (
-    <div class="subhead">
-      <h5 style={{
-        textAlign:"center",
-        fontSize:"xx-large"
-      }}>Check out our latest articles on HOW to money</h5>
-      <img src={pennycircle1} />
+    <div class='subhead'>
+      
+      <img src='/img/subheadblog.png' alt='check out latest articles on HOW to money'/>
       
     </div>
   )

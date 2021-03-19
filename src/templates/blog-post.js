@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
+
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -42,6 +43,7 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
+      
     </section>
   )
 }

@@ -30,7 +30,9 @@ export default class BlogIndexPage extends React.Component {
           </h1>
         </div>
         <Subhead />
-        <section className="section">
+        <section className="section" style={{
+          padding: '4rem 1.5rem'
+        }}>
           <div className="container">
             <div className="content">
               <BlogRoll />
