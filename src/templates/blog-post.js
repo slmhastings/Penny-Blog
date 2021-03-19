@@ -6,7 +6,6 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -19,6 +18,7 @@ export const BlogPostTemplate = ({
 
   return (
     <section className="section">
+    
       {helmet || ''}
       <div className="container content">
         <div className="columns">
@@ -43,7 +43,6 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
-      
     </section>
   )
 }
