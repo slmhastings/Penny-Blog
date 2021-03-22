@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The 10 Terms You'll See in Your Job Offer
+title: The 10 terms you'll see in your job offer
 date: 2021-03-15T14:00:00.000Z
 description: |
   
