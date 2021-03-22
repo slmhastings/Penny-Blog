@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import Authorfooter from '../components/Authorfooter'
+
 
 export const BlogPostTemplate = ({
   content,
@@ -78,7 +78,6 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
-      <Authorfooter />
     </Layout>
   )
 }

@@ -4,6 +4,8 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 import Scroller from '../components/Scroller'
+import Authorfooter from '../components/Authorfooter'
+
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
@@ -49,6 +51,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <div>{children}</div>
       <Scroller />
+      <Authorfooter />
     </div>
   )
 }
