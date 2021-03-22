@@ -1,10 +1,8 @@
 ---
 templateKey: blog-post
-title: What money advice would you give your younger self?
+title: What money advice would you give your younger self? The investing edition.
 date: 2021-03-22T14:00:00.000Z
-description: |
-  Lived experience from real women in their 30s
-  ~Investing Edition~
+description: Lived experience from real women in their 30s
 featuredpost: true
 featuredimage: /img/blog-title.jpg
 ---
