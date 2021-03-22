@@ -24,7 +24,7 @@ When you know what you are working with, you can make better decisions that suit
 
 We promised we’d show you how. 
 
-Here are 3 anonymous women’s budgets, with notes, to give you more perspective on the mini budget method, and how to tweak it to make it all work for you.
+**Here are 3 anonymous women’s budgets, with notes, to give you more perspective on the mini budget method, and how to tweak it to make it all work for you.**
 
 # **Money Maker 1 - Hometown Gal**
 
@@ -166,19 +166,11 @@ P.S. We've built these calcs into our app, if you wanna [get your personal numbe
 
 We are SO proud of this gal! She’s making bank AND being extra-mindful of expenses.
 
-
-
 Surprised we didn’t tell her to cut out Spotify, shopping, or personal care? Girl, you’re here to enjoy life, not hate it. 
-
-
 
 This is what we mean by mindful spending vs traditional budgeting. 
 
-
-
 Your Spotify subscription, in the grand scheme of things, won’t break the bank. That’s one of the biggest counter-intuitive [money secrets no one tells you](<money things no one tells you>). 
-
-
 
 But to anyone who thinks buying a home is the end-all, be-all of life: DON’T. 
 
@@ -207,7 +199,7 @@ Rent*
 
 $2,000
 
-this is a lot – start looking for a roommate or rent out your apt on Airbnb for a month to help cover expenses
+this is a lot – start looking for a roommate OR rent out your apt on Airbnb for a month to help cover expenses OR find a cheaper place in a different neighboorhood OR ask your landlord for a concession when you sign next year's lease (they won't have to paint, repair, find another renter, etc)
 
 \---
 
@@ -215,11 +207,11 @@ Student loans
 
 $300
 
-triple check this is the minimum payment, and that it covers interest – if it’s more than you need to pay, drop it down, for now 
+triple check this is the **minimum payment**, and that it covers interest – if it’s more, drop it down to the min payment, for now (ONLY because you are negative, normally we'd want you paying ABOVE the minimum payment all-damn-day)
 
 \---
 
-Health Insurance
+Health Insurance*
 
 $300
 
@@ -227,15 +219,15 @@ gotta have insurance
 
 \---
 
-Subway
+Subway*
 
 $100
 
-gotta get to work (but if this was uber/taxi, would cut that out)
+gotta get to work (but if this was uber/taxi, would opt for public transport if possible)
 
 \---
 
-Cell phone
+Cell phone*
 
 $120
 
@@ -243,11 +235,11 @@ gotta have a phone – keep an eye out for a promo!
 
 \---
 
-Food
+Food*
 
 $500
 
-gotta eat – but if this includes eating out, think about how often you go, how much you spend, and if there are alternatives you can fit into your lifestyle instead
+gotta eat – but if this includes eating out, think about how often you go out, how much you spend, and if there are alternatives you can fit into your lifestyle instead
 
 \---
 
@@ -255,7 +247,7 @@ Self-care
 
 $100
 
-you can try to cut out or do every other month, but how else are you going to survey in the big city, mental health is #1 priority 
+you can try to cut out or do every other month, but how else are you going to survive in the big city, mental health is #1 priority 
 
 \---
 
@@ -263,7 +255,7 @@ Shopping
 
 $150
 
-you can try to lower this a tad but even if you do Rent the runway or build a capsule wardrobe, it’ll cost you at aleast this #.... so focus on feeling confident when you walk into work with the most classic pieces that you can mix&match
+you can try to lower this a tad but even if you do Rent the Runway or build a capsule wardrobe, it’ll cost you at at least this #.... so focus on feeling confident when you walk into work with the most classic pieces that you can mix&match
 
 \---
 
@@ -271,10 +263,10 @@ Misc expenses
 
 $180
 
-This you want to be mindful of – think, laundry detergent, tampons, random household stuff... Before you know it, you just bought 2 books, a picture frame, and scrunchies on Amazon – sh!t adds up fast!
+this you want to be mindful of – think, laundry detergent, tampons, random household stuff – those are the essentials. BUT sometimes, before you know it, you just bought 2 books, a picture frame, and scrunchies on Amazon – sh!t adds up fast! 
 
 \
-Super-saver tip – put misc stuff on a separate credit card so you can really see where $ goes to waste. Don’t try to budget $50 or less, you’ll go over every single time and feel like crap. Instead, pay closer attention to what you’re spending on and stick to a number that’s actually realistic.
+*super-saver tip* – put misc stuff on a separate credit card so you can really see where $ goes to waste. Don’t try to budget $50 or less, you’ll go over every single time and feel like crap. Instead, pay closer attention to what you’re spending on and stick to a number that’s actually realistic.
 
 \---
 
@@ -282,8 +274,172 @@ Travel
 
 $0
 
-use credit card points to book a trip! 
+ya, bummer, sry girl. can you use your credit card points to book a trip?! 
+
+OK what does this all add up to? 
+
+> **$3,750** per month total 
+>
+> (aka $45K annually)
+>
+> **$3,020** per month are \*must-pay\* items -- we put a * next to those
+>
+> (that means we want your emergency savings to be about **$18k** before makin any other money moves. but now that is going to be truly impossible with more expenses than income... soooo.... now what?)
+
+THESE ARE REAL NUMBERS. No shame in any of it. 
+
+Sometimes you are in the red. And it’s ok.
 
 
 
-$3,750 per month
+Now, if most of these expenses are justified, how do you deal with the negative balance?
+
+
+
+
+
+**Option 1: Extra income of $250 a month**  \[see ideas below]
+
+**Option 2: Cut something out that gives you back $250 a month** \[from above, eating out or student loan pmt seem to be good spots to look]
+
+**Option 3: 0% credit cards** \[if you are going to find a new apt and reduce rent, and just need a temporary solution]
+
+
+
+
+
+Our biggest tip for this city gal is NOT to create a super strict budget that you are not going to stick to. That only makes your guilt-trip worse when you fall off the wagon. Life happens. We don’t want you to feel restricted with your money, even in the red.
+
+
+
+
+
+If you know that you should get a pay raise, or will find a roommate the next year, it is OK to bridge the gap for the short-term with a 0% credit card. But if this is your monthly total, every month, pause. 
+
+Yup. Scary. Not ideal. Credit card fees are a slippery slope that will snowball your negative balance at a ridiculously fast rate. At the end of the day, you may find yourself in a scary situation where you can’t fund your life. 
+
+See what you can part with or change – and which habits you can add to help fund this $2k apartment. [We made a list to get you started](<mindful spending>). 
+
+# **Money Maker 3 - Metropolitan Gal**
+
+This money maker lives in the outskirts of a major city, is a car-owner, freelancer and her own boss working for herself (amen to that) 
+
+> **$40,000 income** >> when income is not guaranteed or ebbs and flows, its \*really\* important to know your numbers inside and out
+>
+> **$5,000 taxes** >> remember, when you are an entreprenuer or freelancer, no one is setting aside tax money for you, pllssss don't forget that or tax day will really suck. also, you can deduct some biz expenses to save on taxes, save those receipts!!! 
+>
+> **$27,500 expenses** >> a thrifty babe, look at you.  
+
+$40,000 - $5,000 - $38,000 = **$7.5k left to play** 
+
+\
+rent
+
+$1,000
+
+sweet! 
+
+food
+
+$400
+
+gotta eat
+
+gas 
+
+$100
+
+gotta get to work
+
+spotify 
+
+$11
+
+again, we love music – super saver tip, check out Spotify’s duo plan that is 2 for 1 to cut this in half – obviously doesn’t break the bank, but save where ya can
+
+cellphone 
+
+$60
+
+damn girl – who is your carrier?? 
+
+car insurance 
+
+$50
+
+gotta protect yourself
+
+car registration
+
+$9
+
+yup – the little things – you don’t have to track all the one-off things like this, but if you do, we are here for it ☺
+
+apartment insurance
+
+$11
+
+yes – super affordable and worth it 
+
+electric 
+
+$25
+
+gotta live
+
+internet
+
+$49
+
+yup.
+
+therapy 
+
+$75
+
+yes yes yes 
+
+travel
+
+$300
+
+see what happens when you have low-ish rent! amazing
+
+health insurance
+
+$200
+
+of course, gotta have this
+
+$2,290 per month (wow, impressive!) 
+
+\
+We are so proud of this metropolitan gal! 
+
+
+
+This is a perfect example of how it doesn’t matter what you make – this money maker has the lowest salary, but also the lowest expenses. She chose to live outside the heart of the city and saved big time on rent. Now she has a car, so that helps tons. 
+
+
+
+This is an ideal situation – with looots left over to stock away, invest, and save for bigger projects and whatever-you-want spending money. 
+
+
+
+It’s not always easy, especially when you are just starting out. One-off expenses come up all the time. Think – moving to your next apt, the friend that is getting married, or those shoes you really, really want. 
+
+
+
+It’s all about your priorities and knowing your numbers.
+
+
+
+
+
+Here is what we did -- so you can do it too! 
+
+1. Write it all down – what comes in, what goes out, including future big expenses you might have to save for (like your bff’s bday gift or family wedding)
+2. Add it up! – and don’t shy away if it’s red, we’re here for you girl!
+3. Think about where you’re spending, and what you’re spending on – are these items all “must haves” or are some a “good to have”? 
+
+P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, and calculate the numbers. Take our money maker quiz [here](www.penny-finance.com/quiz)!
