@@ -30,6 +30,7 @@
     "react-dom": "^16.8.4",
     "react-helmet": "^6.0.0",
     "react-icons": "^4.2.0",
+    "react-instagram-embed": "^2.0.0",
     "uuid": "^7.0.0"
   },
   "keywords": [

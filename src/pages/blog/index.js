@@ -4,6 +4,8 @@ import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
 
 
+
+
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
@@ -11,7 +13,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blogbanner.png')`,
+            backgroundImage: `url('/img/blogbanner1.png')`,
           }}
         >
         </div>
@@ -24,6 +26,7 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
+        
       </Layout>
     )
   }
