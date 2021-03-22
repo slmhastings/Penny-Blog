@@ -5,6 +5,10 @@ date: 2021-02-15T15:00:00.000Z
 description: "Make your money work for you with real-life examples. "
 featuredpost: true
 featuredimage: /img/image-1-13.jpg
+tags:
+  - Budget
+  - Spending
+  - Women
 ---
 We \*love\* real-life financial advice. It’s always – Save 20% of your income, Never spend over 30% on rent, Keep 5% for retirement… How the heck do you action that? Yeah, not happening. 
 
@@ -332,86 +336,120 @@ This money maker lives in the outskirts of a major city, is a car-owner, freelan
 
 $40,000 - $5,000 - $38,000 = **$7.5k left to play** 
 
+OK lets look at her expenses, because, we really wanna know how she is saving!  
+
 \
-rent
+Rent*
 
 $1,000
 
 sweet! 
 
-food
+\---
+
+Food*
 
 $400
 
 gotta eat
 
-gas 
+\---
+
+Gas* 
 
 $100
 
 gotta get to work
 
-spotify 
+\---
+
+Spotify 
 
 $11
 
 again, we love music – super saver tip, check out Spotify’s duo plan that is 2 for 1 to cut this in half – obviously doesn’t break the bank, but save where ya can
 
-cellphone 
+\---
+
+Cellphone* 
 
 $60
 
 damn girl – who is your carrier?? 
 
-car insurance 
+\---
+
+Car insurance* 
 
 $50
 
 gotta protect yourself
 
-car registration
+\---
+
+Car registration*
 
 $9
 
-yup – the little things – you don’t have to track all the one-off things like this, but if you do, we are here for it ☺
+yup – the little things – you don’t have to track all the one-off things like this, but if you do, we are here for it 
 
-apartment insurance
+\---
+
+Apartment insurance*
 
 $11
 
 yes – super affordable and worth it 
 
-electric 
+\---
+
+Electric* 
 
 $25
 
 gotta live
 
-internet
+\---
+
+Internet*
 
 $49
 
 yup.
 
-therapy 
+\---
+
+Therapy 
 
 $75
 
 yes yes yes 
 
-travel
+\---
+
+Travel
 
 $300
 
 see what happens when you have low-ish rent! amazing
 
-health insurance
+\---
+
+Health insurance*
 
 $200
 
 of course, gotta have this
 
-$2,290 per month (wow, impressive!) 
+OK what does this all add up to? 
+
+> **$2,290** per month total 
+>
+> (aka $27.5K annually)
+>
+> **$1,900** per month are \*must-pay\* items -- we put a * next to those
+>
+> (that means we want your emergency savings to be about **$11k** before makin any other money moves, and guess what, you'll hit that number in a year from what you have left over, impressive!)
 
 \
 We are so proud of this metropolitan gal! 
@@ -432,9 +470,9 @@ It’s not always easy, especially when you are just starting out. One-off expen
 
 It’s all about your priorities and knowing your numbers.
 
-
-
-
+###### \
+\
+Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
 
 Here is what we did -- so you can do it too! 
 
@@ -442,4 +480,9 @@ Here is what we did -- so you can do it too!
 2. Add it up! – and don’t shy away if it’s red, we’re here for you girl!
 3. Think about where you’re spending, and what you’re spending on – are these items all “must haves” or are some a “good to have”? 
 
-P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, and calculate the numbers. Take our money maker quiz [here](www.penny-finance.com/quiz)!
+P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, get you trackin, and figure out a plan. We've got you (and your wallet). Take our money maker quiz [here](www.penny-finance.com/quiz)! 
+
+Budgeting doesn’t have to be this painful exercise that makes you want to crawl under the covers. This post shows you [how to make it easy, step-by-step](<mini budget>). 
+
+**\
+Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](<mindful spending>).**
