@@ -8,15 +8,15 @@ description: |
 
   Time to celebrate! – Wait. What are all of these words? And what do they mean?
 featuredpost: true
-featuredimage: /img/8618ae8a82491781dcdb38d044081c41.jpg
+featuredimage: /img/giphy.gif
 tags:
   - career
   - money
   - benefits
 ---
-![](/img/8618ae8a82491781dcdb38d044081c41.jpg)
+![](/img/giphy.gif)
 
-Source: Pinterest
+📷 Source: Giphy
 
 #### If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
 
