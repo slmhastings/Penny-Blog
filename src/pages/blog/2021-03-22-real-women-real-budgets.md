@@ -468,11 +468,9 @@ It’s not always easy, especially when you are just starting out. One-off expen
 
 
 
-It’s all about your priorities and knowing your numbers.
-
-###### \
-\
-Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
+> It’s all about your priorities and knowing your numbers.\
+> \
+> Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
 
 Here is what we did -- so you can do it too! 
 
