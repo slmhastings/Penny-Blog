@@ -72,6 +72,7 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6053ebc2c1ceb6a9"></script>
           </Helmet>
         }
         tags={post.frontmatter.tags}
