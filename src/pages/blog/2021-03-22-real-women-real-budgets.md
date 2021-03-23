@@ -14,10 +14,6 @@ We \*love\* real-life financial advice. It’s always – Save 20% of your incom
 
 Full disclosure: We don’t love “budgeting” in the traditional sense. Budgeting implies you have to cut things out. And who wants to do that? Nobody. (us included)
 
-![](/img/image-1-13.jpg)
-
-📷 Credit: Pinterest 
-
 We think of budgeting differently. Our mini budget method helps you think big picture. It’s a learning exercise that promotes mindful spending (and stops letting the small stuff weigh you down).
 
 [Check out our mini-budget method ](<mini budget blog posts>)
@@ -294,13 +290,7 @@ THESE ARE REAL NUMBERS. No shame in any of it. 
 
 Sometimes you are in the red. And it’s ok.
 
-
-
 Now, if most of these expenses are justified, how do you deal with the negative balance?
-
-
-
-
 
 **Option 1: Extra income of $250 a month**  \[see ideas below]
 
@@ -308,15 +298,7 @@ Now, if most of these expenses are justified, how do you deal with the negative 
 
 **Option 3: 0% credit cards** \[if you are going to find a new apt and reduce rent, and just need a temporary solution]
 
-
-
-
-
 Our biggest tip for this city gal is NOT to create a super strict budget that you are not going to stick to. That only makes your guilt-trip worse when you fall off the wagon. Life happens. We don’t want you to feel restricted with your money, even in the red.
-
-
-
-
 
 If you know that you should get a pay raise, or will find a roommate the next year, it is OK to bridge the gap for the short-term with a 0% credit card. But if this is your monthly total, every month, pause. 
 
@@ -454,19 +436,11 @@ OK what does this all add up to?
 \
 We are so proud of this metropolitan gal! 
 
-
-
 This is a perfect example of how it doesn’t matter what you make – this money maker has the lowest salary, but also the lowest expenses. She chose to live outside the heart of the city and saved big time on rent. Now she has a car, so that helps tons. 
-
-
 
 This is an ideal situation – with looots left over to stock away, invest, and save for bigger projects and whatever-you-want spending money. 
 
-
-
 It’s not always easy, especially when you are just starting out. One-off expenses come up all the time. Think – moving to your next apt, the friend that is getting married, or those shoes you really, really want. 
-
-
 
 > It’s all about your priorities and knowing your numbers.\
 > \
