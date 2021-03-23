@@ -6,9 +6,9 @@ description: Lived experience from real women in their 30s
 featuredpost: true
 featuredimage: /img/blog-title.jpg
 ---
-![](/img/blog-title.jpg)
 
-📷 Credit: Pinterest
+
+
 
 We asked women in their 30s: what do they wish they did differently with their money and finances in their 20s? 
 
