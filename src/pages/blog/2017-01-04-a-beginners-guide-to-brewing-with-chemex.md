@@ -12,10 +12,6 @@ tags:
   - 401k
   - IRA
 ---
-![](/img/f8c805a12ffcc6f26ddd0301a01f7134-1.jpg)
-
-Credit: Pinterest
-
 The financial industry isn’t hard, it was set up to be hard. And one thing that is unnecessarily hard are the names of financial things.
 
 Sometimes it feels like a group of kids woke up one day and said, you know what we should do? We should create code names for all of these cool investments that can help you save more money, so nobody else can play this game with us. Well, no more of that.
