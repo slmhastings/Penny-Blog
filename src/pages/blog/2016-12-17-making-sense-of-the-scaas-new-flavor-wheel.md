@@ -8,7 +8,7 @@ description: >-
 
   Have you ever felt like despite how much you work, work, work… Your money isn’t working for you?
 featuredpost: true
-featuredimage: /img/giphy-2.gif
+featuredimage: /img/screen-shot-2021-03-23-at-2.38.26-pm.png
 tags:
   - Money
   - Saving
@@ -23,10 +23,6 @@ We need to build a new way for women to reach and exceed their male peers in fin
 The things NO ONE tells you.\
 The things that actually help you and your money grow.\
 The things the boys are doing that we are not.
-
-![](/img/giphy-2.gif)
-
-Giphy
 
 # MYTH: YOU NEED TO MAKE MORE MONEY
 
@@ -78,7 +74,7 @@ Let’s say you put away $1K in your savings account. At the end of the year, yo
 
 And the earlier you start investing, the more chances it has to snowball into 2x, 3x, 4x your savings. Meaning you can actually save less (and have more money to spend today) and still hit that million-dollar goal before you’re 70.
 
-Oh, and by the way, women are \*really\* good investors. [This study](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds) [Link to study URL <https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds>]  from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
+Oh, and by the way, women are \*really\* good investors. [This study](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds) \[Link to study URL <https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds>]  from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
 
 Investing is the answer. We’ll show you how \[Link to products page]
 
