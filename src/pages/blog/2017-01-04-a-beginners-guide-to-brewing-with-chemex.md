@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 title: 401k, IRA, WTF
 date: 2021-03-15T14:00:00.000Z
 description: |-

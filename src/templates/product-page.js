@@ -148,43 +148,43 @@ ProductPage.propTypes = {
 
 export default ProductPage
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      frontmatter {
-        title
+// export const productPageQuery = graphql`
+//   query ProductPage($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       frontmatter {
+//         title
         
-        heading
-        description
-        intro {
-          blurbs {
+//         heading
+//         description
+//         intro {
+//           blurbs {
             
-            text
-          }
-          heading
-          description
-        }
-        main {
-          heading
-          description
+//             text
+//           }
+//           heading
+//           description
+//         }
+//         main {
+//           heading
+//           description
           
-        }
-        testimonials {
-          author
-          quote
-        }
+//         }
+//         testimonials {
+//           author
+//           quote
+//         }
         
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
-      }
-    }
-  }
-`
+//         pricing {
+//           heading
+//           description
+//           plans {
+//             description
+//             items
+//             plan
+//             price
+//           }
+//         }
+//       }
+//     }
+//   }
+// `
