@@ -8,16 +8,12 @@ description: |
 
   Time to celebrate! – Wait. What are all of these words? And what do they mean?
 featuredpost: true
-featuredimage: /img/giphy.gif
+featuredimage: /img/screen-shot-2021-03-23-at-2.35.59-pm.png
 tags:
   - career
   - money
   - benefits
 ---
-![](/img/giphy.gif)
-
-📷 Source: Giphy
-
 #### If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
 
 #### At Penny, we’re all about making complicated lingo… Un-complicated. 
