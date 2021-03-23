@@ -19,10 +19,6 @@ Sharing the wisdom. Because that’s what we do. 
 
 And we can’t argue with that!
 
-![](/img/8caa69536218d131d95690caaa8f3562.jpg)
-
-📷 Credit: Pinterest
-
 # Enjoy your life while you can - you earned that money so have fun with it!
 
 "1. Save my money for 1 nicer bag, dress, shoes, etc instead of buying tons of cheap crap that ended up costing me more (btw dates won’t notice and friends won’t care if you wear the same thing twice) 2. Every time I bought a $5 coffee, put $5 in my savings account at the same moment. 3. Learned about the stock market even at the elementary level by forcing myself to buy literally 2 shares of something 4. Not feeling guilting about an expensive night out, you earned that money so have fun with it” **Meghan, 32**
