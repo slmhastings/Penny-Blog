@@ -1,5 +1,5 @@
 import React from 'react'
-import authorfooter from '/Users/sequonaprof/Penny_Finance/Penny-Blog/public/img/authorfooter.png'
+import authorfooter from '../../static/img/authorfooter.png'
 
 
 function Authorfooter() {
