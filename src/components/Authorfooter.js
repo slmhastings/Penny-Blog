@@ -13,14 +13,11 @@ function Authorfooter() {
         }}
         src={authorfooter} />
       </div>
-      <div>
-      <a href="something" style={{
-        border: 'solid',
-        fontFamily: 'Hatton semibold',
-        fontWeight: '400',
-        color: '#545454'
-
-      }}>take me to the courses</a>
+      <div class='main-button'
+      style={{
+        padding: '25px'
+      }}>
+      <a class="courses" href="/">take me to the courses</a>
       </div>
       
     </div>

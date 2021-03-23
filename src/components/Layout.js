@@ -3,7 +3,6 @@ import { Helmet } from 'react-helmet'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
-import Scroller from '../components/Scroller'
 
 
 
@@ -50,7 +49,6 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <div>{children}</div>
-      <Scroller />
 
     </div>
   )

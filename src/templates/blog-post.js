@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import Authorfooter from '../components/Authorfooter'
+import Scroller from '../components/Scroller'
 
 
 export const BlogPostTemplate = ({
@@ -22,8 +23,13 @@ export const BlogPostTemplate = ({
     <section className="section">
     
       {helmet || ''}
+      <Link to='/' style={{
+        padding: '25px'
+      }}>money makin' doesn't have to be so hard</Link>
       <div className="container content">
-        <div className="columns">
+        <div className="columns" style={{
+          margin: '10px'
+        }}>
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
@@ -80,6 +86,7 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
+      <Scroller />
       <Authorfooter />
     </Layout>
   )

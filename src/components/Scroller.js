@@ -1,9 +1,10 @@
 import React from "react"
+import moneyscroller from '../../static/img/moneyscroller.png'
 
 function Scroller() {
   return (
     <div className="marquee">
-      <h1>makin' money moves</h1>
+      <img src={moneyscroller}></img>
     </div>
   )
 }

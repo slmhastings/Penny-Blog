@@ -45,7 +45,7 @@ body
 // Helper Classes
 .full-width-image-container
   width: 100vw
-  height: 400px
+  height: 471px
   position: relative
   left: 50%
   right: 50%
@@ -156,13 +156,15 @@ $menu-label-color: $white-ter
 
 
 
-.marquee h1
+.marquee
   font-family: Hatton semibold
   font-size: 95px
   color: rgb(99, 124, 118)
   display: inline-block
   padding-left: 25%
+  padding-bottom: 0px
   padding: 55px
+  margin: -88px
   animation: marquee 10s linear infinite
 
 @keyframes marquee
@@ -198,6 +200,36 @@ html
 
 .author-footer
   text-align: center
+
+.courses
+  border: .5em solid
+  font-family: Hatton semibold
+  font-weight: 400
+  color: #545454
+  padding: 10px
+  background-color: #E2D2CF
+  border-color: #637C76
+  animation: bouncy 2s infinite linear
+  position: relative
+
+@keyframes bouncy
+  0%
+    top: 0em
+  40%
+    top: 0em
+  43%
+    top: -0.9em
+  46%
+    top: 0em
+  48% 
+    top: -0.4em
+  50% 
+    top: 0em
+  100%
+    top: 0em
+  
+
+   
 
 
 
