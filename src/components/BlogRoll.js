@@ -29,7 +29,9 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
+                  <p className="post-meta" style={{
+                    fontFamily: 'Harmattan'
+                  }}>
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
@@ -42,14 +44,15 @@ class BlogRoll extends React.Component {
                     </span>
                   </p>
                 </header>
-                <p>
+                <p style={{
+                  fontFamily: 'Harmattan',
+                  fontSize: '20px',
+                  fontWeight: 'bold'
+                }}>
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link style={{
-                    color: '#545454',
-                    backgroundColor: '#F1A599'
-                  }}className="button" to={post.fields.slug}>
+                  <Link className="button" to={post.fields.slug}>
                     Keep Reading →
                   </Link>
                 </p>

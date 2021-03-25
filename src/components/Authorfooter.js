@@ -9,7 +9,8 @@ function Authorfooter() {
       <div>
         <img style={{
           margin: '0px',
-          maxWidth: '88%'
+          maxWidth: '88%',
+          marginTop: '-32px'
         }}
         src={authorfooter} />
       </div>
