@@ -7,6 +7,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import Authorfooter from '../components/Authorfooter'
 import Scroller from '../components/Scroller'
+import pennyicon from '../../public/img/pennyfinanceicon.png'
  
 
 
@@ -24,13 +25,23 @@ export const BlogPostTemplate = ({
     <section className="section">
     
       {helmet || ''}
-      <Link to='/' style={{
-        padding: '25px',
-        fontFamily: 'Harmattan',
-        fontSize: '20px',
-        color: '#637C76',
-        fontWeight: '600'
-      }}>money makin' doesn't have to be so hard </Link>
+      <div>
+        <Link to='/' style={{
+          padding: '25px',
+          fontFamily: 'Harmattan',
+          fontSize: '20px',
+          color: '#637C76',
+          fontWeight: '600'
+        }}><img src={pennyicon} style={{
+          height: 'auto',
+          maxWidth: '20%',
+          display: 'inline-block',
+          verticalAlign: 'middle',
+          transition: 'all 0.3s ease-out',
+          width: '11%'
+        }}></img> | money makin' doesn't have to be so hard 
+        </Link>
+      </div>
       <div className="container content">
         <div className="columns" style={{
           margin: '10px'
