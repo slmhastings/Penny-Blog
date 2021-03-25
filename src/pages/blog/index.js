@@ -12,10 +12,8 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
         <div
           className="full-width-image-container margin-top-0"
-          style={{
-            backgroundImage: `url('/img/blogbanner1.png')`,
-          }}
         >
+          <img className="full-width-image" src="/img/blogbanner1.png"></img>
         </div>
         <section className="section" style={{
           padding: '4rem'

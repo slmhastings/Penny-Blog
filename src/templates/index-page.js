@@ -3,6 +3,7 @@ import React from "react"
 import Layout from '/src/components/Layout.js'
 import BlogRoll from '/src/components/BlogRoll.js'
 import Scroller from '../components/Scroller'
+import Footer from '../components/Footer'
 
 
 
@@ -30,6 +31,7 @@ export default class BlogIndexPage extends React.Component {
           </div>
         </section>
         <Scroller />
+        <Footer />
       </Layout>
     )
   }

@@ -7,6 +7,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import Authorfooter from '../components/Authorfooter'
 import Scroller from '../components/Scroller'
+import pennyicon from '../../public/img/pennyfinanceicon.png'
 
 
 export const BlogPostTemplate = ({
@@ -29,7 +30,7 @@ export const BlogPostTemplate = ({
         fontSize: '20px',
         color: '#637C76',
         fontWeight: '600'
-      }}>money makin' doesn't have to be so hard</Link>
+      }}>money makin' doesn't have to be so hard <img src={pennyicon}></img></Link>
       <div className="container content">
         <div className="columns" style={{
           margin: '10px'
@@ -41,7 +42,7 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>

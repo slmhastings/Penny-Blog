@@ -18,7 +18,7 @@ function Authorfooter() {
       style={{
         padding: '25px'
       }}>
-      <a class="courses" href="/">take me to the courses</a>
+      <a class="courses" href="https://penny-finance.com/">take me to the app</a>
       </div>
       
     </div>
