@@ -8,6 +8,7 @@ import Content, { HTMLContent } from '../components/Content'
 import Authorfooter from '../components/Authorfooter'
 import Scroller from '../components/Scroller'
 import pennyicon from '../../public/img/pennyfinanceicon.png'
+import Footer from '../components/Footer'
  
 
 
@@ -108,6 +109,7 @@ const BlogPost = ({ data }) => {
       />
       <Scroller />
       <Authorfooter />
+      <Footer />
     </Layout>
   )
 }

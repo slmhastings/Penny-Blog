@@ -6,72 +6,112 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import pennyicon from '../../public/img/pennyfinanceicon.png'
 
 const Footer = class extends React.Component {
   render() {
     return (
-      <div class="container">
-        <section style={{height: '80px'}}></section>
-	      <div class="row" style={{textAlign:"center"}}>
-		    <h2>Bootstrap Dark Footer UI</h2>
-	      </div>
-    
-        <footer class="footer-bs">
-          <div class="row">
-        	  <div class="col-md-3 footer-brand animated fadeInLeft">
-            	<h2>Logo</h2>
-                <p>Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies. Curabitur vehicula, libero eget faucibus faucibus, purus erat eleifend enim, porta pellentesque ex mi ut sem.</p>
-                <p>© 2014 BS3 UI Kit, All rights reserved</p>
-            </div>
-        	  <div class="col-md-4 footer-nav animated fadeInUp">
-            	<h4>Menu —</h4>
-            	<div class="col-md-6">
-                    <ul class="pages">
-                        <li><a href="#">Travel</a></li>
-                        <li><a href="#">Nature</a></li>
-                        <li><a href="#">Explores</a></li>
-                        <li><a href="#">Science</a></li>
-                        <li><a href="#">Advice</a></li>
-                    </ul>
-                </div>
-            	<div class="col-md-6">
-                    <ul class="list">
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Contacts</a></li>
-                        <li><a href="#">Terms and Condition</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
-            </div>
-        	<div class="col-md-2 footer-social animated fadeInDown">
-            	<h4>Follow Us</h4>
-            	<ul>
-                	<li><a href="#">Facebook</a></li>
-                	<li><a href="#">Twitter</a></li>
-                	<li><a href="#">Instagram</a></li>
-                	<li><a href="#">RSS</a></li>
-                </ul>
-            </div>
-        	  <div class="col-md-3 footer-ns animated fadeInRight">
-            	<h4>Newsletter</h4>
-                <p>A rover wearing a fuzzy suit doesn’t alarm the real penguins</p>
-                <p>
-                  <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Search for..."></input>
-                    <span class="input-group-btn">
-                      <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-envelope"></span></button>
-                    </span>
-                  </div>
-                </p>
-            </div>
+      <footer className="footer has-background-black has-text-white-ter">
+        <div className="content has-text-centered">
+          <img
+            src={pennyicon}
+            alt="Kaldi"
+            style={{ width: '9em', height: 'auto' }}
+          />
         </div>
-        </footer>
-        <section style={{textAlign:"center", margin: "10px auto"}}><p>Designed by <a href="http://princesargbah.me">Prince J. Sargbah</a></p></section>
-
-      </div>
-
+        <div className="content has-text-centered has-background-black has-text-white-ter">
+          <div className="container has-background-black has-text-white-ter">
+            <div style={{ maxWidth: '100vw' }} className="columns">
+              <div className="column is-4">
+                <section className="menu">
+                  <ul className="menu-list">
+                    <li>
+                      <Link to="/" className="navbar-item">
+                        Home
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/about">
+                        About
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/products">
+                        Products
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact/examples">
+                        Form Examples
+                      </Link>
+                    </li>
+                    <li>
+                      <a
+                        className="navbar-item"
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Admin
+                      </a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-4">
+                <section>
+                  <ul className="menu-list">
+                    <li>
+                      <Link className="navbar-item" to="/blog">
+                        Latest Stories
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact">
+                        Contact
+                      </Link>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-4 social">
+                <a title="facebook" href="https://facebook.com">
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="twitter" href="https://twitter.com">
+                  <img
+                    className="fas fa-lg"
+                    src={twitter}
+                    alt="Twitter"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="instagram" href="https://instagram.com">
+                  <img
+                    src={instagram}
+                    alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="vimeo" href="https://vimeo.com">
+                  <img
+                    src={vimeo}
+                    alt="Vimeo"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
     )
   }
 }
 
 export default Footer
+
