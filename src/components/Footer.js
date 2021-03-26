@@ -10,79 +10,65 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer id="footer">
-        <div class="container">
+      <div class="container">
+        <section style={{height: '80px'}}></section>
+	      <div class="row" style={{textAlign:"center"}}>
+		    <h2>Bootstrap Dark Footer UI</h2>
+	      </div>
+    
+        <footer class="footer-bs">
           <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-left text-xl-left text-lg-left text-md-left text-sm-left">
-            {/* <%=image_tag("logo.png")%> */}
-              <p class="footer-para mt-1 gray-2">
-              We’re building the next generation of financial powerhouses — women on the rise, and in charge of their own futures. 
-              </p>
+        	  <div class="col-md-3 footer-brand animated fadeInLeft">
+            	<h2>Logo</h2>
+                <p>Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies. Curabitur vehicula, libero eget faucibus faucibus, purus erat eleifend enim, porta pellentesque ex mi ut sem.</p>
+                <p>© 2014 BS3 UI Kit, All rights reserved</p>
             </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 col-6">
-            <div class="subscribe footer-title">
-              <h4 class="mb-4">support</h4>
+        	  <div class="col-md-4 footer-nav animated fadeInUp">
+            	<h4>Menu —</h4>
+            	<div class="col-md-6">
+                    <ul class="pages">
+                        <li><a href="#">Travel</a></li>
+                        <li><a href="#">Nature</a></li>
+                        <li><a href="#">Explores</a></li>
+                        <li><a href="#">Science</a></li>
+                        <li><a href="#">Advice</a></li>
+                    </ul>
+                </div>
+            	<div class="col-md-6">
+                    <ul class="list">
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Contacts</a></li>
+                        <li><a href="#">Terms and Condition</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
             </div>
-            <ul class="footer-link">
-              <li>
-                <a href="/quiz"> Take our money quiz </a>
-              </li>
-              <li>
-                <a href="#"> Contact us </a>
-              </li>
-              <li>
-                <a href="/privacy"> Privacy policy  </a>
-              </li>
-               <li>
-                <a href="/terms"> Terms of use </a>
-              </li>
-            </ul>
-          </div>
-
-
-          <div class="col-lg-4 col-md-4 col-sm-6 col-6">
-            <div class="subscribe footer-title">
-              <h4 class="mb-4">Money tips delivered to your inbox</h4>
+        	<div class="col-md-2 footer-social animated fadeInDown">
+            	<h4>Follow Us</h4>
+            	<ul>
+                	<li><a href="#">Facebook</a></li>
+                	<li><a href="#">Twitter</a></li>
+                	<li><a href="#">Instagram</a></li>
+                	<li><a href="#">RSS</a></li>
+                </ul>
             </div>
-           <p class="far-away text-left">Far far away, behind the word mountains, far from the countries.</p> 
-           <form>
-            <div class="form-group mb-0 email">
-              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email address"></input>
-              <i class="fas fa-arrow-right" id="send-mail"></i>
+        	  <div class="col-md-3 footer-ns animated fadeInRight">
+            	<h4>Newsletter</h4>
+                <p>A rover wearing a fuzzy suit doesn’t alarm the real penguins</p>
+                <p>
+                  <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search for..."></input>
+                    <span class="input-group-btn">
+                      <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-envelope"></span></button>
+                    </span>
+                  </div>
+                </p>
             </div>
-          </form>
-         
-            <ul class="footer-social pt-5 pb-4 pb-xl-0 pb-lg-0 pb-md-0 social-network">
-              <li>
-                <a href="https://www.instagram.com/startwithapenny" target="_blank">
-                  <i class="fa fa-instagram" title="Instagram"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.linkedin.com/company/69228895" target="_blank">
-                  <i class="fab fa-linkedin-in" title="Linkedin"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/getmoneyempowered" target="_blank">
-                  <i class="fab fa-facebook" title="Facebook"></i>
-                </a>
-              </li>
-              
-            </ul>
-        
-          <p class="text-center join-us">join us</p>
-          </div>
         </div>
+        </footer>
+        <section style={{textAlign:"center", margin: "10px auto"}}><p>Designed by <a href="http://princesargbah.me">Prince J. Sargbah</a></p></section>
 
-
-        <div class="row copyright-border">
-          <div class="col-xl-9 col-lg-9 col-md-8 col">
-            <p class="m-0 pt-3">© 2021 Penny Finance Inc. All Rights Reserved</p>
-          </div>
-        </div>
       </div>
-    </footer>
 
     )
   }

@@ -9,7 +9,7 @@ class BlogRoll extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
     const { markdownRemark: post } = data
-
+    
 
     return (
       <div className="columns is-multiline">

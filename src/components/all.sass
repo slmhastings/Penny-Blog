@@ -15,6 +15,7 @@ body
 
 
 
+
 .navbar .navbar-menu
   box-shadow:none !important
 
@@ -34,7 +35,8 @@ body
     margin: 2px
     vertical-align: text-bottom
     line-height: 13px
-    font-size: 13px
+    font-size: 18px
+    font-color: #545454
     font-weight: 600
     text-align: center
     border-style: solid
@@ -46,12 +48,26 @@ body
 // Helper Classes
 .full-width-image-container
   width: 100vw
-  height: 471px
+  height: 400px
+  position: relative
+  left: 50%
+  right: 50%
+  margin: -1em -50vw
+  background-size: cover
+  background-position: top
+  display: flex
+  justify-content: center
+  align-items: center
   
 
 .full-width-image
-    width: 100%
-    height: auto
+    width: 100vw
+    height: 400px
+    background-size: contain
+    background-position: bottom
+    display: flex
+    justify-content: center
+    align-items: center
   
 
 .btn
@@ -124,8 +140,13 @@ $menu-label-color: $white-ter
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
+  flex-basis: 45%;
   margin: 0 1.5em 0 0;
+
+.blog-list-item.box
+  overflow: auto
+  min-height: 43vh
+  max-height: 44vh
 
 
 @import "~bulma"
@@ -175,8 +196,6 @@ html
   position: relative
   padding: 1.25rem 2.5rem 1.25rem 1.5rem
 
-.title
-  color: #637C76
 
 
 
@@ -188,6 +207,7 @@ html
 
 .is-size-1
   font-size: 6rem
+
 
 .author-footer
   text-align: center
@@ -227,15 +247,130 @@ html
   padding-bottom: calc(0.5em - 1px
   text-align: center
   font-size: 20px
+  bottom: 10px
+  position: absolute
 
 h6
   font-size: 17px
 
-   
+// footer
 
+.logo
+  height: 90px
 
+#footer
+  background: #f1eeee
+  padding: 30px 0px 0px
 
+  .email
+    border-bottom: 2px solid #000
+    position: relative
 
+    input
+      padding: 0px
+      box-shadow: none
+      background: none !important
+      font-size: 32px
+      border: 0px
+      border-radius: 0px
+      width: 92%
 
+  .fa-arrow-right
+    position: absolute
+    right: 0px
+    top: 20px
+    font-size: 30px
 
-  
+p
+  &.footer-para, &.far-away
+    line-height: 16px
+    color: #ffffff
+
+  &.footer-para
+    padding: 8px 0px
+    line-height: 23px
+    color: #4f4f4f
+    font-size: 20px
+    font-weight: bold
+    text-transform: inherit
+
+.footer-title h4
+  font-style: normal
+  font-weight: bold
+  font-size: 19px
+  line-height: 27px
+  color: #4f4f4f
+  text-transform: inherit
+
+.footer-link li
+  a
+    font-style: normal
+    font-weight: normal
+    font-size: 20px
+    line-height: 27px
+    color: #4f4f4f
+    font-weight: bold
+
+    &:hover
+      color: #000
+
+  padding: 0px 0px 15px 50px
+  text-align: left
+
+.copyright-border
+  border-top: 2px solid #d6d6d6
+  position: relative
+  top: -15px
+
+ul.footer-social li
+  display: inline-block
+  margin-right: 15px
+
+  a
+    display: inline-block
+    position: relative
+    margin: 0 auto 0 auto
+    -moz-border-radius: 50%
+    -webkit-border-radius: 50%
+    border-radius: 50%
+    text-align: center
+    width: 32px
+    height: 32px
+    font-size: 14px
+    background: #f2f2f2
+
+#footer ul li i
+  padding-right: 9px
+  font-size: 16px
+  color: #2d1b19
+  display: inline-flex
+  margin: 0
+  line-height: 35px
+  text-align: center
+
+ul.footer-social li a i
+  margin: 0
+  line-height: 35px
+  text-align: center
+  padding: 0 !important
+
+.copyright-border p
+  color: #4f4f4f
+
+.gray-3
+  color: #333333
+
+#header-bg
+  background: #f2f2f2
+
+  /* background: #f2f2f200
+
+a:hover
+  background: transparent !important
+
+header .dropdown-toggle::after
+  display: none
+
+ul.footer-social.social-network
+  margin-bottom: 30px
+

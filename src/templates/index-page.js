@@ -17,7 +17,8 @@ export default class BlogIndexPage extends React.Component {
           style={{
             backgroundImage: `url('/img/blogbanner1.png')`,
             backgroundRepeat: 'no-repeat',
-            backgroundSize: 'cover'
+            backgroundSize: 'contain',
+            backgroundPosition: 'center top'
           }}
         >
         </div>
