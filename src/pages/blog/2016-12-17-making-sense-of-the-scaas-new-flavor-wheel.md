@@ -7,7 +7,7 @@ description: >-
   from  financial success. 
 
   Have you ever felt like despite how much you work, work, work… Your money isn’t working for you?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-03-23-at-2.38.26-pm.png
 tags:
   - Money
