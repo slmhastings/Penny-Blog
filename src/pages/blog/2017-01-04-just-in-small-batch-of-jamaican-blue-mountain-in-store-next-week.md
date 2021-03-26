@@ -7,7 +7,7 @@ description: |
   Yay! You got a job offer! Look at you go, girl!
 
   Time to celebrate! – Wait. What are all of these words? And what do they mean?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-03-23-at-2.35.59-pm.png
 tags:
   - career
