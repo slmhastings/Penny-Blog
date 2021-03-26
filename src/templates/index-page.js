@@ -13,15 +13,12 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-0"
-          style={{
-            backgroundImage: `url('/img/blogbanner1.png')`,
-            backgroundRepeat: 'no-repeat',
-            backgroundSize: 'contain',
-            backgroundPosition: 'center top'
-          }}
+      className="full-width-image-container margin-top-0"
         >
-        </div>
+        <img src="/img/blogbanner1.jpg"></img>
+      
+      </div>
+      <div>
         <section className="section" style={{
           padding: '4rem'
         }}>
@@ -31,6 +28,7 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
+        </div>
         <Scroller />
         <Footer />
       </Layout>
