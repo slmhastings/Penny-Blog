@@ -40,7 +40,7 @@ export const BlogPostTemplate = ({
           verticalAlign: 'middle',
           transition: 'all 0.3s ease-out',
           width: '11%'
-        }}></img> | money makin' doesn't have to be so hard 
+        }}></img> 
         </Link>
       </div>
       <div className="container content">

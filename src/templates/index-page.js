@@ -15,7 +15,7 @@ export default class BlogIndexPage extends React.Component {
         <div
       className="full-width-image-container margin-top-0"
         >
-        <img src="/img/blogbanner1.jpg"></img>
+        <img src="/img/theblogbanner.png"></img>
       
       </div>
       <div>

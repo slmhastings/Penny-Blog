@@ -53,7 +53,7 @@ body
   left: 50%
   right: 50%
   margin: 2em -50vw
-  background-size: cover
+  background-size: contain
   background-position: bottom
   display: flex
   justify-content: center
@@ -138,16 +138,17 @@ $menu-label-color: $white-ter
 .blog-list-item.is-featured
   background-color: #d6400033;
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
-.blog-list-item .featured-thumbnail
-  flex-basis: 45%;
-  margin: 0 1.5em 0 0;
+  position: absolute
+  bottom: 25px
+.blog-list-item.featuredthumbnail
+  width: 100%;
+  border-top-left-radius: calc(0.25rem - 1px)
+  border-top-right-radius: calc(0.25rem - 1px)
 
 .blog-list-item.box
-  overflow: auto
-  min-height: 43vh
-  max-height: 44vh
+  min-height: 78vh
+  max-height: 78vh
+  max-width: 59vh
 
 
 @import "~bulma"
@@ -156,15 +157,15 @@ $menu-label-color: $white-ter
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
 
 
 
@@ -249,131 +250,12 @@ html
   text-align: center
   font-size: 20px
   bottom: 10px
-  position: absolute
+  position: inherit
 
 h6
   font-size: 17px
 
-// footer
 
-.logo
-  height: 90px
-
-#footer
-  background: #f1eeee
-  padding: 30px 0px 0px
-
-  .email
-    border-bottom: 2px solid #000
-    position: relative
-
-    input
-      padding: 0px
-      box-shadow: none
-      background: none !important
-      font-size: 32px
-      border: 0px
-      border-radius: 0px
-      width: 92%
-
-  .fa-arrow-right
-    position: absolute
-    right: 0px
-    top: 20px
-    font-size: 30px
-
-p
-  &.footer-para, &.far-away
-    line-height: 16px
-    color: #ffffff
-
-  &.footer-para
-    padding: 8px 0px
-    line-height: 23px
-    color: #4f4f4f
-    font-size: 20px
-    font-weight: bold
-    text-transform: inherit
-
-.footer-title h4
-  font-style: normal
-  font-weight: bold
-  font-size: 19px
-  line-height: 27px
-  color: #4f4f4f
-  text-transform: inherit
-
-.footer-link li
-  a
-    font-style: normal
-    font-weight: normal
-    font-size: 20px
-    line-height: 27px
-    color: #4f4f4f
-    font-weight: bold
-
-    &:hover
-      color: #000
-
-  padding: 0px 0px 15px 50px
-  text-align: left
-
-.copyright-border
-  border-top: 2px solid #d6d6d6
-  position: relative
-  top: -15px
-
-ul.footer-social li
-  display: inline-block
-  margin-right: 15px
-
-  a
-    display: inline-block
-    position: relative
-    margin: 0 auto 0 auto
-    -moz-border-radius: 50%
-    -webkit-border-radius: 50%
-    border-radius: 50%
-    text-align: center
-    width: 32px
-    height: 32px
-    font-size: 14px
-    background: #f2f2f2
-
-#footer ul li i
-  padding-right: 9px
-  font-size: 16px
-  color: #2d1b19
-  display: inline-flex
-  margin: 0
-  line-height: 35px
-  text-align: center
-
-ul.footer-social li a i
-  margin: 0
-  line-height: 35px
-  text-align: center
-  padding: 0 !important
-
-.copyright-border p
-  color: #4f4f4f
-
-.gray-3
-  color: #333333
-
-#header-bg
-  background: #f2f2f2
-
-  /* background: #f2f2f200
-
-a:hover
-  background: transparent !important
-
-header .dropdown-toggle::after
-  display: none
-
-ul.footer-social.social-network
-  margin-bottom: 30px
 
 .herobanner
   align-items: center

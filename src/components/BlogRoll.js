@@ -21,9 +21,15 @@ class BlogRoll extends React.Component {
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
-                <header>
+                <div style={{
+                }}>
                   {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
+                    <div className="featuredthumbnail" style={{
+                      display: 'flex',
+                      justifyContent: 'center',
+                      margin: '0'
+                      
+                    }}>
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -32,6 +38,10 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
+                  <br />
+                </div>
+
+                <header>
                   <p className="post-meta" style={{
                     fontFamily: 'Harmattan'
                   }}>
@@ -46,19 +56,21 @@ class BlogRoll extends React.Component {
                       {post.frontmatter.date}
                     </span>
                   </p>
-                </header>
                 <p style={{
                   fontFamily: 'Harmattan',
                   fontSize: '20px',
-                  fontWeight: 'bold'
+                  fontWeight: 'bold',
+                
                 }}>
                   {post.frontmatter.description}
                   <br />
-                  <br />
+                  
                   <Link className="button" to={post.fields.slug}>
                     Keep Reading →
                   </Link>
+                  <br />
                 </p>
+                </header>
               </article>
             </div>
           ))}

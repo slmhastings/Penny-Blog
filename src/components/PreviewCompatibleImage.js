@@ -8,16 +8,37 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
 
   if (!!image && !!image.childImageSharp) {
     return (
-      <Img style={imageStyle} fluid={image.childImageSharp.fluid} alt={alt} />
+      <Img style={{
+                  height: 'auto',
+                  maxHeight: '250px',
+                  width: '100%',
+                  maxWidth: '250px',
+                  top: '0',
+                  margin: '0'
+                }} fluid={image.childImageSharp.fluid} alt={alt} />
     )
   }
 
   if (!!childImageSharp) {
-    return <Img style={imageStyle} fluid={childImageSharp.fluid} alt={alt} />
+    return <Img style={{
+      height: 'auto',
+      maxHeight: '250px',
+      width: 'auto',
+      maxWidth: '250px',
+      top: '0',
+      margin: '0'
+    }} fluid={childImageSharp.fluid} alt={alt} />
   }
 
   if (!!image && typeof image === 'string')
-    return <img style={imageStyle} src={image} alt={alt} />
+    return <img style={{
+      height: 'auto',
+      maxHeight: '250px',
+      width: 'auto',
+      maxWidth: '250px',
+      top: '0',
+      margin: '0'
+    }} src={image} alt={alt} />
 
   return null
 }
