@@ -5,7 +5,7 @@ date: 2021-03-15T14:00:00.000Z
 description: |-
   What the heck is an IRA or 401k?
   Retirement accounts, IRAs, and 401ks, explained.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/f8c805a12ffcc6f26ddd0301a01f7134-1.jpg
 tags:
   - Retirement

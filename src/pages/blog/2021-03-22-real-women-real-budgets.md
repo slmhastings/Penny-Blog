@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Real women. Real budgets. "
 date: 2021-02-15T15:00:00.000Z
 description: "Make your money work for you with real-life examples. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/image-1-13.jpg
 tags:
   - Budget

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Forget traditional budgeting: there is a better way to spend your money"
 date: 2021-03-08T15:00:00.000Z
 description: "What you need to do differently if your budget just goes out the window "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/2d92664174e42f9f2c89ad5945280ad4.jpg
 tags:
   - Spending
