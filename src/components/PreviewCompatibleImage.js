@@ -14,7 +14,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
                   width: '100%',
                   maxWidth: '250px',
                   top: '0',
-                  margin: '0'
+                  
                 }} fluid={image.childImageSharp.fluid} alt={alt} />
     )
   }
@@ -26,7 +26,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
       width: 'auto',
       maxWidth: '250px',
       top: '0',
-      margin: '0'
+      
     }} fluid={childImageSharp.fluid} alt={alt} />
   }
 
@@ -37,7 +37,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
       width: 'auto',
       maxWidth: '250px',
       top: '0',
-      margin: '0'
+      
     }} src={image} alt={alt} />
 
   return null
