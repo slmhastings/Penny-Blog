@@ -12,62 +12,78 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-text-white-ter">
-        <div className="content has-text-centered  has-text-white-ter">
+        <div className="content has-text-centered  has-text-white-ter" style={{fontFamily: 'Harmattan'}}>
           <div className="container  has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
-                        Home
-                      </Link>
+                      <img src={pennyicon}></img>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
-                        About
-                      </Link>
+                    <p style={{
+                      padding: '8px 0px',
+                      lineHeight: '23px',
+                      color: '#E2D2CF',
+                      fontSize: '20px',
+                      fontWeight: 'bold',
+                      textTransform: 'inherit',
+                      fontFamily: 'Harmattan'
+                    }}>We’re building the next generation of financial powerhouses — women on the rise, and in charge of their own futures.</p>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
+                    
+                    
                   </ul>
                 </section>
               </div>
               <div className="column is-4">
                 <section>
-                  <ul className="menu-list">
+                  <ul className="menu-list" style={{
+                    fontStyle: 'normal',
+                    fontWeight: 'normal',
+                    fontSize: '20px',
+                    lineHeight: '27px',
+                    color: '#E2D2CF',
+                    fontWeight: 'bold',
+                    fontFamily: 'Harmattan'
+
+                  }}>
                     <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                      <Link className="navbar-item" to="/quiz">
+                        Take our money quiz
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contact us
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/privacy">
+                        Privacy policy
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/terms">
+                        Terms of use
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
+              <div class="subscribe footer-title">
+              <h4 class="mb-4">Money tips delivered to your inbox</h4>
+            </div>
+            <form>
+              <div class="form-group mb-0 email">
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email address"/>
+                  <i class="fas fa-arrow-right" id="send-mail"></i>
+              </div>
+            </form>
+
+
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
