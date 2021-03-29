@@ -10,9 +10,9 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
     return (
       <Img style={{
                   height: 'auto',
-                  maxHeight: '250px',
+                  maxHeight: '300px',
                   width: '100%',
-                  maxWidth: '250px',
+                  maxWidth: '300px',
                   top: '0',
                   
                 }} fluid={image.childImageSharp.fluid} alt={alt} />
@@ -22,9 +22,9 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   if (!!childImageSharp) {
     return <Img style={{
       height: 'auto',
-      maxHeight: '250px',
+      maxHeight: '300px',
       width: 'auto',
-      maxWidth: '250px',
+      maxWidth: '300px',
       top: '0',
       
     }} fluid={childImageSharp.fluid} alt={alt} />
@@ -33,9 +33,9 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   if (!!image && typeof image === 'string')
     return <img style={{
       height: 'auto',
-      maxHeight: '250px',
+      maxHeight: '300px',
       width: 'auto',
-      maxWidth: '250px',
+      maxWidth: '300px',
       top: '0',
       
     }} src={image} alt={alt} />

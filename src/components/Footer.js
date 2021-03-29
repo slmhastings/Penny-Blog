@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
           fontFamily: 'Harmattan'}}>
           <div className="container  has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
-              <div className="column is-3">
+              <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -27,11 +27,14 @@ const Footer = class extends React.Component {
                     <p style={{
                       padding: '8px 0px',
                       lineHeight: '23px',
-                      color: '#E2D2CF',
-                      fontSize: '20px',
+                      color: '#F6F1F1',
+                      fontSize: '24px',
                       fontWeight: 'bold',
                       textTransform: 'inherit',
-                      fontFamily: 'Harmattan'
+                      fontFamily: 'Harmattan',
+                      margin: '4px 0px 16px',
+                      padding: '8px 0px',
+                      width: '84%'
                     }}>We’re building the next generation of financial powerhouses — women on the rise, and in charge of their own futures.</p>
                     </li>
                     
@@ -39,48 +42,42 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
+              <div className="column is-4 ">
                 <section>
-                  <ul className="menu-list" style={{
-                    fontStyle: 'normal',
-                    fontWeight: 'normal',
-                    fontSize: '20px',
-                    lineHeight: '27px',
-                    color: '#E2D2CF',
-                    fontWeight: 'bold',
-                    fontFamily: 'Harmattan'
-
-                  }}>
+                  <ul className="footer-link" >
                     <li>
-                      <Link className="navbar-item" to="/quiz">
+                      <Link  to="/quiz">
                         Take our money quiz
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
+                      <Link  to="/contact">
                         Contact us
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/privacy">
+                      <Link  to="/privacy">
                         Privacy policy
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/terms">
+                      <Link  to="/terms">
                         Terms of use
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
+              <div className="column is-6 social">
                 <div class="subscribe footer-title">
                   <h4 class="mb-4">Money tips delivered to your inbox</h4>
                 </div>
                 <form>
                   <div class="form-group mb-0 email">
-                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email address"/>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email address"
+                    style={{
+                      font: 'Harmattan'
+                    }}/>
                       <i class="fas fa-arrow-right" id="send-mail"></i>
                   </div>
                 </form>

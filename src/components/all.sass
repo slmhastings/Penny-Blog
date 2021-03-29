@@ -27,6 +27,7 @@ body
   margin-top: 1.5rem
   display: flex
   flex-wrap: wrap
+  color: #637C76
   
   justify-content: left
   align-items: center
@@ -36,11 +37,11 @@ body
     vertical-align: text-bottom
     line-height: 13px
     font-size: 18px
-    font-color: #545454
+    color: #545454
     font-weight: 600
     text-align: center
     border-style: solid
-    border-color: #f1a599
+    border-color: #545454
     
     border-radius: 15px
     border-width: 1px
@@ -104,13 +105,13 @@ body
   background-color: #637C76
 
 //Menu overrides
-$menu-item-color: $white-ter
+$menu-item-color: #F6F1F1
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
 $menu-item-active-color: $penny-green-invert
-$menu-item-active-background-color:	$penny-green-invert
+
 $menu-list-border-left: 1px solid $penny-green-invert
-$menu-label-color: $white-ter
+
 
 
 .menu-label
@@ -161,7 +162,7 @@ $menu-label-color: $white-ter
     display: block
   .blog-list-item .featured-thumbnail
     text-align: center
-    max-width: 70%
+    max-width: 100%
     margin: 0 0 1em
 
 
@@ -222,21 +223,7 @@ html
   animation: bouncy 2s infinite linear
   position: relative
 
-@keyframes bouncy
-  0%
-    top: 0em
-  40%
-    top: 0em
-  43%
-    top: -0.9em
-  46%
-    top: 0em
-  48% 
-    top: -0.4em
-  50% 
-    top: 0em
-  100%
-    top: 0em
+
 
 .button
   background-color: #E2D2CF
@@ -271,7 +258,7 @@ h6
   font-weight: bold
   font-size: 19px
   line-height: 27px
-  color: #E2D2CF
+  color: #F6F1F1
   text-transform: inherit
   font-family: Harmattan
 
@@ -285,11 +272,11 @@ h6
   box-shadow: none
   background: none !important
   font-size: 32px
-  font-color: 
+  font-color: #637C76
   border: 0px
   border-radius: 0px
   width: 92%
-  color
+  font-family: inherit
 
 .fa-arrow-right 
   position: absolute
@@ -304,6 +291,7 @@ h6
   font-weight: 400
   line-height: 1.5
   transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out
+  outline: none
 
 p.footer-para,
 p.far-away 
@@ -325,7 +313,7 @@ p.footer-para
   font-weight: bold
   font-size: 19px
   line-height: 27px
-  color: #4f4f4f
+  color: #F6F1F1
   text-transform: inherit
 
 .footer-link li a 
@@ -374,3 +362,7 @@ ul.footer-social li a
 .social
   background-color: #637C76
 
+.header-contents
+  max-height: 267px
+  height: 267px
+  width: 80%

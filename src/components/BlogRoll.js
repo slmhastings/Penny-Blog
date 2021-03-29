@@ -15,19 +15,25 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
+            <div className="is-parent column is-4" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
                 <div style={{
+                  
+
+                  maxWidth: '300px'
+                    
+                  
                 }}>
                   {post.frontmatter.featuredimage ? (
                     <div className="featuredthumbnail" style={{
                       display: 'flex',
                       justifyContent: 'center',
-                      margin: '0'
+                      margin: '0',
+                       
                       
                     }}>
                       <PreviewCompatibleImage
@@ -38,39 +44,43 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <br />
+                  
                 </div>
 
                 <header>
-                  <p className="post-meta" style={{
-                    fontFamily: 'Harmattan'
-                  }}>
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span>  </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
-                <p style={{
-                  fontFamily: 'Harmattan',
-                  fontSize: '20px',
-                  fontWeight: 'bold',
-                
-                }}>
-                  {post.frontmatter.description}
-                  <br />
-                  
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                  <br />
-                </p>
+                  <div className='header-contents'>
+                    <p className="post-meta" style={{
+                      fontFamily: 'Harmattan'
+                    }}>
+                      <Link
+                        className="title has-text-primary is-size-4"
+                        to={post.fields.slug}
+                      >
+                        {post.frontmatter.title}
+                      </Link>
+                      <span>  </span>
+                      <span className="subtitle is-size-5 is-block">
+                        {post.frontmatter.date}
+                      </span>
+                    </p>
+                    <p style={{
+                      fontFamily: 'Harmattan',
+                      fontSize: '20px',
+                      fontWeight: 'bold',
+                    
+                    }}>
+                      {post.frontmatter.description}
+                      <br />
+                      <br />
+                      
+                      <br />
+                    </p>
+                    {/* <Link className="button" to={post.fields.slug}>
+                        Keep Reading →
+                    </Link> */}
+                </div>
                 </header>
+
               </article>
             </div>
           ))}
