@@ -12,7 +12,7 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer>
+      <footer id="footer">
         <div className="footer" style={{
           fontFamily: 'Harmattan'}}>
           <div className="container  has-text-white-ter">
@@ -32,7 +32,7 @@ const Footer = class extends React.Component {
                       fontWeight: 'bold',
                       textTransform: 'inherit',
                       fontFamily: 'Harmattan',
-                      margin: '4px 0px 16px',
+                      margin: '-11px 0px 16px',
                       padding: '8px 0px',
                       width: '84%'
                     }}>We’re building the next generation of financial powerhouses — women on the rise, and in charge of their own futures.</p>
@@ -42,7 +42,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 ">
+              <div className="column is-3 ">
                 <section>
                   <ul className="footer-link" >
                     <li>
@@ -68,7 +68,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-6 social">
+              <div className="column is-5 social">
                 <div class="subscribe footer-title">
                   <h4 class="mb-4">Money tips delivered to your inbox</h4>
                 </div>
@@ -78,7 +78,10 @@ const Footer = class extends React.Component {
                     style={{
                       font: 'Harmattan'
                     }}/>
-                      <i class="fas fa-arrow-right" id="send-mail"></i>
+                      <i class="fas fa-arrow-right" id="send-mail" style={{
+                        color: "F6F1F1",
+                        opacity: "85%"
+                      }}></i>
                   </div>
                 </form>
                 <br />
@@ -92,7 +95,7 @@ const Footer = class extends React.Component {
                    }}
                     />
                   </a>
-                  <a title="linkedin" href="https://twitter.com">
+                  <a title="linkedin" href="https://www.linkedin.com/company/69228895">
                     <img
                       className="fas fa-lg"
                       src={twitter}
