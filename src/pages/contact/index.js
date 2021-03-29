@@ -52,8 +52,7 @@ export default class Index extends React.Component {
                 <input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                   <label>
-                    Don’t fill this out:{' '}
-                    <input name="bot-field" onChange={this.handleChange} />
+                    Don’t fill this out: <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
                 <div className="field">

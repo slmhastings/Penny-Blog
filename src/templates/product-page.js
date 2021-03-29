@@ -8,23 +8,17 @@ import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const ProductPageTemplate = ({
-  
   title,
   heading,
   description,
   intro,
   main,
   testimonials,
-  
+
   pricing,
 }) => (
   <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        
-      }}
-    >
+    <div className="full-width-image-container margin-top-0" style={{}}>
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
@@ -51,9 +45,7 @@ export const ProductPageTemplate = ({
               <Features gridItems={intro.blurbs} />
               <div className="columns">
                 <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
+                  <h3 className="has-text-weight-semibold is-size-3">{main.heading}</h3>
                   <p>{main.description}</p>
                 </div>
               </div>
@@ -61,31 +53,20 @@ export const ProductPageTemplate = ({
                 <div className="tile is-vertical">
                   <div className="tile">
                     <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        
-                      </article>
+                      <article className="tile is-child"></article>
                     </div>
                     <div className="tile is-parent">
-                      <article className="tile is-child">
-                        
-                      </article>
+                      <article className="tile is-child"></article>
                     </div>
                   </div>
                   <div className="tile is-parent">
-                    <article className="tile is-child">
-                      
-                    </article>
+                    <article className="tile is-child"></article>
                   </div>
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
-              <div
-                className="full-width-image-container"
-                
-              />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
+              <div className="full-width-image-container" />
+              <h2 className="has-text-weight-semibold is-size-2">{pricing.heading}</h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
             </div>
@@ -97,7 +78,6 @@ export const ProductPageTemplate = ({
 )
 
 ProductPageTemplate.propTypes = {
-  
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
@@ -107,10 +87,9 @@ ProductPageTemplate.propTypes = {
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
-    
   }),
   testimonials: PropTypes.array,
-  
+
   pricing: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
@@ -124,14 +103,12 @@ const ProductPage = ({ data }) => {
   return (
     <Layout>
       <ProductPageTemplate
-        
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
-        
         pricing={frontmatter.pricing}
       />
     </Layout>
@@ -153,12 +130,12 @@ export default ProductPage
 //     markdownRemark(id: { eq: $id }) {
 //       frontmatter {
 //         title
-        
+
 //         heading
 //         description
 //         intro {
 //           blurbs {
-            
+
 //             text
 //           }
 //           heading
@@ -167,13 +144,13 @@ export default ProductPage
 //         main {
 //           heading
 //           description
-          
+
 //         }
 //         testimonials {
 //           author
 //           quote
 //         }
-        
+
 //         pricing {
 //           heading
 //           description

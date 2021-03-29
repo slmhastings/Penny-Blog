@@ -1,16 +1,15 @@
 module.exports = {
   siteMetadata: {
     title: 'Penny Blog',
-    description:
-      'A blog about women and finances',
+    description: 'A blog about women and finances',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-sass',
       options: {
-        indentedSyntax: true
-      }
+        indentedSyntax: true,
+      },
     },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
@@ -34,11 +33,11 @@ module.exports = {
         name: 'images',
       },
     },
-    {	
-      resolve: 'gatsby-source-filesystem',	
-      options: {	
-        path: `${__dirname}/static/`,	
-        name: 'static',	
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/`,
+        name: 'static',
       },
     },
     'gatsby-plugin-sharp',

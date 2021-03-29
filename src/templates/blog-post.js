@@ -9,50 +9,48 @@ import Authorfooter from '../components/Authorfooter'
 import Scroller from '../components/Scroller'
 
 import Footer from '../components/Footer'
- 
 
-
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet,
-}) => {
+export const BlogPostTemplate = ({ content, contentComponent, description, tags, title, helmet }) => {
   const PostContent = contentComponent || Content
 
   return (
     <section className="section">
-    
       {helmet || ''}
       <div>
-        <Link to='/' ><img src="/img/pennyfinanceicon.png" style={{
-          height: 'auto',
-          maxWidth: '20%',
-          display: 'inline-block',
-          verticalAlign: 'middle',
-          transition: 'all 0.3s ease-out'
-        }}></img> 
+        <Link to="/">
+          <img
+            src="/img/pennyfinanceicon.png"
+            style={{
+              height: 'auto',
+              maxWidth: '20%',
+              display: 'inline-block',
+              verticalAlign: 'middle',
+              transition: 'all 0.3s ease-out',
+            }}
+          ></img>
         </Link>
       </div>
       <div className="container content">
-        <div className="columns" style={{
-          margin: '10px'
-        }}>
-          <div className="column is-10 is-offset-1" style={{
-            fontFamily: 'Harmattan',
-            fontSize: '20px'
-          }}>
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            
+        <div
+          className="columns"
+          style={{
+            margin: '10px',
+          }}
+        >
+          <div
+            className="column is-10 is-offset-1"
+            style={{
+              fontFamily: 'Harmattan',
+              fontSize: '20px',
+            }}
+          >
+            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">{title}</h1>
+
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
-                <ul className="taglist" >
+                <ul className="taglist">
                   {tags.map((tag) => (
                     <li key={tag + `tag`}>
                       <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
@@ -64,7 +62,6 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
-      
     </section>
   )
 }
@@ -89,16 +86,15 @@ const BlogPost = ({ data }) => {
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6053ebc2c1ceb6a9"></script>
+            <meta name="description" content={`${post.frontmatter.description}`} />
+            <script
+              type="text/javascript"
+              src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6053ebc2c1ceb6a9"
+            ></script>
           </Helmet>
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        
       />
       <Scroller />
       <Authorfooter />

@@ -3,13 +3,11 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
     const { markdownRemark: post } = data
-    
 
     return (
       <div className="columns is-multiline">
@@ -21,21 +19,21 @@ class BlogRoll extends React.Component {
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
-                <div style={{
-                  
-
-                  maxWidth: '300px'
-                    
-                  
-                }}>
+                <div
+                  style={{
+                    maxWidth: '300px',
+                    minWidth: 'auto'
+                  }}
+                >
                   {post.frontmatter.featuredimage ? (
-                    <div className="featuredthumbnail" style={{
-                      display: 'flex',
-                      justifyContent: 'center',
-                      margin: '0',
-                       
-                      
-                    }}>
+                    <div
+                      className="featuredthumbnail"
+                      style={{
+                        display: 'flex',
+                        justifyContent: 'center',
+                        margin: '0',
+                      }}
+                    >
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -44,43 +42,47 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  
                 </div>
 
                 <header>
-                  <div className='header-contents'>
-                    <p className="post-meta" style={{
-                      fontFamily: 'Harmattan'
-                    }}>
-                      <Link
-                        className="title has-text-primary is-size-4"
-                        to={post.fields.slug}
-                      >
+                  <div className="header-contents">
+                    <p
+                      className="post-meta"
+                      style={{
+                        fontFamily: 'Harmattan',
+                      }}
+                    >
+                      <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
                         {post.frontmatter.title}
                       </Link>
-                      <span>  </span>
-                      <span className="subtitle is-size-5 is-block">
-                        {post.frontmatter.date}
-                      </span>
+                      <span> </span>
+                      <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     </p>
-                    <p style={{
-                      fontFamily: 'Harmattan',
-                      fontSize: '20px',
-                      fontWeight: 'bold',
-                    
+                    <div style={{
+                      width: "250px", 
+                      overflow: "hidden", 
+                      textOverflow: "ellipsis",
+                      whiteSpace: "nowrap",
                     }}>
+                    <span
+                      style={{
+                        fontFamily: 'Harmattan',
+                        fontSize: '20px',
+                        fontWeight: 'bold',
+                      }}
+                    >
                       {post.frontmatter.description}
                       <br />
                       <br />
-                      
+
                       <br />
-                    </p>
+                    </span>
+                    </div>
                     {/* <Link className="button" to={post.fields.slug}>
                         Keep Reading →
                     </Link> */}
-                </div>
+                  </div>
                 </header>
-
               </article>
             </div>
           ))}
@@ -120,7 +122,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 150, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
