@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import Authorfooter from '../components/Authorfooter'
 import Scroller from '../components/Scroller'
-import pennyicon from '../../public/img/pennyfinanceicon.png'
+
 import Footer from '../components/Footer'
  
 
@@ -27,7 +27,7 @@ export const BlogPostTemplate = ({
     
       {helmet || ''}
       <div>
-        <Link to='/' ><img src={pennyicon} style={{
+        <Link to='/' ><img src="/img/pennyfinanceicon.png" style={{
           height: 'auto',
           maxWidth: '20%',
           display: 'inline-block',

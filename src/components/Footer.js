@@ -7,7 +7,7 @@ import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 
 import vimeo from '../img/social/vimeo.svg'
-import pennyicon from '../../public/img/pennyfinanceicon.png'
+
 
 const Footer = class extends React.Component {
   render() {
@@ -21,7 +21,7 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <img src={pennyicon}></img>
+                      <img src="/img/pennyfinanceicon.png"></img>
                     </li>
                     <li>
                     <p style={{
