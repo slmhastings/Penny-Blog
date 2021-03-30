@@ -28,7 +28,9 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
         style={{
           height: 'auto',
           maxHeight: '300px',
+          minHeight: '250px',
           width: 'auto',
+          minWidth: '250px',
           maxWidth: '300px',
           top: '0',
         }}
