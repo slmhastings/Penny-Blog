@@ -11,8 +11,12 @@ export default class BlogIndexPage extends React.Component {
           {/* <img className="full-width-image" src="/img/blogbanner1.png"></img> */}
         </div>
         <section className="section">
-          <div className="container">
-            <div className="content">
+          <div className="container" >
+            <div className="content" style={{
+            display: "grid",
+            justifyContent: "center",
+            marginRight: "0"
+          }}>
               <BlogRoll />
             </div>
           </div>

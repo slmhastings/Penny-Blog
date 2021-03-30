@@ -10,7 +10,7 @@ class BlogRoll extends React.Component {
     const { markdownRemark: post } = data
 
     return (
-      <div className="columns is-multiline">
+      <div className="columns is-multiline" >
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
@@ -74,13 +74,13 @@ class BlogRoll extends React.Component {
                       {post.frontmatter.description}
                       <br />
                       <br />
+                    <Link className="button" to={post.fields.slug}>
+                        Keep Reading...
+                    </Link>
 
-                      <br />
+                    
                     </span>
                     </div>
-                    {/* <Link className="button" to={post.fields.slug}>
-                        Keep Reading →
-                    </Link> */}
                   </div>
                 </header>
               </article>
