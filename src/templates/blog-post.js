@@ -44,7 +44,9 @@ export const BlogPostTemplate = ({ content, contentComponent, description, tags,
               fontSize: '20px',
             }}
           >
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">{title}</h1>
+            <h1 className="title  has-text-weight-bold is-bold-light" style={{
+              fontSize:"3.5rem"
+            }}>{title}</h1>
 
             <PostContent content={content} />
             {tags && tags.length ? (
