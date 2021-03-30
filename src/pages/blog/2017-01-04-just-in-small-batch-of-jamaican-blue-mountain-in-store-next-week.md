@@ -5,8 +5,6 @@ date: 2021-03-15T14:00:00.000Z
 description: |
   
   Yay! You got a job offer! Look at you go, girl!
-
-  Time to celebrate! – Wait. What are all of these words? And what do they mean?
 featuredpost: false
 featuredimage: /img/screen-shot-2021-03-23-at-2.35.59-pm.png
 tags:
@@ -14,7 +12,9 @@ tags:
   - money
   - benefits
 ---
-#### If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
+Time to celebrate! – Wait. What are all of these words? And what do they mean?
+
+If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
 
 #### At Penny, we’re all about making complicated lingo… Un-complicated. 
 
