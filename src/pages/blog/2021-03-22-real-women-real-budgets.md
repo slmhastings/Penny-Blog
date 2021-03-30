@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Real women. Real budgets. "
-date: 2021-02-15T15:00:00.000Z
+date: 2021-03-30T14:00:00.000Z
 description: "Make your money work for you with real-life examples. "
 featuredpost: false
 featuredimage: /img/image-1-13.jpg
