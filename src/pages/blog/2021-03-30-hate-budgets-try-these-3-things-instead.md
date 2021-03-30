@@ -11,6 +11,8 @@ tags:
   - Spending
   - Money
 ---
+📸 Credit: Pinterest 
+
 We’ll be the first to admit it: Budgeting can really suck the life out of ya. 
 
 First off, most budgeting advice out there are one-size-fits-all solutions that make zero sense when you apply them IRL. And they’re super complicated! Save 20% of income, don’t spend over 50% on rent, keep 5% for retirement. Sure, we got calculators on our phone, but seriously? No way. 
@@ -54,13 +56,9 @@ Here are some ideas to get you started!
 
 # Tip # 2: Pick ONE NUMBER – and spend on whatever you want!
 
- 
-
 Finally, a SPEND ON WHATEVER YOU WANT fun budget!
 
 (Repeated, in caps, in case you didn’t think you read that right.)
-
-
 
 Pick \*ONE number\* for your fun, do-whatever-you-want-with budget.
 
@@ -88,19 +86,13 @@ Maybe you are booking a vacation that eats up three months of your fun budget. N
 
 > Side note from Crissi – “I LOVE shopping. Obsessed. Can’t stop. Won’t stop. Receiving a box from Revolve is better than anything else in the world. So…. I am not going to stop. But I picked one number. $500 a month. And I use my $500 a month wisely. You think $500 is a lot? It is not -2 shirts, 1 pair of jeans, and it’s gone. I have become sooo intentional about which 3 things I get to have. I have to think about it multiple times before I purchase. I can heart as many things as I want, and that is bliss in itself. Then, after spending my $500 limit, I delete the app from my phone. It is hard. Really hard. Trade off? I got the apartment with the bathtub and big-ass windows. Because that brings me more happiness at the end of the day than a new tee. Living that dream means I gotta draw the line somewhere, and that somewhere I spend absurd amounts of $ is shopping.” 
 
-
-
 If you don’t know where to spend it yet, save it for later – or even better, invest it and watch it grow
 
 # Tip # 3: If you \*really\* need to downsize, keep it light
 
 We get it! You gotta eat, live, work, play – and sometimes your paycheck isn’t quite where it needs to be yet. Honestly, sometimes cutting back in one area is also a good excuse to spend more in something we really care about. (Did someone say designer bags on sale? Yes, please!)
 
-
-
 Use these hacks to save in places you never thought you could:
-
-
 
 * Buy used books instead of new ones (or use Kindle or Audible – $15 beach reads add up!) 
 * Use RTR and Vitineer to rent clothes
@@ -115,11 +107,7 @@ Use these hacks to save in places you never thought you could:
 * Add things to your cart, but pause before one click buying. 5 minutes. Just think about it for more than a second. “Do I \*really\* need this lymphatic draining brush set that is $100?” The $6 dry brush might be a better place to start. 
 * Have separate credit cards for different big budget items (Ex. 1 for shopping, 1 for Amazon, and 1 for everything else – that way it’s even easier to stay on track. But you gotta pay them all off at the end of the month!)
 
-
-
 Be mindful of your spending, and don’t be afraid to get creative. If you need to scale back, don’t default to cut out mani-pedis, facials, massage. Life is hard. Treat yourself. Enjoy every second of it. Dance your way to the nail salon, and dream of what color you are going to pick. We’re here for it.
-
-
 
 What are your money and lifestyle hacks? Do you have other lifestyle tips for better budgeting?  Email us at support@penny-finance.com 
 
