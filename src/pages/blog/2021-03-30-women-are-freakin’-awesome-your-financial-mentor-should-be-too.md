@@ -8,7 +8,7 @@ featuredimage: /img/_jwp9706.jpg
 ---
 #### There’s a new way to make money moves – and she’s called Penny. Penny Finance.
 
-#### Your ticket to more security, less stress, and more freedom. 
+#### Your ticket to more security, less stress, and more freedom.
 
 Most young, independent women we come across have similar feelings about finance: \*Ew\*
 
@@ -122,14 +122,14 @@ Penny is here to help you combine your natural smarts and strengths with real-wo
 
 Penny is more than the digital financial mentor you always wanted, but couldn’t find. 
 
-###### Penny is how we make an impact. 
+## Penny is how we make an impact. 
 
-###### To all the amazing women out there. We see you.
+## To all the amazing women out there. We see you.
 
-###### We will solve some \*heavy\* stuff together.
+## We will solve some \*heavy\* stuff together.
 
-###### Get money empowered. Get Penny.
+## Get money empowered. Get Penny.
 
-Meet your money – [Take our money maker quiz ](www.penny-finance.com/quiz)
+Meet your money! [Take our money maker quiz ](www.penny-finance.com/quiz)
 
-[Start with a penny](www.instagram.com/startwithapenny)
+And follow us here! [Start with a penny](www.instagram.com/startwithapenny)
