@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What are the money things NO ONE tells you
-date: 2021-03-15T14:00:00.000Z
+date: 2021-02-01T15:00:00.000Z
 description: "The things the boys are doing that we are not – and the mistakes
   stopping you from  financial success. "
 featuredpost: false
