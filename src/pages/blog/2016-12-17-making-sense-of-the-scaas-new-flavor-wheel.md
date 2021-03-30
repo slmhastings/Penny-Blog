@@ -2,11 +2,8 @@
 templateKey: blog-post
 title: What are the money things NO ONE tells you
 date: 2021-03-15T14:00:00.000Z
-description: >-
-  The things the boys are doing that we are not – and the mistakes stopping you
-  from  financial success. 
-
-  Have you ever felt like despite how much you work, work, work… Your money isn’t working for you?
+description: "The things the boys are doing that we are not – and the mistakes
+  stopping you from  financial success. "
 featuredpost: false
 featuredimage: /img/screen-shot-2021-03-23-at-2.38.26-pm.png
 tags:
@@ -14,6 +11,8 @@ tags:
   - Saving
   - Secrets
 ---
+Have you ever felt like despite how much you work, work, work… Your money isn’t working for you?
+
 When it comes to financial know-how, women don't have the same advantages as men. When it comes to finances, investing and planning, we face a systemic access gap. And when we finally take interest in money, we often face financial mansplaining that just leaves us more confused. (#The-Pain-is-Real)
 
 We’re done playing by these boys club rules.
@@ -74,7 +73,7 @@ Let’s say you put away $1K in your savings account. At the end of the year, yo
 
 And the earlier you start investing, the more chances it has to snowball into 2x, 3x, 4x your savings. Meaning you can actually save less (and have more money to spend today) and still hit that million-dollar goal before you’re 70.
 
-Oh, and by the way, women are \*really\* good investors. [This study](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds) \[Link to study URL <https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds>]  from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
+Oh, and by the way, women are \*really\* good investors. [This study](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds) [Link to study URL <https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds>]  from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
 
 Investing is the answer. We’ll show you how \[Link to products page]
 
