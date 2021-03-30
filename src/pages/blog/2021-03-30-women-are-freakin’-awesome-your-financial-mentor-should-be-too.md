@@ -5,6 +5,10 @@ date: 2021-04-01T14:00:00.000Z
 description: "Meet Penny Finance – a digital financial advisor made for you. "
 featuredpost: false
 featuredimage: /img/_jwp9706.jpg
+tags:
+  - Women
+  - Money
+  - Investing
 ---
 #### There’s a new way to make money moves – and she’s called Penny. Penny Finance.
 
