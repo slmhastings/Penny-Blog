@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The 10 terms you'll see in your job offer
-date: 2021-03-15T14:00:00.000Z
+date: 2021-03-30T14:00:00.000Z
 description: |
   
   Yay! You got a job offer! Look at you go, girl!
