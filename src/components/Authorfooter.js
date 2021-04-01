@@ -3,13 +3,16 @@ import authorfooter from '../../static/img/authorfooter.png'
 
 function Authorfooter() {
   return (
-    <div class="author-footer">
+    <div class="author-footer"
+      style={{
+        width: '100%'
+      }}>
       <div>
         <img
           style={{
             margin: '0px',
             maxWidth: '88%',
-            marginTop: '-32px',
+            marginTop: '-29px',
           }}
           src={authorfooter}
         />

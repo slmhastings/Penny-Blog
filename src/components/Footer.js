@@ -36,7 +36,7 @@ const Footer = class extends React.Component {
                           fontWeight: 'bold',
                           textTransform: 'inherit',
                           fontFamily: 'Harmattan',
-                          margin: '-11px 0px 16px',
+                          margin: '-11px 7px 16px',
                           padding: '8px 0px',
                           width: '84%',
                         }}
