@@ -57,26 +57,26 @@ class BlogRoll extends React.Component {
                       <span> </span>
                       <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     </p>
-                    <div style={{
+                    <div className="description" style={{
                       width: "100%", 
                       overflow: "hidden", 
                       textOverflow: "ellipsis",
                       bottom: "-33px"
                       
                     }}>
-                    <span
-                      style={{
-                        fontFamily: 'Harmattan',
-                        fontSize: '20px',
-                        fontWeight: 'bold',
-                        position:'absolute'
-                        
-                      }}
-                    >
+                      <span
+                        style={{
+                          fontFamily: 'Harmattan',
+                          fontSize: '20px',
+                          fontWeight: 'bold',
+                          position:'absolute',
+                          bottom: '61px'
+                        }}
+                      >
                       {post.frontmatter.description}
-                      <br />
-                      <br />
-                    </span>
+                        <br />
+                        <br />
+                      </span>
 
                     </div>
                     <Link className="button" to={post.fields.slug}>
