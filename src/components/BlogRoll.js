@@ -21,7 +21,6 @@ class BlogRoll extends React.Component {
               >
                 <div
                   style={{
-                    maxWidth: '300px',
                     minWidth: 'auto'
                   }}
                 >
@@ -59,10 +58,10 @@ class BlogRoll extends React.Component {
                       <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     </p>
                     <div style={{
-                      width: "250px", 
+                      width: "100%", 
                       overflow: "hidden", 
                       textOverflow: "ellipsis",
-                      whiteSpace: "nowrap",
+                      
                     }}>
                     <span
                       style={{

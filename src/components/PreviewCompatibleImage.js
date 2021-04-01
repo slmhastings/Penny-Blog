@@ -13,7 +13,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
           height: 'auto',
           maxHeight: '300px',
           width: '100%',
-          maxWidth: '300px',
+          
           top: '0',
         }}
         fluid={image.childImageSharp.fluid}
@@ -27,11 +27,11 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
       <Img
         style={{
           height: 'auto',
-          maxHeight: '300px',
-          minHeight: '250px',
+          maxHeight: '400px',
+          minHeight: '400px',
           width: 'auto',
-          minWidth: '250px',
-          maxWidth: '300px',
+          minWidth: '400px',
+          maxWidth: '400px',
           top: '0',
         }}
         fluid={childImageSharp.fluid}
@@ -45,9 +45,9 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
       <img
         style={{
           height: 'auto',
-          maxHeight: '300px',
+          maxHeight: '400px',
           width: 'auto',
-          maxWidth: '300px',
+          maxWidth: '400px',
           top: '0',
         }}
         src={image}
