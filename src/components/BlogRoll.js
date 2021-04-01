@@ -61,6 +61,7 @@ class BlogRoll extends React.Component {
                       width: "100%", 
                       overflow: "hidden", 
                       textOverflow: "ellipsis",
+                      bottom: "-33px"
                       
                     }}>
                     <span
@@ -68,18 +69,19 @@ class BlogRoll extends React.Component {
                         fontFamily: 'Harmattan',
                         fontSize: '20px',
                         fontWeight: 'bold',
+                        position:'absolute'
+                        
                       }}
                     >
                       {post.frontmatter.description}
                       <br />
                       <br />
+                    </span>
+
+                    </div>
                     <Link className="button" to={post.fields.slug}>
                         Keep Reading...
                     </Link>
-
-                    
-                    </span>
-                    </div>
                   </div>
                 </header>
               </article>

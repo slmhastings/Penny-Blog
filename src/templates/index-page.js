@@ -19,7 +19,8 @@ export default class BlogIndexPage extends React.Component {
           <section
             className="section"
             style={{
-              padding: '4rem',
+              padding: '3rem 1.5rem',
+              width: '100%'
             }}
           >
             <div className="container">
