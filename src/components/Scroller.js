@@ -6,7 +6,7 @@ function Scroller() {
     <div
       className="marquee"
       style={{
-        width: '1000px',
+        width: '100%',
         
       }}
     >
