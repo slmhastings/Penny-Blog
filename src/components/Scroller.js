@@ -5,13 +5,8 @@ function Scroller() {
   return (
     <div
       className="marquee"
-      style={{
-        width: '100%',
-        
-      }}
     >
       <img style={{
-        width: '100%',
         height: 'auto',
         
       }} src={moneyscroller}></img>
