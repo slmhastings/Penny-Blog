@@ -17,7 +17,7 @@ export default class BlogIndexPage extends React.Component {
 
         </Helmet>
         <div className="full-width-image-container margin-top-0">
-          <img className="full-width-image" src="/img/theblogbanner.png"></img>
+          <img className="full-width-image" src="/img/theblogbanner.jpg"></img>
         </div>
         <div>
           <section
