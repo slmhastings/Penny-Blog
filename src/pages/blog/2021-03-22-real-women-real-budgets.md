@@ -166,7 +166,7 @@ OK what does this all add up to?
 >
 > (that means we want your emergency savings to be about **$14k** before makin' any other money moves)
 
-P.S. We've built these calcs into our app, if you wanna [get your personal numbers](www.penny-finance.com/quiz)
+P.S. We've built these calcs into our app, if you [wanna get your personal numbers](penny-finance.com/quiz)
 
 We are SO proud of this gal! She’s making bank AND being extra-mindful of expenses.
 
@@ -174,7 +174,7 @@ Surprised we didn’t tell her to cut out Spotify, shopping, or personal care? G
 
 This is what we mean by mindful spending vs traditional budgeting. 
 
-Your Spotify subscription, in the grand scheme of things, won’t break the bank. That’s one of the biggest counter-intuitive [money secrets no one tells you](https://blog.penny-finance.com/blog/2021-04-06-what-are-the-money-things-no-one-tells-you-2/). 
+Your Spotify subscription, in the grand scheme of things, won’t break the bank. That’s one of the biggest counter-intuitive money secrets no one tells you. 
 
 But to anyone who thinks buying a home is the end-all, be-all of life: DON’T. 
 
