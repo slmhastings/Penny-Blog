@@ -18,7 +18,8 @@ const Footer = class extends React.Component {
         },
       ];
       sendMail.addEventListener("click", function(){
-        fetch("/klaviyo/add_subscriber?email="+userEmail.value)
+        console.log(userEmail)
+        fetch("https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value)
         .then(res => res.json())
         .then(function(data){
           if(data.response.status == 200){
@@ -78,16 +79,16 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="footer-link">
                     <li>
-                      <Link to="https://penny-staging2.herokuapp.com/quiz">Take our money quiz</Link>
+                      <Link to="https://penny-finance.herokuapp.com/quiz">Take our money quiz</Link>
                     </li>
                     <li>
                       <Link href="mailto:support@penny-finance.com" >Contact us</Link>
                     </li>
                     <li>
-                      <Link to="https://penny-staging2.herokuapp.com/privacy">Privacy policy</Link>
+                      <Link to="https://penny-finance.com/privacy">Privacy policy</Link>
                     </li>
                     <li>
-                      <Link to="https://penny-staging2.herokuapp.com/terms">Terms of use</Link>
+                      <Link to="https://penny-finance.com/terms">Terms of use</Link>
                     </li>
                   </ul>
                 </section>
