@@ -135,6 +135,7 @@ Penny is more than the digital financial mentor you always wanted, but couldn’
 
 ## Get money empowered. Get Penny.
 
-Meet your money! [Take our money maker quiz ](www.penny-finance.com/quiz)
+
+Meet your money! [Take our money maker quiz ](https://penny-finance.com/quiz)
 
 And follow us here! [Start with a penny](www.instagram.com/startwithapenny)
