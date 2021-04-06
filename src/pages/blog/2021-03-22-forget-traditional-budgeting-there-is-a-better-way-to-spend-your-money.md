@@ -10,6 +10,10 @@ tags:
   - Savings
   - Budgeting
 ---
+What you need to do differently if your budget just goes out the window.  
+
+![](/img/2d92664174e42f9f2c89ad5945280ad4.jpg)
+
 📷: Pinterest 
 
 We don’t want to sound like dinosaurs, but it’s too easy to buy things in this day and age. 
