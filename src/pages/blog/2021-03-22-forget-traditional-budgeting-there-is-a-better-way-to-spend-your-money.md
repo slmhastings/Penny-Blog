@@ -50,7 +50,7 @@ This exercise is meant to help change your mindset from asking “what do I need
 
 #### The Mini Budget Method
 
-*The trick to the mini budget is to work backwards – and remember the \*big\* numbers – so you know where you need to save, and where you have room to play.* 
+*The trick to the mini budget is to work backwards – and remember the \*\*big\*\* numbers – so you know where you need to save, and where you have room to play.* 
 
 Example numbers – Fill yours in as we go!
 
@@ -180,7 +180,7 @@ This is your guilt-free, do-whatever-you-want money. Shopping, getaways, the ext
 
 # Closing thoughts on this...
 
-We all want to channel our inner Beyonce and life the high life. Remember, the purpose of your mini budget is to create a goal that feels good, and actually fits your lifestyle. It’s not about cutting back – it’s about spending your money in a way that works for you. 
+We all want to channel our inner Beyonce and live the high life. Remember, the purpose of your mini budget is to create a goal that feels good, and actually fits your lifestyle. It’s not about cutting back – it’s about spending your money in a way that works for you. 
 
 Need more help with your mini-budget? 
 
