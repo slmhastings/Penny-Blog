@@ -3,7 +3,9 @@ import moneyscroller from '../../static/img/moneyscroller.png'
 
 function Scroller() {
   return (
-    <div>
+    <div style={{
+      overflowX: "hidden"
+    }}>
       <div
         className="marquee"
       >
