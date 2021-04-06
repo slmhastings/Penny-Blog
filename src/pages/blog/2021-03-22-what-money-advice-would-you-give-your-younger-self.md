@@ -5,9 +5,17 @@ date: 2021-01-15T15:00:00.000Z
 description: "Lived experience from real women in their 30s. "
 featuredpost: false
 featuredimage: /img/blog-title.jpg
+tags:
+  - Money
+  - Savings
+  - Spending
+  - Women
 ---
-
 We asked women in their 30s: what do they wish they did differently with their money and finances in their 20s?
+
+![](/img/blog-title.jpg)
+
+📷: Pinterest 
 
 Sharing the wisdom. Because that’s what we do.
 
@@ -33,13 +41,13 @@ New trend… Stocks as birthday gifts, you in? We’re here for it.
 
 \---
 
-We hear you, Julie... Taxes really can be a rude awakening. [Learn where your taxes go](<Pay stub blog>) and how much you \*should\* be saving for the US of A.
+We hear you, Julie... Taxes really can be a rude awakening. [Learn where your taxes go](https://blog.penny-finance.com/blog/2021-03-22-how-to-read-your-pay-stub/) and how much you \*should\* be saving for the US of A.
 
 \---
 
 # Max out your 401k, like, yesterday
 
-PS. A 401k is a type of retirement account (which you probably already have and don't even know it) [More here ](<401k blog post>)
+PS. A 401k is a type of retirement account (which you probably already have and don't even know it) [More here ](https://blog.penny-finance.com/blog/2021-04-06-401k-ira-wtf-2/)
 
 “Max out my 401k contributions from the start. Have savings goals and use tools to help analyze spending habits. Honestly just know how much you’re saving and spending!” **Hana, 32**
 
@@ -59,10 +67,10 @@ Why is everyone obsessed with investments, 401ks and retirement accts?
 
 Well, because they grow for you. They do the hard work. And you realize later on that the growth is freakin awesome, and it’ll be impossible to catch up to the growth with nothing but extra savings.
 
-[Learn how to start investing with Penny. ](www.penny-finance.com)
+[Learn how to start investing with Penny. ](penny-finance.com)
 
-(Still wondering WTF is a 401k or an IRA? Click here) \[Link to blog post]
+Still wondering WTF is a 401k or an IRA? [Click here](https://blog.penny-finance.com/blog/2021-04-06-401k-ira-wtf-2/)
 
-Loved this? Check out the [spending edition](<Spending advice>) of advice to your younger self.
+Loved this? Check out the [spending edition](https://blog.penny-finance.com/blog/2021-03-22-what-money-advice-would-you-give-your-younger-self-1/) of advice to your younger self.
 
-What is your money advice? Share your story with us: [support@penny-finance.com]()
+What is your money advice? Share your story with us: [support@penny-finance.com](<>)
