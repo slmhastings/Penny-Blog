@@ -83,6 +83,7 @@ const BlogPost = ({ data }) => {
     <Layout>
       <BlogPostTemplate
         content={post.html}
+        // featuredimage={post.frontmatter.featuredimage}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
@@ -121,6 +122,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        
         description
         tags
       }
