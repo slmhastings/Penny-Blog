@@ -78,9 +78,9 @@ Who said finance is a boy’s club, again? Ha! Investing isn’t hard once you l
 
 #### 5. Women can change the world
 
-* Women have the potential to add $12 trillion to the global economy over the course of the next decade. (McKinsey)
+* Women have the potential to add $12 trillion to the global economy over the course of the next decade (McKinsey)
 
- A rising tide of female financial mastery can raise and benefit the entire economy – not just at home, but in the entire \*world\*. It’s no surprise that the world is waking up to the potential of women in control of their financial future.
+It’s no surprise that the world is waking up to the potential of women in control of their financial future.
 
 We know there is a gap in the market, and we’re not alone at seeing the potential women have to change our future – for the better.
 
@@ -135,6 +135,6 @@ Penny is more than the digital financial mentor you always wanted, but couldn’
 
 ## Get money empowered. Get Penny.
 
-Meet your money! [Take our money maker quiz ](penny-finance.com/quiz)
+Meet your money! [Take our money maker quiz ](www.penny-finance.com/quiz)
 
-And follow us here! [Start with a penny](instagram.com/startwithapenny)
+And follow us here! [Start with a penny](www.instagram.com/startwithapenny)
