@@ -3,10 +3,34 @@ import { Link } from 'gatsby'
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+
+import { Helmet } from 'react-helmet'
+
 
 const Footer = class extends React.Component {
+    componentDidMount() {
+     
+      var sendMail = document.getElementById("send-mail");
+      var userEmail = document.getElementById("user-email");
+      var data = [
+        {
+          email: userEmail,
+        },
+      ];
+      sendMail.addEventListener("click", function(){
+        fetch("/klaviyo/add_subscriber?email="+userEmail.value)
+        .then(res => res.json())
+        .then(function(data){
+          if(data.response.status == 200){
+            userEmail.value = ""
+          }
+        })
+        .catch(function(error) {
+          console.log("ERROR:", error)
+        });
+        
+      })
+    }
   render() {
     return (
       <footer id="footer">
@@ -16,6 +40,10 @@ const Footer = class extends React.Component {
             fontFamily: 'Harmattan',
           }}
         >
+          <Helmet>
+            <script type="application/javascript" async
+            src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=UAek8u"></script>
+          </Helmet>
           <div className="container  has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
               <div className="column is-4">
@@ -112,6 +140,7 @@ const Footer = class extends React.Component {
               </div>
             </div>
           </div>
+          
         </div>
       </footer>
     )
