@@ -113,6 +113,6 @@ Use these hacks to save in places you never thought you could:
 
 Be mindful of your spending, and don’t be afraid to get creative. If you need to scale back, don’t default to cut out mani-pedis, facials, massage. Life is hard. Treat yourself. Enjoy every second of it. Dance your way to the nail salon, and dream of what color you are going to pick. We’re here for it.
 
-What are your money and lifestyle hacks? Do you have other lifestyle tips for better budgeting?  Email us at support@penny-finance.com 
+What are your money and lifestyle hacks? Do you have other lifestyle tips for better budgeting?  Email us at support@penny-finance.com.  
 
-Figuring out the most sustainable strategy is key. Not sure what your fun budget should be? Our [money quiz](https://www.penny-finance.com/quiz) can get you started. www.penny-finance.com/quiz
+Figuring out the most sustainable strategy is key. Not sure what your fun budget should be? Our [money quiz](https://www.penny-finance.com/quiz) can get you started.
