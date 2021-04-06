@@ -152,7 +152,7 @@ No shame being in the red. Life happens. 
 
 Think about your must-haves and prioritize based on where your mini budget total is at. Set guardrails on the things you know in your gut aren’t top priority for you, and get creative on new ways you can make more money. 
 
-[Mindful spending, Fund your lifestyle](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/)
+Mindful spending, Fund your lifestyle
 
 Use our [money calculators](https://www.penny-finance.com/quiz) to help you get back on track. \
 \
