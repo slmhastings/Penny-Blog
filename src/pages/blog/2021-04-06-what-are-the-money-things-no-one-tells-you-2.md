@@ -105,6 +105,8 @@ Don’t get us wrong. We love credit cards as much as you do. They are a super c
 
 The minimum payment is not enough. You will incur 15 – 20%+ of charges every month if you aren’t paying the statement balance (aka everything that is due that month). When you rack up credit card points, you have to pay the statement balance in full. Or you pay a pretty penny. That can easily turn into an additional $200 of extra fees.
 
+Thinking oh sh!t right now?? Watch this to s[ee exactly HOW to pay your credit cards](https://www.loom.com/share/b5c4d3aed82b468fb10f9474297b5e2f). 
+
 Instead of throwing money away like that, make sure you’re paying your credit card in full (or as much as possible) every month.
 
 Find out [how debt \*really\* works ](https://www.penny-finance.com/products)
