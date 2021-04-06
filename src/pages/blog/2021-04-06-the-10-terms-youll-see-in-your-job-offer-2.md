@@ -8,17 +8,23 @@ description: |
 featuredpost: false
 featuredimage: /img/screen-shot-2021-03-23-at-2.35.59-pm.png
 tags:
-  - career
-  - money
-  - benefits
+  - Career
+  - Money
+  - Benefits
 ---
+Yay! You got a job offer! Look at you go, girl!
+
+![](/img/giphy.gif)
+
+📷: Giphy
+
 Time to celebrate! – Wait. What are all of these words? And what do they mean?
 
 If you had to cut your living room dance party short to look up job offer definitions online, look no further. 
 
-#### At Penny, we’re all about making complicated lingo… Un-complicated. 
+At Penny, we’re all about making complicated lingo… Un-complicated. 
 
-#### Your job offer is like a formal handshake, on paper. It outlines important benefits and details about your new job like your vacation time (gotta love this!) and opportunities for a “company match” from your employer (AKA free money! We cover this in more detail below).
+Your job offer is like a formal handshake, on paper. It outlines important benefits and details about your new job like your vacation time (gotta love this!) and opportunities for a “company match” from your employer (AKA free money! We cover this in more detail below).
 
 Plus, we tell you which areas you might want to consider negotiating before you sign off. Whoever said women can’t negotiate better job benefits? \*wink\*
 
@@ -38,7 +44,7 @@ First: Look at the tax brackets to figure out how much will be taken out. If thi
 > Subtract 30%.\
 > Yup. A third, gone. That’s taxes for ya. 
 
-Do you know what goes into your taxes? [How to read your paystub](<another blog post link>)
+Do you know what goes into your taxes? [How to read your paystub](https://blog.penny-finance.com/blog/2021-03-22-how-to-read-your-pay-stub/)
 
 # Gross
 
@@ -131,7 +137,7 @@ Look for the section that says “UP TO X% or $X” and see if you can swing put
 
 PS. Sometimes companies will offer “additional supplemental contribution up to X” – that is MORE THAN dollar-for-dollar. That’s extra, extra cash to help you out. Full party mode, ON!
 
-Confused about 401k matches and contributions? [Read this.](<blog post: 401k ira wtf>) 
+Confused about 401k matches and contributions? [Read this.](https://blog.penny-finance.com/blog/2021-04-06-401k-ira-wtf-2/) 
 
 # Pro-rated 
 
@@ -153,4 +159,6 @@ This could be for 3 months, 6 months or up to 1 year. When you first get a job, 
 
 What are some other money terms or definitions you’ve been curious to know? 
 
-[Tell us!  ](support@penny-finance.com)
+Ask us! support@penny-finance.com 
+
+Want more help making future money moves? [Take our money quiz](penny-finance.com/quiz) to see how much more you'll be banking in your new job.

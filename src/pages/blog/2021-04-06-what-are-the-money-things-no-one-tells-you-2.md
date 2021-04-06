@@ -5,13 +5,19 @@ date: 2021-02-01T15:00:00.000Z
 description: "The things the boys are doing that we are not – and the mistakes
   stopping you from  financial success. "
 featuredpost: false
-featuredimage: /img/screen-shot-2021-03-23-at-2.38.26-pm.png
+featuredimage: /img/img_1472.jpg
 tags:
   - Money
   - Saving
   - Secrets
 ---
 Have you ever felt like despite how much you work, work, work… Your money isn’t working for you?
+
+You might have old-school money myths holding you back. We're here to show you the truth behind them, and ways you can make your money work for you. 
+
+![](/img/img_1472.jpg)
+
+📸: Giphy
 
 When it comes to financial know-how, women don't have the same advantages as men. When it comes to finances, investing and planning, we face a systemic access gap. And when we finally take interest in money, we often face financial mansplaining that just leaves us more confused. (#The-Pain-is-Real)
 
@@ -39,9 +45,9 @@ We’re not going to go into the complicated math, but if you start saving $3K i
 
 Bottom line is, if you right size your expenses and find room to save and invest \*just a little bit\*, you can hit the million-dollar mark faster than anybody making the big bucks. 
 
-Don’t believe us? Take our money quiz to see your earning potential \[Link to money quiz]
+Don’t believe us? [Take our money quiz](penny-finance.com/quiz) to see your earning potential 
 
-Need help with your budget? Read these tips to get you from broke to woke
+Need help with your budget? [Read these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/) to get you from broke to woke
 
 # MYTH: YOU NEED TO BUY A HOUSE
 
@@ -57,7 +63,7 @@ Instead, think about how you can make your money work for you. Find ways to make
 
 And bank those savings. So, when you’re ready to drop 20% of your hard-earned cash on your new home, you can live the life you wanted in it, too.
 
-Curious if you can afford your next place? Use our money essentials calculator \[Link to calculator]
+Curious if you can afford your next place? [Use our money essentials calculator ](penny-finance.com/products)
 
 # MYTH: SAVE SAVE SAVE
 
@@ -73,9 +79,9 @@ Let’s say you put away $1K in your savings account. At the end of the year, yo
 
 And the earlier you start investing, the more chances it has to snowball into 2x, 3x, 4x your savings. Meaning you can actually save less (and have more money to spend today) and still hit that million-dollar goal before you’re 70.
 
-Oh, and by the way, women are \*really\* good investors. [This study](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds) [Link to study URL <https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds>]  from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
+Oh, and by the way, women are \*really\* good investors. [](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds)[This study ](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds)from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
 
-Investing is the answer. We’ll show you how \[Link to products page]
+Investing is the answer. [We’ll show you how. ](penny-finance.com/quiz)
 
 # MYTH: MORE EDUCATION = HIGHER SALARY
 
@@ -87,7 +93,7 @@ Investing in higher education doesn’t always pay off. If you have to take out 
 
 We believe in the power of education. That’s why we built Penny Finance, to show you how to make those smart money moves. Instead of jumping into grad school because you think it’ll make you richer, think about what kind of strain it might put on your finances. Does it equal out in the end?
 
-Take our money quiz to see what your future looks like \[Link to money quiz]
+See what your future looks like [here.](penny-finance.com/quiz) 
 
 # MYTH: YOU JUST NEED TO PAY THE MINIMUM PAYMENT
 
@@ -101,7 +107,7 @@ The minimum payment is not enough. You will incur 15 – 20%+ of charges every m
 
 Instead of throwing money away like that, make sure you’re paying your credit card in full (or as much as possible) every month.
 
-Find out how debt \*really\* works \[Link to product page]
+Find out [how debt \*really\* works ](penny-finance.com/products)
 
 # MYTH: YOU NEED A FINANCE DEGREE TO UNDERSTAND MONEY
 
@@ -113,7 +119,7 @@ Mastering the world of finance is nothing more than street smarts and planning. 
 
 It will feel hard in the beginning, because it’s new information, and things that weren’t taught in school. But the more you practice, and the more you learn, the easier it gets. Just like cooking.
 
-Let’s cook up a boss financial plan for you \[Link to money quiz]
+[Let’s cook up a boss financial plan for you](penny-finance.com/quiz) 
 
 The world of finance isn’t as complicated as we were led to believe.
 

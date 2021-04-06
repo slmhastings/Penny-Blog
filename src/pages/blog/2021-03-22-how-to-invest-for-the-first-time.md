@@ -9,6 +9,10 @@ tags:
   - Investing
   - Women
 ---
+Where to start and how much money you *really* need to invest.
+
+![](/img/8618ae8a82491781dcdb38d044081c41.jpg)
+
 📷: Pinterest 
 
 PSA: There is sooo much to learn. This is not something you can bang out in a day’s work. 
@@ -20,10 +24,6 @@ We are going to teach you why it matters and show you where to start. 
 Because financial education isn’t just to help your bank account – it’s also to help you understand what all the fuss is about. 
 
 And investing is definitely a path worth traveling down.
-
-![](/img/giphy-1.gif)
-
-📷 Credit: Giphy
 
 # What is investing? And what can I invest in?
 
@@ -85,6 +85,10 @@ We’re here for both (but mostly diversified investing).
 
 # Ok, then what? How do I start investing?
 
+![](/img/giphy-1.gif)
+
+📷 Credit: Giphy
+
 There are several different ways to invest in the stock market. 
 
 #### First, figure out your investment options. 
@@ -127,7 +131,7 @@ AKA, no money sitting in cash or money market funds in that account. And no mone
 
 IF you are not investing from a retirement account, and you choose to start a personal investing account on the side, pick a specific dollar amount to invest.
 
-(Btw, [the Penny Finance app](penny-finance.com) calculates this for you, taking into consideration the full picture of your earnings, debts, and money goals) 
+(Btw, [the Penny Finance app](https://penny-finance.com) calculates this for you, taking into consideration the full picture of your earnings, debts, and money goals) 
 
 # How much should you \*really\* invest? 
 
@@ -149,4 +153,4 @@ Ready to invest?  We’ll show you how.
 
 Practice your money moves with us! We built a step-by-step financial plan that walks you through the nitty-gritty, and shows you exactly where you need to start (and how much) based on your personalized money goals. 
 
-**[www.penny-finance.com](penny-finance.com)**
+[Starting investing with Penny Finance ](https://www.penny-finance.com)

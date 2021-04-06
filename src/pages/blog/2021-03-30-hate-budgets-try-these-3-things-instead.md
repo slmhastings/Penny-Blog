@@ -11,6 +11,10 @@ tags:
   - Spending
   - Money
 ---
+Tips for mindful spending in action, and budgeting ideas you’ll actually stick to.
+
+![](/img/366e54cd87dbcb8de08d0261d92d3d59.jpg)
+
 📸 Credit: Pinterest 
 
 We’ll be the first to admit it: Budgeting can really suck the life out of ya. 
@@ -21,7 +25,7 @@ Lastly: It puts you in a weird mindset, like you need to cut things \*out\* of y
 
 #### We could go on and on for this pet-peeves list, but point is: traditional budgeting sucks. 
 
-We created a [Mini Budget method ](<mini budget blog post>)with easy-to-calculate, easy-to-remember, personalized-to-you numbers. If you’re into money planning that \*actually\* make sense, bookmark that page first. 
+We created a [Mini Budget method](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/) with easy-to-calculate, easy-to-remember, personalized-to-you numbers. If you’re into money planning that \*actually\* make sense, bookmark that page first. 
 
 If ANY kind of budgeting feels too much for you, we got you. 
 
@@ -52,7 +56,7 @@ Here are some ideas to get you started!
 * Search for coupon codes for 10 minutes before submitting your order (sometimes it’s worth it!)
 * Babysit your cousin’s kids one night for $100
 * Ask for that raise at work!!!! 
-* [Learn how to invest ](<how to invest for 1st time>)– even small moves have big returns 
+* [Learn how to invest ](https://blog.penny-finance.com/blog/2021-03-22-how-to-invest-for-the-first-time/)– even small moves have big returns 
 
 # Tip # 2: Pick ONE NUMBER – and spend on whatever you want!
 
@@ -66,7 +70,7 @@ This number is the absolute MAX you get to spend on fun stuff.
 
 If you’re familiar with our Mini Budget exercise, this just-for-fun number is ideally what’s left-over after you subtracted all your expenses. But you can also work the other way around: Pick your fun-budget number first, and see what happens when you stick with it. 
 
-(*Crash Course: your Mini Budget = your paycheck (after tax), minus must-pay and must-have items, minus retirement savings. Your fun money is whatever is left over to save, spend, and invest to your heart’s content. [Click here for a full step-by-step breakdown](<mini budget blog>) on how to do this)
+(*Crash Course: your Mini Budget = your paycheck (after tax), minus must-pay and must-have items, minus retirement savings. Your fun money is whatever is left over to save, spend, and invest to your heart’s content. [Click here for a full step-by-step breakdown](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/) on how to do this)
 
 #### One number. Memorize it. Love it. Honor it. 
 
@@ -109,6 +113,6 @@ Use these hacks to save in places you never thought you could:
 
 Be mindful of your spending, and don’t be afraid to get creative. If you need to scale back, don’t default to cut out mani-pedis, facials, massage. Life is hard. Treat yourself. Enjoy every second of it. Dance your way to the nail salon, and dream of what color you are going to pick. We’re here for it.
 
-What are your money and lifestyle hacks? Do you have other lifestyle tips for better budgeting?  Email us at support@penny-finance.com 
+What are your money and lifestyle hacks? Do you have other lifestyle tips for better budgeting?  Email us at support@penny-finance.com.  
 
-Figuring out the most sustainable strategy is key. Not sure what your fun budget should be? Our [money quiz](www.penny-finance.com/quiz) can get you started.
+Figuring out the most sustainable strategy is key. Not sure what your fun budget should be? Our [money quiz](https://www.penny-finance.com/quiz) can get you started.

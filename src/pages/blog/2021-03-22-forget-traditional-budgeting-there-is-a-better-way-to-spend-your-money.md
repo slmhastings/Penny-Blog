@@ -10,6 +10,10 @@ tags:
   - Savings
   - Budgeting
 ---
+What you need to do differently if your budget just goes out the window.  
+
+![](/img/2d92664174e42f9f2c89ad5945280ad4.jpg)
+
 📷: Pinterest 
 
 We don’t want to sound like dinosaurs, but it’s too easy to buy things in this day and age. 
@@ -46,7 +50,7 @@ This exercise is meant to help change your mindset from asking “what do I need
 
 #### The Mini Budget Method
 
-*The trick to the mini budget is to work backwards – and remember the \*big\* numbers – so you know where you need to save, and where you have room to play.* 
+*The trick to the mini budget is to work backwards – and remember the \*\*big\*\* numbers – so you know where you need to save, and where you have room to play.* 
 
 Example numbers – Fill yours in as we go!
 
@@ -148,9 +152,9 @@ No shame being in the red. Life happens. 
 
 Think about your must-haves and prioritize based on where your mini budget total is at. Set guardrails on the things you know in your gut aren’t top priority for you, and get creative on new ways you can make more money. 
 
-[Mindful spending, Fund your lifestyle](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/)
+Mindful spending, Fund your lifestyle
 
-Use our [money calculators](www.penny-finance.com/quiz) to help you get back on track. \
+Use our [money calculators](https://www.penny-finance.com/quiz) to help you get back on track. \
 \
 **If you still have money to spend:** 
 
@@ -162,7 +166,7 @@ We like to split this mini-budget item into three categories: save, invest, and 
 
 For the unplanned emergencies, and for your mental wellbeing. Savings gives you freedom, and is your BFF when sh!t happens. 6 times your must-pay expenses is the guide. Remember, its hard to live on a starting salary, so if you can't get to that its OK, make a plan to get there. 
 
-Head spinning? [Check out our money quiz](www.penny-finance.com/quiz), we calculate this all for ya. 
+Head spinning? [Check out our money quiz](https://www.penny-finance.com/quiz), we calculate this all for ya. 
 
 * Invest it: 
 
@@ -176,7 +180,7 @@ This is your guilt-free, do-whatever-you-want money. Shopping, getaways, the ext
 
 # Closing thoughts on this...
 
-We all want to channel our inner Beyonce and life the high life. Remember, the purpose of your mini budget is to create a goal that feels good, and actually fits your lifestyle. It’s not about cutting back – it’s about spending your money in a way that works for you. 
+We all want to channel our inner Beyonce and live the high life. Remember, the purpose of your mini budget is to create a goal that feels good, and actually fits your lifestyle. It’s not about cutting back – it’s about spending your money in a way that works for you. 
 
 Need more help with your mini-budget? 
 
@@ -184,4 +188,4 @@ Here are [three real-life examples of women](https://blog.penny-finance.com/blog
 
 Read this post for ideas and inspiration of ways you can[ start funding your future](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/). 
 
-Want even more support? [Get Penny](www.penny-finance.com), a digital advisor just for you.
+Want even more support? [Get Penny](https://www.penny-finance.com), a digital advisor just for you.

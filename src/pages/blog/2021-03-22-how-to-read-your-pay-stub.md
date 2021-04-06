@@ -10,7 +10,11 @@ tags:
   - Savings
   - Career
 ---
+UGH What is FICA? Withholding? Social Security?
+
 ![](/img/f27ca8b714055f9dcd9aee60372ecf71.jpg)
+
+📸: Pinterest 
 
 Ok, first things first. You are getting paid! Wahoo!
 
@@ -57,6 +61,10 @@ The state tax rates can be found [here](https://files.taxfoundation.org/20200203
 
 Living in New York City or California? [Another city tax is added](https://taxfoundation.org/local-income-taxes-2019/). Gotta pay to live in cool places.
 
+# Show me...
+
+Not following? [We walk through a W2 ](https://www.loom.com/share/b5eeaf8c6b0e46268df5492b3a918fce)so you can see real numbers. 
+
 # Other Deductions
 
 Your pay stub might also include notes on other deductions, like fees for group insurance or health benefits that you might have through your employer. If you make 401k contributions, it will also show the amount taken from each paycheck. 
@@ -77,4 +85,4 @@ If you have more questions about your pay stub and the taxes within it, check ou
 
 There’s no one-size-fits-all recommendation to finances. And there shouldn’t be. You have goals and dreams you want to achieve. Your money matters. And you need a financial plan that is personalized to you. Not a blanket recommendation that may or may not help you save more.
 
-That is why we made Penny. Our intelligent calculators will determine the best option for you, with you, powered by you. [Take me to the money quiz](www.penny-finance.com/quiz) to see where I am at, and \*actually\* how to use this advice.
+That is why we made Penny. Our intelligent calculators will determine the best option for you, with you, powered by you. [Take me to the money quiz](https://www.penny-finance.com/quiz) to see where I am at, and \*actually\* how to use this advice.

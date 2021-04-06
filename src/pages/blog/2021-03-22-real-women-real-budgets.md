@@ -166,7 +166,7 @@ OK what does this all add up to?
 >
 > (that means we want your emergency savings to be about **$14k** before makin' any other money moves)
 
-P.S. We've built these calcs into our app, if you [wanna get your personal numbers](penny-finance.com/quiz)
+P.S. We've built these calcs into our app, if you [wanna get your personal numbers](https://www.penny-finance.com/quiz)
 
 We are SO proud of this gal! She’s making bank AND being extra-mindful of expenses.
 
@@ -305,6 +305,8 @@ Now, if most of these expenses are justified, how do you deal with the negative 
 Our biggest tip for this city gal is NOT to create a super strict budget that you are not going to stick with. That only makes your guilt-trip worse when you fall off the wagon. Life happens. We don’t want you to feel restricted with your money, even in the red.
 
 If you know that you should get a pay raise, or will find a roommate the next year, it is OK to bridge the gap for the short-term with a 0% credit card. But if this is your monthly total, every month, pause. 
+
+Time for a video break? Ya, we think so. Sh!t is getting real... [Watch this for a break](https://www.loom.com/share/7c15376795864215b12a64558b84584e). 
 
 Yup. Scary. Not ideal. Credit card fees are a slippery slope that will snowball your negative balance at a ridiculously fast rate. At the end of the day, you may find yourself in a scary situation where you can’t fund your life. 
 
@@ -448,8 +450,6 @@ It’s not always easy, especially when you are just starting out. One-off expen
 
 # It’s all about your priorities and knowing your numbers.
 
-##### \
-
 \
 Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
 
@@ -461,9 +461,8 @@ Here is what we did -- so you can do it too!
 
 P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, get you trackin, and figure out a plan. We've got you (and your wallet). 
 
-##### [Take our money maker quiz! ](www.penny-finance.com/quiz)
+### [Take our money maker quiz! ](https://www.penny-finance.com/quiz)
 
 Budgeting doesn’t have to be this painful exercise that makes you want to crawl under the covers. This post shows you [how to make it easy, step-by-step](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/). 
 
-**\
-Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/).**
+Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/).
