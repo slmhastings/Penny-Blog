@@ -35,7 +35,8 @@ export default class BlogIndexPage extends React.Component {
         <Scroller />
         <div style={{
           textAlign: 'center',
-          margin: '25px'
+          margin: '25px',
+          padding: '5px'
         }}
         >
           <a class="courses" href="https://penny-finance.com/">
