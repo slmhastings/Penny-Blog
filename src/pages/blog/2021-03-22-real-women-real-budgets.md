@@ -10,6 +10,8 @@ tags:
   - Spending
   - Women
 ---
+📷: Pinterest 
+
 We \*love\* real-life financial advice. It’s always – Save 20% of your income, Never spend over 30% on rent, Keep 5% for retirement… How the heck do you action that? Yeah, not happening. 
 
 Full disclosure: We don’t love “budgeting” in the traditional sense. Budgeting implies you have to cut things out. And who wants to do that? Nobody. (us included)
@@ -443,6 +445,7 @@ It’s not always easy, especially when you are just starting out. One-off expen
 # It’s all about your priorities and knowing your numbers.
 
 ##### \
+
 \
 Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
 
