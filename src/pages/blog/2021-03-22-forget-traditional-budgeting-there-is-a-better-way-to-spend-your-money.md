@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Forget traditional budgeting
+title: "Forget traditional budgeting. Try this instead. "
 date: 2021-03-29T14:00:00.000Z
 description: "What you need to do differently if your budget just goes out the window.  "
 featuredpost: false
@@ -10,6 +10,8 @@ tags:
   - Savings
   - Budgeting
 ---
+📷: Pinterest 
+
 We don’t want to sound like dinosaurs, but it’s too easy to buy things in this day and age. 
 
 Every time we open our phones, scroll through social media, we’re tempted to buy something. 
@@ -42,9 +44,9 @@ Yes, technically it’s still a budget. But this budget is more about mindful sp
 
 This exercise is meant to help change your mindset from asking “what do I need to cut back on?” to that sweet spot of, “how can I make this work?”
 
-\
-***The Mini Budget Method***\
-**The trick to the mini budget is to work backwards – and remember the \*big\* numbers – so you know where you need to save, and where you have room to play.** 
+#### The Mini Budget Method
+
+*The trick to the mini budget is to work backwards – and remember the \*big\* numbers – so you know where you need to save, and where you have room to play.* 
 
 Example numbers – Fill yours in as we go!
 
@@ -70,17 +72,17 @@ Confused? Let’s break it down.
 
 Not to be confused with your salary! It’s so misleading. Most people pay 20-40% in taxes, so you gotta use the after-tax number on your paycheck for this to work. 
 
-[How to read your pay stub](<Read pay stub>)
+[How to read your pay stub](https://blog.penny-finance.com/blog/2021-03-22-how-to-read-your-pay-stub/)
 
 # Step 2: Start with your big ticket \*must-pay\* living expenses
 
 These are all your \*must pay or die trying\* things that you need to live your life. 
 
-* Housing (mortgage or rent) 
-* Insurance (health, renters, car)
-* Food (groceries, restaurants*)
-* Transportation (car, subway, bus, uber*) 
-* Miscellaneous (phone, utilities)
+* **Housing (mortgage or rent)** 
+* **Insurance (health, renters, car)**
+* **Food (groceries, restaurants*)**
+* **Transportation (car, subway, bus, uber*)** 
+* **Miscellaneous (phone, utilities)**
 
 When you go through these numbers, think about what you consider non-negotiable. 
 
@@ -88,7 +90,7 @@ You gotta live, you gotta eat, you gotta get from point a to point b (literally)
 
 Here’s how to add up – or pair down – your big-ticket expenses. 
 
-* Housing (mortgage or rent) 
+* **Housing (mortgage or rent)** 
 
 Whoever came up with “don’t spend more than 50% of your paycheck on housing” clearly never lived in New York City on a starting salary. Or San Francisco, Boston, DC, LA, Chicago, Dallas, \*literally\* any urban area. I mean, come on. Forget this already. 
 
@@ -100,11 +102,11 @@ If you want to live with that musician guy in Miami or spend that year in Madrid
 
 > Life your live! We give you permission. You will remember that extra special year of bliss more than the $1,000 you might have saved staying put (and missing out). 
 
-* Insurance (health, renters, car)
+* **Insurance (health, renters, car)**
 
 Healthcare and car insurance are a gimmie. Yes, you should try to lower your premiums once in a while, and you don’t have to choose coverage for everything, but this line item is essential. 
 
-* Food (groceries, restaurants*)
+* **Food (groceries, restaurants*)**
 
 Food budget can get contentious. Again, it’s about spending with intention.
 
@@ -124,7 +126,7 @@ A bit short? Consider saving the omakase for special occasions. 
 
 Just right? Awesome. If you want to spend what’s leftover on every restaurant in Austin, go for it!
 
-* Transportation (car, subway, bus, uber*) 
+* **Transportation (car, subway, bus, uber*)** 
 
 Same with food, consider your priorities. 
 
@@ -132,7 +134,7 @@ Can you limit how often you call an uber? No? Then add it into your budget. 
 
 Don’t mind taking transit everywhere? Great, you can use that money elsewhere. 
 
-* Miscellaneous (phone, utilities)
+* **Miscellaneous (phone, utilities)**
 
 All the random things you need, but don’t think about on a daily basis. Phone bill, internet, utilities… The month-to-month stuff you gotta pay for living. 
 
@@ -146,7 +148,7 @@ No shame being in the red. Life happens. 
 
 Think about your must-haves and prioritize based on where your mini budget total is at. Set guardrails on the things you know in your gut aren’t top priority for you, and get creative on new ways you can make more money. 
 
-[ Mindful spending, Fund your lifestyle](<mindful spending post>)
+[Mindful spending, Fund your lifestyle](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/)
 
 Use our [money calculators](www.penny-finance.com/quiz) to help you get back on track. \
 \
@@ -178,8 +180,8 @@ We all want to channel our inner Beyonce and life the high life. Remember, the p
 
 Need more help with your mini-budget? 
 
-Here are [three real-life examples of women](<real women real budgets blog>) who put the mini budget method into action.
+Here are [three real-life examples of women](https://blog.penny-finance.com/blog/2021-03-22-real-women-real-budgets/) who put the mini budget method into action.
 
-Read this post for ideas and inspiration of ways you can[ start funding your future](<mindful spending post>). 
+Read this post for ideas and inspiration of ways you can[ start funding your future](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/). 
 
 Want even more support? [Get Penny](www.penny-finance.com), a digital advisor just for you.
