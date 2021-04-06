@@ -101,7 +101,7 @@ const Footer = class extends React.Component {
                     <input
                       type="email"
                       class="form-control"
-                      id="exampleFormControlInput1"
+                      id="user-email"
                       placeholder="Email address"
                     />
                     <i
