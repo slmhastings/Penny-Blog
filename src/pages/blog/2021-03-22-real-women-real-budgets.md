@@ -166,7 +166,7 @@ OK what does this all add up to?
 >
 > (that means we want your emergency savings to be about **$14k** before makin' any other money moves)
 
-P.S. We've built these calcs into our app, if you [wanna get your personal numbers](penny-finance.com/quiz)
+P.S. We've built these calcs into our app, if you [wanna get your personal numbers](https://www.penny-finance.com/quiz)
 
 We are SO proud of this gal! She’s making bank AND being extra-mindful of expenses.
 
@@ -459,7 +459,7 @@ Here is what we did -- so you can do it too!
 
 P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, get you trackin, and figure out a plan. We've got you (and your wallet). 
 
-### [Take our money maker quiz! ](www.penny-finance.com/quiz)
+### [Take our money maker quiz! ](https://www.penny-finance.com/quiz)
 
 Budgeting doesn’t have to be this painful exercise that makes you want to crawl under the covers. This post shows you [how to make it easy, step-by-step](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/). 
 
