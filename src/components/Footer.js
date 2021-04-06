@@ -81,7 +81,7 @@ const Footer = class extends React.Component {
                       <Link to="/quiz">Take our money quiz</Link>
                     </li>
                     <li>
-                      <Link to="/contact">Contact us</Link>
+                      <Link href="mailto:support@penny-finance.com" >Contact us</Link>
                     </li>
                     <li>
                       <Link to="/privacy">Privacy policy</Link>
