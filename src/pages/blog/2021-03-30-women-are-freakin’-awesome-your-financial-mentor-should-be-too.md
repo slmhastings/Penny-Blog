@@ -10,9 +10,11 @@ tags:
   - Money
   - Investing
 ---
-#### There’s a new way to make money moves – and she’s called Penny. Penny Finance.
+There’s a new way to make money moves – and she’s called Penny. Penny Finance.
 
-#### Your ticket to more security, less stress, and more freedom.
+Your ticket to more security, less stress, and more freedom.
+
+![](/img/_jwp9706.jpg)
 
 Most young, independent women we come across have similar feelings about finance: \*Ew\*
 
@@ -40,8 +42,7 @@ You in?
 
 We created Penny to help bridge the gap in financial education for women – and empower the next generation to create the financial freedom they crave, to fund their ideal lifestyle, now and in the future.
 
-We bet on your potential, not on your bank account.\
-Something the finance industry won’t do.
+We bet on your potential, not on your bank account. Something the finance industry won’t do.
 
 Somewhere along the way, society convinced everyone that men are better than women at handling money and financial decisions.
 
@@ -54,7 +55,7 @@ We summarized key research findings to remind you why women are awesome – and 
 *  Women working full time earned 81.6 cents for every dollar a man working full time earned on average (US Census Bureau)
 * Women are doing 4x the amount of unpaid work at home (NY Times)
 
- Women slay, for less money. We know you’ve heard this before, but it is still infuriating. Everywhere we go, there’s an invisible glass ceiling. But we’re strong, determined, resilient – and we’re ready to change this trend.
+Women slay, for less money. We know you’ve heard this before, but it is still infuriating. Everywhere we go, there’s an invisible glass ceiling. But we’re strong, determined, resilient – and we’re ready to change this trend.
 
 #### 2. Women are whip-smart
 
@@ -67,7 +68,7 @@ We summarized key research findings to remind you why women are awesome – and 
 * Women now outnumber men in the workforce (TIME) 
 * At age 65, women will have 32 cents for every dollar of wealth a man has (Washington Post)
 
- Do you ever hear about this? It was news to us. We don’t hear women complaining that they don’t have as much money as men when they are older – despite working just as much. Maybe we’re too busy taking care of everyone around us, instead of enjoying our well-earned rest in retirement?
+Do you ever hear about this? It was news to us. We don’t hear women complaining that they don’t have as much money as men when they are older – despite working just as much. Maybe we’re too busy taking care of everyone around us, instead of enjoying our well-earned rest in retirement?
 
 #### 4. Women are natural investors, but never brag about it
 
@@ -134,6 +135,6 @@ Penny is more than the digital financial mentor you always wanted, but couldn’
 
 ## Get money empowered. Get Penny.
 
-Meet your money! [Take our money maker quiz ](www.penny-finance.com/quiz)
+Meet your money! [Take our money maker quiz ](penny-finance.com/quiz)
 
-And follow us here! [Start with a penny](www.instagram.com/startwithapenny)
+And follow us here! [Start with a penny](instagram.com/startwithapenny)
