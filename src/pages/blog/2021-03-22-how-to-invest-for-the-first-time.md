@@ -9,6 +9,10 @@ tags:
   - Investing
   - Women
 ---
+Where to start and how much money you *really* need to invest.
+
+![](/img/8618ae8a82491781dcdb38d044081c41.jpg)
+
 📷: Pinterest 
 
 PSA: There is sooo much to learn. This is not something you can bang out in a day’s work. 
@@ -21,9 +25,7 @@ Because financial education isn’t just to help your bank account – it’s al
 
 And investing is definitely a path worth traveling down.
 
-![](/img/giphy-1.gif)
 
-📷 Credit: Giphy
 
 # What is investing? And what can I invest in?
 
@@ -84,6 +86,10 @@ Stock picking and diversified investing: two very different things. 
 We’re here for both (but mostly diversified investing).
 
 # Ok, then what? How do I start investing?
+
+![](/img/giphy-1.gif)
+
+📷 Credit: Giphy
 
 There are several different ways to invest in the stock market. 
 
