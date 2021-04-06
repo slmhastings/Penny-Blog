@@ -448,8 +448,6 @@ It’s not always easy, especially when you are just starting out. One-off expen
 
 # It’s all about your priorities and knowing your numbers.
 
-##### \
-
 \
 Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
 
@@ -461,9 +459,8 @@ Here is what we did -- so you can do it too!
 
 P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, get you trackin, and figure out a plan. We've got you (and your wallet). 
 
-##### [Take our money maker quiz! ](www.penny-finance.com/quiz)
+### [Take our money maker quiz! ](www.penny-finance.com/quiz)
 
 Budgeting doesn’t have to be this painful exercise that makes you want to crawl under the covers. This post shows you [how to make it easy, step-by-step](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/). 
 
-**\
-Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/).**
+Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/).
