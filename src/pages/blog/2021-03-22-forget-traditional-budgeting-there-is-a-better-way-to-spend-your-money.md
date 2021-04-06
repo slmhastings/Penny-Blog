@@ -154,7 +154,7 @@ Think about your must-haves and prioritize based on where your mini budget total
 
 [Mindful spending, Fund your lifestyle](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/)
 
-Use our [money calculators](www.penny-finance.com/quiz) to help you get back on track. \
+Use our [money calculators](https://www.penny-finance.com/quiz) to help you get back on track. \
 \
 **If you still have money to spend:** 
 
@@ -166,7 +166,7 @@ We like to split this mini-budget item into three categories: save, invest, and 
 
 For the unplanned emergencies, and for your mental wellbeing. Savings gives you freedom, and is your BFF when sh!t happens. 6 times your must-pay expenses is the guide. Remember, its hard to live on a starting salary, so if you can't get to that its OK, make a plan to get there. 
 
-Head spinning? [Check out our money quiz](www.penny-finance.com/quiz), we calculate this all for ya. 
+Head spinning? [Check out our money quiz](https://www.penny-finance.com/quiz), we calculate this all for ya. 
 
 * Invest it: 
 
@@ -188,4 +188,4 @@ Here are [three real-life examples of women](https://blog.penny-finance.com/blog
 
 Read this post for ideas and inspiration of ways you can[ start funding your future](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/). 
 
-Want even more support? [Get Penny](www.penny-finance.com), a digital advisor just for you.
+Want even more support? [Get Penny](https://www.penny-finance.com), a digital advisor just for you.
