@@ -13,9 +13,13 @@ tags:
 ---
 We asked women in their 30s: what do they wish they did differently with their money and finances in their 20s? 
 
+![](/img/8caa69536218d131d95690caaa8f3562.jpg)
+
+📸: Pinterest 
+
 Sharing the wisdom. Because that’s what we do. 
 
-> Hint: They all pretty much agree that you should buy that thing, and invest. 
+> **Hint: They all pretty much agree that you should buy that thing, and invest.** 
 
 And we can’t argue with that!
 
