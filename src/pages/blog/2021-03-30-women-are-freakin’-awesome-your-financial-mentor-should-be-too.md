@@ -138,4 +138,4 @@ Penny is more than the digital financial mentor you always wanted, but couldn’
 
 Meet your money! [Take our money maker quiz ](https://penny-finance.com/quiz)
 
-And follow us here! [Start with a penny](www.instagram.com/startwithapenny)
+And follow us here! [Start with a penny](https://www.instagram.com/startwithapenny)
