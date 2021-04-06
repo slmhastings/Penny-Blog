@@ -5,7 +5,7 @@ date: 2021-02-01T15:00:00.000Z
 description: "The things the boys are doing that we are not – and the mistakes
   stopping you from  financial success. "
 featuredpost: false
-featuredimage: /img/screen-shot-2021-03-23-at-2.38.26-pm.png
+featuredimage: /img/img_1472.jpg
 tags:
   - Money
   - Saving
@@ -15,7 +15,9 @@ Have you ever felt like despite how much you work, work, work… Your money isn�
 
 You might have old-school money myths holding you back. We're here to show you the truth behind them, and ways you can make your money work for you. 
 
-![](/img/screen-shot-2021-03-23-at-2.38.26-pm.png)
+![](/img/img_1472.jpg)
+
+📸: Giphy
 
 When it comes to financial know-how, women don't have the same advantages as men. When it comes to finances, investing and planning, we face a systemic access gap. And when we finally take interest in money, we often face financial mansplaining that just leaves us more confused. (#The-Pain-is-Real)
 
