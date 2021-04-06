@@ -69,7 +69,7 @@ Not following? [We walk through a W2 ](https://www.loom.com/share/b5eeaf8c6b0e46
 
 Your pay stub might also include notes on other deductions, like fees for group insurance or health benefits that you might have through your employer. If you make 401k contributions, it will also show the amount taken from each paycheck. 
 
-(WTF is a 401k? [Learn about it here](<Link to 401k>))
+(WTF is a 401k? [Learn about it here](https://blog.penny-finance.com/blog/2021-04-06-401k-ira-wtf-2/))
 
 #### For Entrepreneurs 
 
