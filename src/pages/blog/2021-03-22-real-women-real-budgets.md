@@ -306,6 +306,8 @@ Our biggest tip for this city gal is NOT to create a super strict budget that yo
 
 If you know that you should get a pay raise, or will find a roommate the next year, it is OK to bridge the gap for the short-term with a 0% credit card. But if this is your monthly total, every month, pause. 
 
+Time for a video break? Ya, we think so. Sh!t is getting real... [Watch this for a break](https://www.loom.com/share/7c15376795864215b12a64558b84584e). 
+
 Yup. Scary. Not ideal. Credit card fees are a slippery slope that will snowball your negative balance at a ridiculously fast rate. At the end of the day, you may find yourself in a scary situation where you can’t fund your life. 
 
 See what you can part with or change – and which habits you can add to help fund this $2k apartment. [We made a list to get you started. ](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/)
