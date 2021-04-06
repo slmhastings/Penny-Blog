@@ -10,7 +10,13 @@ tags:
   - Savings
   - Career
 ---
+
+
+UGH What is FICA? Withholding? Social Security?
+
 ![](/img/f27ca8b714055f9dcd9aee60372ecf71.jpg)
+
+📸: Pinterest 
 
 Ok, first things first. You are getting paid! Wahoo!
 
@@ -56,6 +62,12 @@ The federal tax rates can be found [here](https://taxfoundation.org/publications
 The state tax rates can be found [here](https://files.taxfoundation.org/20200203173310/PIT-2020-dv2-01.png).
 
 Living in New York City or California? [Another city tax is added](https://taxfoundation.org/local-income-taxes-2019/). Gotta pay to live in cool places.
+
+
+
+# Show me...
+
+Not following? We walk through a W2 so you can see real numbers. https://www.loom.com/share/b5eeaf8c6b0e46268df5492b3a918fce
 
 # Other Deductions
 
