@@ -11,6 +11,10 @@ tags:
   - Spending
   - Money
 ---
+Tips for mindful spending in action, and budgeting ideas you’ll actually stick to.
+
+![](/img/366e54cd87dbcb8de08d0261d92d3d59.jpg)
+
 📸 Credit: Pinterest 
 
 We’ll be the first to admit it: Budgeting can really suck the life out of ya. 
