@@ -122,6 +122,8 @@ For the sake of simplicity, think about it this way:
 
 If you’ve got a stable job, you’ve got a cushion in the bank, and you’ve got those credit cards in order – pay down your student loan!
 
+Which one should you pay first? [We walk through an example live. ](https://www.loom.com/share/1d407662a9d348d58a0ca167d9af3874)
+
 If you can’t afford to yet, stick with your auto-pay amounts for your loan, and focus on setting yourself up for success in the here and now instead.
 
 For example, say you have credit card debt too. Those interest rates are killer (and double or triple your student loans). So, use that extra money to pay off your credit card – in full – first. Use it for your student loans next time.
