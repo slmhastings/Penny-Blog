@@ -67,7 +67,7 @@ Why is everyone obsessed with investments, 401ks and retirement accts?
 
 Well, because they grow for you. They do the hard work. And you realize later on that the growth is freakin awesome, and it’ll be impossible to catch up to the growth with nothing but extra savings.
 
-[Learn how to start investing with Penny. ](penny-finance.com)
+[Learn how to start investing with Penny. ](https://www.penny-finance.com)
 
 Still wondering WTF is a 401k or an IRA? [Click here](https://blog.penny-finance.com/blog/2021-04-06-401k-ira-wtf-2/)
 
