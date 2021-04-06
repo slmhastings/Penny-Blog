@@ -63,4 +63,4 @@ Loved this? Check out the [investing edition](https://blog.penny-finance.com/blo
 
 What is your money advice? Share your story with us: [support@penny-finance.com](<>)
 
-Feeling inspired? Take our [free money maker quiz](penny-finance.com/quiz) to meet your money!
+Feeling inspired? Take our [free money maker quiz](https://www.penny-finance.com/quiz) to meet your money!
