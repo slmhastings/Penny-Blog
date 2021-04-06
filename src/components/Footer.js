@@ -79,7 +79,7 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="footer-link">
                     <li>
-                      <Link to="https://penny-finance.herokuapp.com/quiz">Take our money quiz</Link>
+                      <Link to="https://penny-finance.com/quiz">Take our money quiz</Link>
                     </li>
                     <li>
                       <Link href="mailto:support@penny-finance.com" >Contact us</Link>
