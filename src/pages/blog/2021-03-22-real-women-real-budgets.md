@@ -10,6 +10,10 @@ tags:
   - Spending
   - Women
 ---
+Make your money work for you with real-life examples.
+
+![](/img/image-1-13.jpg "Real women real budgets")
+
 📷: Pinterest 
 
 We \*love\* real-life financial advice. It’s always – Save 20% of your income, Never spend over 30% on rent, Keep 5% for retirement… How the heck do you action that? Yeah, not happening. 
