@@ -14,9 +14,7 @@ We \*love\* real-life financial advice. It’s always – Save 20% of your incom
 
 Full disclosure: We don’t love “budgeting” in the traditional sense. Budgeting implies you have to cut things out. And who wants to do that? Nobody. (us included)
 
-We think of budgeting differently. Our mini budget method helps you think big picture. It’s a learning exercise that promotes mindful spending (and stops letting the small stuff weigh you down).
-
-[Check out our mini-budget method ](<mini budget blog posts>)
+We think of budgeting differently. [Our mini budget method](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/) helps you think big picture. It’s a learning exercise that promotes mindful spending (and stops letting the small stuff weigh you down).
 
 Basically, budgeting = knowing your numbers. 
 
@@ -32,7 +30,7 @@ This money maker is a home-owner, car-owner, living in the burbs, and working in
 
 > **$52,000 salary** >> wow! 
 >
-> **$11,000 taxes** >> yup, don’t forget about this – [read your pay stub](<read your pay stub post>) to get where it goes
+> **$11,000 taxes** >> yup, don’t forget about this – [read your pay stub](https://blog.penny-finance.com/blog/2021-03-22-how-to-read-your-pay-stub/) to get where it goes
 >
 > **$38,000 expenses** >> when you add it up, kinda makes you feel sick huh?
 
@@ -160,7 +158,7 @@ OK what does this all add up to?
 >
 > **$2,471** per month are \*must-pay\* items -- we put a * next to those
 >
-> (that means we want your emergency savings to be about **$14k** before makin any other money moves)
+> (that means we want your emergency savings to be about **$14k** before makin' any other money moves)
 
 P.S. We've built these calcs into our app, if you wanna [get your personal numbers](www.penny-finance.com/quiz)
 
@@ -170,14 +168,14 @@ Surprised we didn’t tell her to cut out Spotify, shopping, or personal care? G
 
 This is what we mean by mindful spending vs traditional budgeting. 
 
-Your Spotify subscription, in the grand scheme of things, won’t break the bank. That’s one of the biggest counter-intuitive [money secrets no one tells you](<money things no one tells you>). 
+Your Spotify subscription, in the grand scheme of things, won’t break the bank. That’s one of the biggest counter-intuitive [money secrets no one tells you](https://blog.penny-finance.com/blog/2021-04-06-what-are-the-money-things-no-one-tells-you-2/). 
 
 But to anyone who thinks buying a home is the end-all, be-all of life: DON’T. 
 
 We’re all for you being the owner of your dream home – just PLEASE think twice before you jump into a 30-year mortgage commitment that could potentially suck up all the life (and money) out of you. 
 
 **\
-Sometimes, the more financially savvy thing to do is legit rent an awesome place, and continue to save for your future home at your own pace – and have more money in your pocket so you can keep your Spotify account (Netflix, Hulu, you get it).**
+Sometimes, the more financially savvy thing to do is rent an awesome place, and continue to save for your future home at your own pace – and have more money in your pocket so you can keep your Spotify account (Netflix, Hulu, you get it).**
 
 # **Money Maker 2 - City Gal**
 
@@ -192,7 +190,7 @@ This money maker lives in the heart of a big city (New York City to be exact), d
 $57,000 - $15,000 - $45,000 = **negative $3k, uh-o**
 
 \
-Ok lets look at her expenses and see what magic can be done
+Ok lets look at her expenses and see what magic can be done.
 
 \
 Rent*
@@ -284,7 +282,7 @@ OK what does this all add up to?
 >
 > **$3,020** per month are \*must-pay\* items -- we put a * next to those
 >
-> (that means we want your emergency savings to be about **$18k** before makin any other money moves. but now that is going to be truly impossible with more expenses than income... soooo.... now what?)
+> (that means we want your emergency savings to be about **$18k** before makin' any other money moves. but now that is going to be truly impossible with more expenses than income... soooo.... now what?)
 
 THESE ARE REAL NUMBERS. No shame in any of it. 
 
@@ -298,13 +296,13 @@ Now, if most of these expenses are justified, how do you deal with the negative 
 
 **Option 3: 0% credit cards** \[if you are going to find a new apt and reduce rent, and just need a temporary solution]
 
-Our biggest tip for this city gal is NOT to create a super strict budget that you are not going to stick to. That only makes your guilt-trip worse when you fall off the wagon. Life happens. We don’t want you to feel restricted with your money, even in the red.
+Our biggest tip for this city gal is NOT to create a super strict budget that you are not going to stick with. That only makes your guilt-trip worse when you fall off the wagon. Life happens. We don’t want you to feel restricted with your money, even in the red.
 
 If you know that you should get a pay raise, or will find a roommate the next year, it is OK to bridge the gap for the short-term with a 0% credit card. But if this is your monthly total, every month, pause. 
 
 Yup. Scary. Not ideal. Credit card fees are a slippery slope that will snowball your negative balance at a ridiculously fast rate. At the end of the day, you may find yourself in a scary situation where you can’t fund your life. 
 
-See what you can part with or change – and which habits you can add to help fund this $2k apartment. [We made a list to get you started](<mindful spending>). 
+See what you can part with or change – and which habits you can add to help fund this $2k apartment. [We made a list to get you started. ](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/)
 
 # **Money Maker 3 - Metropolitan Gal**
 
@@ -312,7 +310,7 @@ This money maker lives in the outskirts of a major city, is a car-owner, freelan
 
 > **$40,000 income** >> when income is not guaranteed or ebbs and flows, its \*really\* important to know your numbers inside and out
 >
-> **$5,000 taxes** >> remember, when you are an entreprenuer or freelancer, no one is setting aside tax money for you, pllssss don't forget that or tax day will really suck. also, you can deduct some biz expenses to save on taxes, save those receipts!!! 
+> **$5,000 taxes** >> remember, when you are an entrepreneur or freelancer, no one is setting aside tax money for you, pllssss don't forget that or tax day will really suck. also, you can deduct some biz expenses to save on taxes, save those receipts!!! 
 >
 > **$27,500 expenses** >> a thrifty babe, look at you.  
 
@@ -431,7 +429,7 @@ OK what does this all add up to?
 >
 > **$1,900** per month are \*must-pay\* items -- we put a * next to those
 >
-> (that means we want your emergency savings to be about **$11k** before makin any other money moves, and guess what, you'll hit that number in a year from what you have left over, impressive!)
+> (that means we want your emergency savings to be about **$11k** before makin' any other money moves, and guess what, you'll hit that number in a year from what you have left over, impressive!)
 
 \
 We are so proud of this metropolitan gal! 
@@ -442,9 +440,11 @@ This is an ideal situation – with looots left over to stock away, invest, and 
 
 It’s not always easy, especially when you are just starting out. One-off expenses come up all the time. Think – moving to your next apt, the friend that is getting married, or those shoes you really, really want. 
 
-> It’s all about your priorities and knowing your numbers.\
-> \
-> Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
+# It’s all about your priorities and knowing your numbers.
+
+##### \
+\
+Overwhelmed? Start small. Write down your numbers. Open your credit card statement and start logging where your money goes. Don’t rush into any decisions about cutting stuff out until you know what you are spending on.
 
 Here is what we did -- so you can do it too! 
 
@@ -452,9 +452,11 @@ Here is what we did -- so you can do it too!
 2. Add it up! – and don’t shy away if it’s red, we’re here for you girl!
 3. Think about where you’re spending, and what you’re spending on – are these items all “must haves” or are some a “good to have”? 
 
-P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, get you trackin, and figure out a plan. We've got you (and your wallet). Take our money maker quiz [here](www.penny-finance.com/quiz)! 
+P.S. At this point, unless you loveeee numbers, you will want some support and love. And that is why we built Penny. We'll show you how, get you trackin, and figure out a plan. We've got you (and your wallet). 
 
-Budgeting doesn’t have to be this painful exercise that makes you want to crawl under the covers. This post shows you [how to make it easy, step-by-step](<mini budget>). 
+##### [Take our money maker quiz! ](www.penny-finance.com/quiz)
+
+Budgeting doesn’t have to be this painful exercise that makes you want to crawl under the covers. This post shows you [how to make it easy, step-by-step](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/). 
 
 **\
-Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](<mindful spending>).**
+Finally, we like to say, don’t cut the budget, increase the income. Find ways to fund your [lifestyle with these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/).**
