@@ -27,7 +27,7 @@ And we can’t argue with that!
 
 \---
 
-True! In the grand scheme of things, a lot of smaller expenses don't break the bank - use our [mindful spending method](<mini budget post>) to create a budget that actually works for you. 
+True! In the grand scheme of things, a lot of smaller expenses don't break the bank - use our [mindful spending method](https://blog.penny-finance.com/blog/2021-03-22-forget-traditional-budgeting-there-is-a-better-way-to-spend-your-money/) to create a budget that actually works for you. 
 
 \---
 
@@ -41,7 +41,7 @@ True! In the grand scheme of things, a lot of smaller expenses don't break the b
 
 \---
 
-Amen to that. Not sure where to even start with your student loans?  [Take our money quiz](www.penny-finance.com/quiz) to see when you'll pay off those damn loans, and then get goin' on your payoff plan. 
+Amen to that. Not sure where to even start with your student loans?  [Take our money quiz](penny-finance.com/quiz) to see when you'll pay off those damn loans, and then get goin' on your payoff plan. 
 
 \---
 
@@ -53,8 +53,10 @@ Amen to that. Not sure where to even start with your student loans?  [Take our m
 
 \---
 
-Curious how real women made all the numbers work, while enjoying it all? We went through three IRL budgets [here](<real women real budgets blog>).  
+Curious how real women made all the numbers work, while enjoying it all? We went through three IRL budgets [here](https://blog.penny-finance.com/blog/2021-03-22-real-women-real-budgets/).  
 
-Loved this? Check out the [investing edition](<blog 20yoself investing>) of advice to your younger self. 
+Loved this? Check out the [investing edition](https://blog.penny-finance.com/blog/2021-03-22-what-money-advice-would-you-give-your-younger-self/) of advice to your younger self. 
 
 What is your money advice? Share your story with us: [support@penny-finance.com](<>)
+
+Feeling inspired? Take our [free money maker quiz](penny-finance.com/quiz) to meet your money!
