@@ -45,7 +45,7 @@ True! In the grand scheme of things, a lot of smaller expenses don't break the b
 
 \---
 
-Amen to that. Not sure where to even start with your student loans?  [Take our money quiz](penny-finance.com/quiz) to see when you'll pay off those damn loans, and then get goin' on your payoff plan. 
+Amen to that. Not sure where to even start with your student loans?  [Take our money quiz](https://www.penny-finance.com/quiz) to see when you'll pay off those damn loans, and then get goin' on your payoff plan. 
 
 \---
 
