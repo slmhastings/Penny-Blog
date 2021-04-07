@@ -115,9 +115,11 @@ When do you become eligible? What do they match? 
 >
 > * “100% immediate vesting for firm matching/supplemental contributions, after meeting 1 year of service eligibility” 
 
-Translation: Your company will match your [401k contributions](<blog post: 401k, ira, wtf>) after you work there for 1 year. 
+Translation: Your company will match your 401k contributions after you work there for 1 year. 
 
 Mark your calendar!
+
+Wanna see a real life example? [Watch this.](https://www.loom.com/share/089282c8ad6e4dd686679b3a3ece8982) 
 
 # Accrued Vacation 
 
@@ -161,4 +163,4 @@ What are some other money terms or definitions you’ve been curious to know? 
 
 Ask us! support@penny-finance.com 
 
-Want more help making future money moves? [Take our money quiz](penny-finance.com/quiz) to see how much more you'll be banking in your new job.
+Want more help making future money moves? [Take our money quiz](https://www.penny-finance.com/quiz) to see how much more you'll be banking in your new job.

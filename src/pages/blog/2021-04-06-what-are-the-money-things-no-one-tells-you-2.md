@@ -45,7 +45,7 @@ We’re not going to go into the complicated math, but if you start saving $3K i
 
 Bottom line is, if you right size your expenses and find room to save and invest \*just a little bit\*, you can hit the million-dollar mark faster than anybody making the big bucks. 
 
-Don’t believe us? [Take our money quiz](penny-finance.com/quiz) to see your earning potential 
+Don’t believe us? [Take our money quiz](https://www.penny-finance.com/quiz) to see your earning potential 
 
 Need help with your budget? [Read these tips](https://blog.penny-finance.com/blog/2021-03-30-hate-budgets-try-these-3-things-instead/) to get you from broke to woke
 
@@ -63,7 +63,7 @@ Instead, think about how you can make your money work for you. Find ways to make
 
 And bank those savings. So, when you’re ready to drop 20% of your hard-earned cash on your new home, you can live the life you wanted in it, too.
 
-Curious if you can afford your next place? [Use our money essentials calculator ](penny-finance.com/products)
+Curious if you can afford your next place? [](https://www.penny-finance.com/products)Take [our money maker quiz](https://www.penny-finance.com/quiz) to get the scoop.
 
 # MYTH: SAVE SAVE SAVE
 
@@ -81,7 +81,7 @@ And the earlier you start investing, the more chances it has to snowball into 2x
 
 Oh, and by the way, women are \*really\* good investors. [](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds)[This study ](https://www.bloomberg.com/news/articles/2020-08-28/women-fund-managers-beating-men-in-picking-stocks-goldman-finds)from Goldman Sachs shows that female fund managers beat men at stock picks, yet men are retiring with way more.
 
-Investing is the answer. [We’ll show you how. ](penny-finance.com/quiz)
+Investing is the answer. [We’ll show you how. ](https://www.penny-finance.com/quiz)
 
 # MYTH: MORE EDUCATION = HIGHER SALARY
 
@@ -93,7 +93,7 @@ Investing in higher education doesn’t always pay off. If you have to take out 
 
 We believe in the power of education. That’s why we built Penny Finance, to show you how to make those smart money moves. Instead of jumping into grad school because you think it’ll make you richer, think about what kind of strain it might put on your finances. Does it equal out in the end?
 
-See what your future looks like [here.](penny-finance.com/quiz) 
+See what your future looks like [here.](https://www.penny-finance.com/quiz) 
 
 # MYTH: YOU JUST NEED TO PAY THE MINIMUM PAYMENT
 
@@ -105,9 +105,11 @@ Don’t get us wrong. We love credit cards as much as you do. They are a super c
 
 The minimum payment is not enough. You will incur 15 – 20%+ of charges every month if you aren’t paying the statement balance (aka everything that is due that month). When you rack up credit card points, you have to pay the statement balance in full. Or you pay a pretty penny. That can easily turn into an additional $200 of extra fees.
 
+Thinking oh sh!t right now?? Watch this to s[ee exactly HOW to pay your credit cards](https://www.loom.com/share/b5c4d3aed82b468fb10f9474297b5e2f). 
+
 Instead of throwing money away like that, make sure you’re paying your credit card in full (or as much as possible) every month.
 
-Find out [how debt \*really\* works ](penny-finance.com/products)
+Find out [how debt \*really\* works ](https://www.penny-finance.com/products)
 
 # MYTH: YOU NEED A FINANCE DEGREE TO UNDERSTAND MONEY
 
@@ -119,7 +121,7 @@ Mastering the world of finance is nothing more than street smarts and planning. 
 
 It will feel hard in the beginning, because it’s new information, and things that weren’t taught in school. But the more you practice, and the more you learn, the easier it gets. Just like cooking.
 
-[Let’s cook up a boss financial plan for you](penny-finance.com/quiz) 
+[Let’s cook up a boss financial plan for you](https://www.penny-finance.com/quiz) 
 
 The world of finance isn’t as complicated as we were led to believe.
 

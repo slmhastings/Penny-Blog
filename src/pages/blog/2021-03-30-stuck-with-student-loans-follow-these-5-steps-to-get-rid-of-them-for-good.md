@@ -62,7 +62,7 @@ The first step is knowing where you stand. When you know where you’re at, you 
 
 Don’t have the cash money to pay these off yet? Don’t worry. The goal is to chip away at them, bit by bit, so they don’t snowball on you later on.
 
-P.S. Money can be exhausting, especially when you’re in the red. This is why we built [a payoff planner](penny-finance.com/products), and [Penny Finance](penny-finance.com) quite frankly. To make money moves that give you the freedom to live your best life (debt-free, obvs). [](www.penny-finance.com/products)
+P.S. Money can be exhausting, especially when you’re in the red. This is why we built [a payoff planner](https://penny-finance.com/products), and [Penny Finance](https://penny-finance.com) quite frankly. To make money moves that give you the freedom to live your best life (debt-free, obvs). [](www.penny-finance.com/products)
 
 # 2. Figure out your minimum payment (and pay a little bit more)
 
@@ -116,17 +116,19 @@ Make sure your emergency savings are in a good place. 
 
 When it comes to emergency savings, everyone has a slightly different definition of what that means and what your money goal should be. 
 
-[We calculate that target # for you in our app](penny-finance.com/quiz) when you create your personalized financial plan, and we help you make sure one action doesn’t cause money problems somewhere else. 
+[We calculate that target # for you in our app](https://penny-finance.com/quiz) when you create your personalized financial plan, and we help you make sure one action doesn’t cause money problems somewhere else. 
 
 For the sake of simplicity, think about it this way:
 
 If you’ve got a stable job, you’ve got a cushion in the bank, and you’ve got those credit cards in order – pay down your student loan!
 
+Which one should you pay first? [We walk through an example live. ](https://www.loom.com/share/1d407662a9d348d58a0ca167d9af3874)
+
 If you can’t afford to yet, stick with your auto-pay amounts for your loan, and focus on setting yourself up for success in the here and now instead.
 
 For example, say you have credit card debt too. Those interest rates are killer (and double or triple your student loans). So, use that extra money to pay off your credit card – in full – first. Use it for your student loans next time.
 
-If you want to learn more about how debt really works, [check out Penny’s courses](penny-finance.com/products) for more detailed info and to create a personalized money plan built just for you. 
+If you want to learn more about how debt really works, [check out Penny’s courses](https://www.penny-finance.com/products) for more detailed info and to create a personalized money plan built just for you. 
 
 # 5. Keep an eye out for tax benefits
 
@@ -148,7 +150,7 @@ When you do your taxes, make sure you’re reaping all possible benefits you are
 
 #### Every small step counts. When you’re in debt, it’s easy to feel overwhelmed. But when you follow these steps, you can rest easy knowing your debt is taken care of (and so are you!)
 
-Not into math? We’re not either. Use our [free money quiz](penny-finance.com/quiz) calculator to find out how long it’ll take to pay off your loans, based on how much you are paying today. 
+Not into math? We’re not either. Use our [free money quiz](https://www.penny-finance.com/quiz) calculator to find out how long it’ll take to pay off your loans, based on how much you are paying today. 
 
 **\
-Not happy with how many years it’ll take? Our [How Debt Really Works course](penny-finance.com/products) takes you through a potential payoff plan to get the results you want, on your schedule.**
+Not happy with how many years it’ll take? Our [How Debt Really Works course](https://www.penny-finance.com/products) takes you through a potential payoff plan to get the results you want, on your schedule.**
