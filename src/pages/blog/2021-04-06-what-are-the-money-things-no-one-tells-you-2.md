@@ -63,7 +63,7 @@ Instead, think about how you can make your money work for you. Find ways to make
 
 And bank those savings. So, when you’re ready to drop 20% of your hard-earned cash on your new home, you can live the life you wanted in it, too.
 
-Curious if you can afford your next place? [Use our money essentials calculator ](https://www.penny-finance.com/products)
+Curious if you can afford your next place? [](https://www.penny-finance.com/products)Take [our money maker quiz](https://www.penny-finance.com/quiz) to get the scoop.
 
 # MYTH: SAVE SAVE SAVE
 
