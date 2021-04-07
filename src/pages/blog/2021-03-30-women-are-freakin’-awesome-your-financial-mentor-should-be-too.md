@@ -88,6 +88,8 @@ Think: An entire generation of financially savvy women opting-in to more securit
 
 # Penny Finance can make that vision, reality.
 
+[Watch this message from our founder](https://youtu.be/0wFDqa2TJ0E), Crissi Cole, on why she built Penny. 
+
 Penny is here to help women successfully navigate the complexities of finance – and take action to build the life you want. 
 
 Because money matters. And you deserve to have a financial advisor who can answer all your money questions, without the overly complicated financial lingo. 
@@ -134,7 +136,6 @@ Penny is more than the digital financial mentor you always wanted, but couldn’
 ## We will solve some \*heavy\* stuff together.
 
 ## Get money empowered. Get Penny.
-
 
 Meet your money! [Take our money maker quiz ](https://penny-finance.com/quiz)
 
