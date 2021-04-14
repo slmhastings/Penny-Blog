@@ -11,7 +11,11 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
         <Helmet>
           <script src="https://kit.fontawesome.com/af3bcee49a.js" crossorigin="anonymous"></script>
-          
+
+          <script type="application/javascript" async
+          src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=UAek8u"></script>
+
+    
 
         </Helmet>
         <div className="full-width-image-container margin-top-0">
