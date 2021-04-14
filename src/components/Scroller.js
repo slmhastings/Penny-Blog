@@ -3,9 +3,7 @@ import moneyscroller from '../../static/img/moneyscroller.png'
 
 function Scroller() {
   return (
-    <div style={{
-      
-    }}>
+    <div>
       <div
         className="marquee"
       >
