@@ -8,41 +8,7 @@ import { Helmet } from 'react-helmet'
 
 
 const Footer = class extends React.Component {
-    componentDidMount() {
-     
-      var sendMail = document.getElementById("send-mail");
-      var userEmail = document.getElementById("user-email");
-      var data = [
-        {
-          email: userEmail,
-        },
-      ];
-      sendMail.addEventListener("click", function(){
-        // console.log(userEmail)
-        // fetch("https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value, {mode: 'cors'})
-        // .then(res => res.json())
-        // .then(function(data){
-        //   if(data.response.status == 200){
-        //     userEmail.value = ""
-        //   }
-        // })
-        // .catch(function(error) {
-        //   console.log("ERROR:", error)
-        // });
-        
-        var _learnq = [];
-
-        // Track presidential elections
-        _learnq.push(['track', 'Elected President', {
-          'PreviouslyVicePresident' : true,
-          'YearElected' : 1801,
-          'VicePresidents' : ['Aaron Burr', 'George Clinton']
-        }]);
-
-        // Track a simpler version.
-        _learnq.push(['track', 'Elected President']);
-      })
-    }
+    
   render() {
     return (
       <footer id="footer">
