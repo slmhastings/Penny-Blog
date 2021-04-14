@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
       ];
       sendMail.addEventListener("click", function(){
         console.log(userEmail)
-        fetch("https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value, {mode: 'cors'})
+        fetch("https://blooming-peak-61082.herokuapp.com/https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value, {mode: 'cors'})
         .then(res => res.json())
         .then(function(data){
           if(data.response.status == 200){
@@ -30,16 +30,7 @@ const Footer = class extends React.Component {
           console.log("ERROR:", error)
         });
         
-        // var _learnq = [];
-
-        // Track presidential elections
-        // _learnq.push(['track', 'Elected President', {
-        //   'PreviouslyVicePresident' : true,
-        //   'YearElected' : 1801,
-        //   'VicePresidents' : ['Aaron Burr', 'George Clinton']
-        // }]);
-
-        // Track a simpler version.
+        
         
       })
     }
