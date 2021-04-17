@@ -1,6 +1,7 @@
 import React from 'react'
 import authorfooter from '../../static/img/authorfooter.png'
 
+
 function Authorfooter() {
   return (
     <div class="author-footer"
@@ -8,14 +9,7 @@ function Authorfooter() {
         width: '100%'
       }}>
       <div>
-        <img
-          style={{
-            margin: '0px',
-            maxWidth: '88%',
-            marginTop: '-29px',
-          }}
-          src={authorfooter}
-        />
+        <img src="/img/authorfooter-mobile.svg"></img>
       </div>
       <div
         class="main-button"
