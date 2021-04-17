@@ -4,12 +4,11 @@ import authorfooter from '../../static/img/authorfooter.png'
 
 function Authorfooter() {
   return (
-    <div class="author-footer"
-      style={{
-        width: '100%'
-      }}>
+    <div class="author-footer">
       <div>
-        <img src="/img/authorfooter-mobile.svg"></img>
+        <img src="/img/authorfooter-mobile.svg" style={{
+          width: "74vh"
+        }}></img>
       </div>
       <div
         class="main-button"
