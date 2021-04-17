@@ -9,7 +9,7 @@ function Scroller() {
       >
         <img style={{
           height: 'auto',
-          
+          width: '75%'
         }} src={moneyscroller}></img>
       </div>
     
