@@ -93,6 +93,7 @@ const BlogPost = ({ data }) => {
               type="text/javascript"
               src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6053ebc2c1ceb6a9"
             ></script>
+            <script src="https://kit.fontawesome.com/af3bcee49a.js" crossorigin="anonymous"></script>
           </Helmet>
         }
         tags={post.frontmatter.tags}

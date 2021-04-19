@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
       ];
       sendMail.addEventListener("click", function(){
         console.log(userEmail)
-        fetch("https://blooming-peak-61082.herokuapp.com/https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value, {mode: 'cors'})
+        fetch("https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value)
         .then(res => res.json())
         .then(function(data){
           if(data.response.status == 200){
@@ -29,7 +29,7 @@ const Footer = class extends React.Component {
         .catch(function(error) {
           console.log("ERROR:", error)
         });
-        
+        console.log(userEmail)
         
         
       })
@@ -55,6 +55,7 @@ const Footer = class extends React.Component {
                     <li>
                       <img src="/img/pennyfinanceicon.png"></img>
                     </li>
+                    <br></br>
                     <li>
                       <p
                         style={{
