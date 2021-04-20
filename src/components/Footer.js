@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
       ];
       sendMail.addEventListener("click", function(){
         console.log(userEmail)
-        fetch("https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value)
+        fetch("https://blooming-peak-61082.herokuapp.com/https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value)
         .then(res => res.json())
         .then(function(data){
           if(data.response.status == 200){

@@ -99,8 +99,8 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
-      <Scroller />
       <Authorfooter />
+      <Scroller />
       <Footer />
     </Layout>
   )
