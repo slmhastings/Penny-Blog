@@ -1,5 +1,5 @@
 import React from 'react'
-import moneyscroller from '../../static/img/moneyscroller.svg'
+import moneyscroller from '../../static/img/moneyscroller.jpg'
 
 function Scroller() {
   return (
