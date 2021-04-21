@@ -26,7 +26,9 @@ function Authorfooter() {
         }}
       >
         <a className="courses" href="https://penny-finance.com/">
-          take me to the app
+          <img src="/img/app-button.jpg" style={{
+            width: "25vh"
+          }}></img>
         </a>
       </div>
     </div>
