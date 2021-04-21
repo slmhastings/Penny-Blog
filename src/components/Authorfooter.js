@@ -4,7 +4,7 @@ import React from 'react'
 
 function Authorfooter() {
   return (
-    <div class="author-footer">
+    <div className="author-footer">
       <div>
         <div className="author-bio" style={{
           fontFamily: "Harmattan"
@@ -20,12 +20,12 @@ function Authorfooter() {
         }}></img>
       </div>
       <div
-        class="main-button"
+        className="main-button"
         style={{
           padding: '25px',
         }}
       >
-        <a class="courses" href="https://penny-finance.com/">
+        <a className="courses" href="https://penny-finance.com/">
           take me to the app
         </a>
       </div>

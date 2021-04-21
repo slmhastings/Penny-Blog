@@ -82,34 +82,34 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="footer-link">
                     <li>
-                      <Link to="https://penny-finance.com/quiz">Take our money quiz</Link>
+                      <a href="https://penny-finance.com/quiz">Take our money quiz</a>
                     </li>
                     <li>
-                      <Link href="mailto:support@penny-finance.com" >Contact us</Link>
+                      <a href="mailto:support@penny-finance.com" >Contact us</a>
                     </li>
                     <li>
-                      <Link to="https://penny-finance.com/privacy">Privacy policy</Link>
+                      <a href="https://penny-finance.com/privacy">Privacy policy</a>
                     </li>
                     <li>
-                      <Link to="https://penny-finance.com/terms">Terms of use</Link>
+                      <a href="https://penny-finance.com/terms">Terms of use</a>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-5 social">
-                <div class="subscribe footer-title">
-                  <h4 class="mb-4">Money tips delivered to your inbox</h4>
+                <div className="subscribe footer-title">
+                  <h4 className="mb-4">Money tips delivered to your inbox</h4>
                 </div>
                 <form>
-                  <div class="form-group mb-0 email">
+                  <div className="form-group mb-0 email">
                     <input
                       type="email"
-                      class="form-control"
+                      className="form-control"
                       id="user-email"
                       placeholder="Email address"
                     />
                     <i
-                      class="fas fa-arrow-right"
+                      className="fas fa-arrow-right"
                       id="send-mail"
                       style={{
                         color: 'F6F1F1',
@@ -138,9 +138,9 @@ const Footer = class extends React.Component {
                 </div>
               </div>
             </div>
-            <div class="row copyright-border">
-              <div class="col-xl-9 col-lg-9 col-md-8 col">
-                <p class="m-0 pt-3">© 2021 Penny Finance Inc. All Rights Reserved</p>
+            <div className="row copyright-border">
+              <div className="col-xl-9 col-lg-9 col-md-8 col">
+                <p className="m-0 pt-3">© 2021 Penny Finance Inc. All Rights Reserved</p>
               </div>
             </div>
           </div>

@@ -43,7 +43,7 @@ export default class BlogIndexPage extends React.Component {
           padding: '5px'
         }}
         >
-          <a class="courses" href="https://penny-finance.com/">
+          <a className="courses" href="https://penny-finance.com/">
             take me to the app
           </a>
         </div>
