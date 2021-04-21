@@ -1,5 +1,5 @@
 import React from 'react'
-import moneyscroller from '../../static/img/moneyscroller.png'
+import moneyscroller from '../../static/img/moneyscroller.svg'
 
 function Scroller() {
   return (
@@ -9,7 +9,8 @@ function Scroller() {
       >
         <img style={{
           height: 'auto',
-          width: '75%'
+          width: '75%',
+          padding: '25px'
         }} src={moneyscroller}></img>
       </div>
     

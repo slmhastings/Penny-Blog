@@ -53,7 +53,7 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <img src="/img/pennyfinanceicon.png"></img>
+                      <a><img src="/img/pennyfinanceicon.png"></img></a>
                     </li>
                     <br></br>
                     <li>
