@@ -44,8 +44,10 @@ export default class BlogIndexPage extends React.Component {
         }}
         >
           <a className="courses" href="https://penny-finance.com/">
-            take me to the app
-          </a>
+          <img src="/img/app-button.jpg" style={{
+            width: "25vh"
+          }}></img>
+        </a>
         </div>
         <Footer />
         
