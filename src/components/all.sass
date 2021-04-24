@@ -9,6 +9,7 @@ $primary-invert: $penny-green-invert
 $body-color: #333
 $black: #2b2523
 $font-stack: Harmattan, sans serif
+$tablet: 600px
 
 body
   font-family: 100% $font-stack
@@ -66,6 +67,11 @@ body
     display: flex
     justify-content: center
     align-items: center
+
+.columns
+    margin-left: 0
+    margin-right: 0
+
   
 
 .btn
@@ -152,7 +158,9 @@ $menu-list-border-left: 1px solid $penny-green-invert
 
 
 // responsiveness
-+tablet-only
+
++tablet-only 
+  
   .body
     font-family: Harmattan
   .blog-list-item .featured-thumbnail
@@ -162,8 +170,11 @@ $menu-list-border-left: 1px solid $penny-green-invert
     width: 50%
   a.courses
     font-family: Harmattan
+  
+    
 
 +mobile
+  
   .body
     font-family: Harmattan
     margin: 0px
@@ -182,7 +193,7 @@ $menu-list-border-left: 1px solid $penny-green-invert
   .author-bio
     font-size: x-small
   .description
-    visibility: hidden
+    visibility:
   .button
     visibility: hidden
   .column
@@ -191,7 +202,7 @@ $menu-list-border-left: 1px solid $penny-green-invert
     flex-grow: 1
     flex-shrink: 1
     padding: 0.75rem
-    margin: 0px
+    align-items: center;
   .a.courses
     font-family: Harmattan
   .marquee
