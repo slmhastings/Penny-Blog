@@ -71,7 +71,7 @@ class BlogRoll extends React.Component {
                           fontFamily: 'Harmattan',
                           fontSize: '20px',
                           fontWeight: 'bold',
-                          position:'absolute',
+                          position:'inherit',
                           bottom: '61px'
                         }}
                       >
