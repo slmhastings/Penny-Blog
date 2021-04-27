@@ -63,7 +63,7 @@ class BlogRoll extends React.Component {
                       width: "100%", 
                       overflow: "hidden", 
                       textOverflow: "ellipsis",
-                      bottom: "-33px"
+                      
                       
                     }}>
                       <span
