@@ -8,32 +8,32 @@ import { Helmet } from 'react-helmet'
 
 
 const Footer = class extends React.Component {
-    componentDidMount() {
+    // componentDidMount() {
      
-      var sendMail = document.getElementById("send-mail");
-      var userEmail = document.getElementById("user-email");
-      var data = [
-        {
-          email: userEmail,
-        },
-      ];
-      sendMail.addEventListener("click", function(){
-        console.log(userEmail)
-        fetch("https://blooming-peak-61082.herokuapp.com/https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value)
-        .then(res => res.json())
-        .then(function(data){
-          if(data.response.status == 200){
-            userEmail.value = ""
-          }
-        })
-        .catch(function(error) {
-          console.log("ERROR:", error)
-        });
-        console.log(userEmail)
+    //   var sendMail = document.getElementById("send-mail");
+    //   var userEmail = document.getElementById("user-email");
+    //   var data = [
+    //     {
+    //       email: userEmail,
+    //     },
+    //   ];
+    //   sendMail.addEventListener("click", function(){
+    //     console.log(userEmail)
+    //     fetch("https://blooming-peak-61082.herokuapp.com/https://penny-finance.com/klaviyo/add_subscriber?email="+userEmail.value)
+    //     .then(res => res.json())
+    //     .then(function(data){
+    //       if(data.response.status == 200){
+    //         userEmail.value = ""
+    //       }
+    //     })
+    //     .catch(function(error) {
+    //       console.log("ERROR:", error)
+    //     });
+    //     console.log(userEmail)
         
         
-      })
-    }
+    //   })
+    // }
   render() {
     return (
       <footer id="footer">
@@ -97,10 +97,10 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-5 social">
-                <div className="subscribe footer-title">
+                {/* <div className="subscribe footer-title">
                   <h4 className="mb-4">Money tips delivered to your inbox</h4>
-                </div>
-                <form>
+                </div> */}
+                {/* <form>
                   <div className="form-group mb-0 email">
                     <input
                       type="email"
@@ -117,7 +117,7 @@ const Footer = class extends React.Component {
                       }}
                     ></i>
                   </div>
-                </form>
+                </form> */}
                 <br />
                 <br />
                 <div className="social">
