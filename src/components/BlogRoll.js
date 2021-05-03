@@ -53,8 +53,8 @@ class BlogRoll extends React.Component {
                       className="post-meta"
                       style={{
                         fontFamily: 'Harmattan',
-                        height: "fit-content",
-                        margin: "0"
+                        height: "9vh",
+                        
                       }}
                     >
                       <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
@@ -63,14 +63,16 @@ class BlogRoll extends React.Component {
                       <br></br>
                       <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     </p>
+                    
+                    
                     <div className="description">            {post.frontmatter.description}
-                        <br />
-                        <br />
                     </div>
+                        <br />
+                        <br />
                     <div>
-                      <Link className="button" to={post.fields.slug}>
+                      {/* <Link className="button" to={post.fields.slug}>
                         Keep Reading...
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                 </header>
