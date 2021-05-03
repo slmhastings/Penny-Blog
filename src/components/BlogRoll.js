@@ -62,18 +62,7 @@ class BlogRoll extends React.Component {
                       <br></br>
                       <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     </p>
-                    <div className="description"    style={{
-                      width: "100%", 
-                      overflow: "hidden", 
-                      textOverflow: "ellipsis",
-                      fontFamily: 'Harmattan',
-                      fontSize: '20px',
-                      fontWeight: 'bold',
-                      position:'inherit',
-                      bottom: '61px',
-                      height: '13vh'
-                      }}>                     
-                      {post.frontmatter.description}
+                    <div className="description">            {post.frontmatter.description}
                         <br />
                         <br />
                     </div>
