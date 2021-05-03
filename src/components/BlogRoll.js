@@ -47,7 +47,7 @@ class BlogRoll extends React.Component {
 
                 <header>
                   <div className="header-contents" style={{
-                    height: "25vh"
+                    height: "fit-content"
                   }}>
                     <p
                       className="post-meta"

@@ -93,6 +93,22 @@ const Footer = class extends React.Component {
                     <li>
                       <a href="https://penny-finance.com/terms">Terms of use</a>
                     </li>
+                    <li><div className="social">
+                  <a title="facebook" href="https://www.facebook.com/getmoneyempowered">
+                    <img src={facebook} alt="Facebook" style={{ width: '1em', height: '1em' }} />
+                  </a>
+                  <a title="linkedin" href="https://www.linkedin.com/company/69228895">
+                    <img
+                      className="fas fa-lg"
+                      src="/img/linkedin.svg"
+                      alt="Linkedin"
+                      style={{ width: '1em', height: '1em' }}
+                    />
+                  </a>
+                  <a title="instagram" href="https://www.instagram.com/startwithapenny">
+                    <img src={instagram} alt="Instagram" style={{ width: '1em', height: '1em' }} />
+                  </a>
+                </div></li>
                   </ul>
                 </section>
               </div>
@@ -120,22 +136,7 @@ const Footer = class extends React.Component {
                 </form> */}
                 <br />
                 <br />
-                <div className="social">
-                  <a title="facebook" href="https://www.facebook.com/getmoneyempowered">
-                    <img src={facebook} alt="Facebook" style={{ width: '1em', height: '1em' }} />
-                  </a>
-                  <a title="linkedin" href="https://www.linkedin.com/company/69228895">
-                    <img
-                      className="fas fa-lg"
-                      src="/img/linkedin.svg"
-                      alt="Linkedin"
-                      style={{ width: '1em', height: '1em' }}
-                    />
-                  </a>
-                  <a title="instagram" href="https://www.instagram.com/startwithapenny">
-                    <img src={instagram} alt="Instagram" style={{ width: '1em', height: '1em' }} />
-                  </a>
-                </div>
+                
               </div>
             </div>
             <div className="row copyright-border">
