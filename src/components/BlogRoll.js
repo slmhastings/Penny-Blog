@@ -53,39 +53,35 @@ class BlogRoll extends React.Component {
                       className="post-meta"
                       style={{
                         fontFamily: 'Harmattan',
+                        height: "10vh"
                       }}
                     >
                       <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
                         {post.frontmatter.title}
                       </Link>
-                      <span> </span>
+                      <br></br>
                       <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     </p>
-                    <div className="description" style={{
+                    <div className="description"    style={{
                       width: "100%", 
                       overflow: "hidden", 
                       textOverflow: "ellipsis",
-                      
-                      
-                    }}>
-                      <span
-                        style={{
-                          fontFamily: 'Harmattan',
-                          fontSize: '20px',
-                          fontWeight: 'bold',
-                          position:'inherit',
-                          bottom: '61px'
-                        }}
-                      >
+                      fontFamily: 'Harmattan',
+                      fontSize: '20px',
+                      fontWeight: 'bold',
+                      position:'inherit',
+                      bottom: '61px',
+                      height: '13vh'
+                      }}>                     
                       {post.frontmatter.description}
                         <br />
                         <br />
-                      </span>
-
                     </div>
-                    <Link className="button" to={post.fields.slug}>
+                    <div>
+                      <Link className="button" to={post.fields.slug}>
                         Keep Reading...
-                    </Link>
+                      </Link>
+                    </div>
                   </div>
                 </header>
               </article>
