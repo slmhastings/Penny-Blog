@@ -53,7 +53,8 @@ class BlogRoll extends React.Component {
                       className="post-meta"
                       style={{
                         fontFamily: 'Harmattan',
-                        height: "14vh"
+                        height: "fit-content",
+                        margin: "0"
                       }}
                     >
                       <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
