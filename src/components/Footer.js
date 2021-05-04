@@ -1,6 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 
@@ -59,7 +57,6 @@ const Footer = class extends React.Component {
                     <li>
                       <p
                         style={{
-                          padding: '8px 0px',
                           lineHeight: '23px',
                           color: '#F6F1F1',
                           fontSize: '24px',

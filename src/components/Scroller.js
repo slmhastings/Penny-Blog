@@ -11,7 +11,7 @@ function Scroller() {
           height: 'auto',
           width: '100%',
           padding: '25px'
-        }} src={moneyscroller}></img>
+        }} src={moneyscroller} alt="start with a penny" ></img>
       </div>
     
   )

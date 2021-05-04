@@ -19,7 +19,7 @@ export default class BlogIndexPage extends React.Component {
 
         </Helmet>
         <div className="full-width-image-container margin-top-0">
-          <img className="full-width-image" src="/img/theblogbanner.jpg"></img>
+          <img className="full-width-image" alt="blogbanner" src="/img/theblogbanner.jpg"></img>
         </div>
         <div>
           <section
@@ -44,7 +44,7 @@ export default class BlogIndexPage extends React.Component {
         }}
         >
           <a className="courses" href="https://penny-finance.com/">
-          <img src="/img/app-button.jpg" style={{
+          <img src="/img/app-button.jpg" alt="app button" style={{
             width: "25vh"
           }}></img>
         </a>

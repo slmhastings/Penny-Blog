@@ -20,6 +20,7 @@ export const BlogPostTemplate = ({ content, contentComponent, description, tags,
         <Link to="/">
           <img
             src="/img/pennyfinanceicon.png"
+            alt="penny icon"
             style={{
               height: 'auto',
               maxWidth: '20%',

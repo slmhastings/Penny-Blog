@@ -8,7 +8,6 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div className="full-width-image-container margin-top-0">
-          {/* <img className="full-width-image" src="/img/blogbanner1.png"></img> */}
         </div>
         <section className="section">
           <div className="container" >

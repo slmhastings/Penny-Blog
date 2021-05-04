@@ -15,7 +15,7 @@ function Authorfooter() {
           <p>and know-how to women at the starting line of their financial lives.
           </p>
         </div>
-        <img src="/img/authorfooter-mobile.svg" style={{
+        <img src="/img/authorfooter-mobile.svg" alt="Crissi and Rebeca" style={{
           width: "74vh"
         }}></img>
       </div>
@@ -26,7 +26,7 @@ function Authorfooter() {
         }}
       >
         <a className="courses" href="https://penny-finance.com/">
-          <img src="/img/app-button.jpg" style={{
+          <img src="/img/app-button.jpg" alt="app button" style={{
             width: "25vh"
           }}></img>
         </a>
