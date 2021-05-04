@@ -51,7 +51,7 @@ class BlogRoll extends React.Component {
                       className="post-meta"
                       style={{
                         fontFamily: 'Harmattan',
-                        height: "9vh",
+                        height: "11vh",
                         
                       }}
                     >
