@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "What the heck is crypto? "
-date: 2021-05-15T22:00:00.000Z
+date: 2021-05-20T22:00:00.000Z
 description: >+
   Cryptocurrency. Bitcoin. NFTs. We’re bringing the girl talk – and much-needed
   clarity – to this hot topic that’s causing a lot of buzz in the investment
