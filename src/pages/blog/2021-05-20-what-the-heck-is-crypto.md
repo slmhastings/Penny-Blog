@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "What the heck is Crypto? "
+title: "What the heck is crypto? "
 date: 2021-05-24T22:00:00.000Z
 description: >+
   Cryptocurrency. Bitcoin. NFTs. We’re bringing the girl talk – and much-needed
@@ -8,7 +8,7 @@ description: >+
   world. 
 
 featuredpost: true
-featuredimage: /img/3889328983b92735673c1e88193e7999.jpg
+featuredimage: /img/54edf938e4a2d284e47bf1e109bae682.jpg
 tags:
   - Bitcoin
   - Crypto
@@ -20,7 +20,9 @@ We’re bringing the girl talk – and much-needed clarity – to this hot topic
 
 Understand what all the fuss is about (and why there’s no need for fomo).
 
+![](/img/54edf938e4a2d284e47bf1e109bae682.jpg)
 
+📷: Pinterest
 
 # What is Cryptocurrency? 
 
@@ -29,8 +31,6 @@ In a nutshell, cryptocurrency (or ‘crypto’) is digital money. 
 You own digital coins (or keys) that you can use like real money. 
 
 Bitcoin is a type of cryptocurrency. Similar to how we have US dollars and currency in different countries – online there’s Bitcoin, Ethereum, Dogecoin, Ripple, etc. They’re all different cryptocurrencies.
-
-
 
 # What’s the difference between crypto and US dollars?
 
@@ -50,11 +50,9 @@ Decentralization also means NO financial institutions to verify transactions or 
 
 A blockchain is essentially a public digital ledger that records every single transaction made in that cryptocurrency. And it’s so complex, fraud is basically impossible.
 
-
-
 # OK, so what’s the fuss?
 
-The prices of these puppies are soaring! Imagine turning $1 into $50,000. That’s basically what happened. 
+The prices of these puppies are soaring! Imagine turning $1 into $40,000. That’s basically what happened. 
 
 When Bitcoin first made its debut in 2009, one bitcoin was worth **$0 dollars**.
 
@@ -95,8 +93,6 @@ There you have it, ladies & peeps. Cryptocurrency & the hype, #explained.
 # Wait, what’s an NFT?
 
 NFT stands for [non-fungible token](https://www.forbes.com/advisor/investing/nft-non-fungible-token/). They’re the digital equivalent of everyday items we know – like art, music, games, etc. But instead of buying the physical painting for your home, you get a digital file to download instead. 
-
-
 
 # Is crypto safe?
 
