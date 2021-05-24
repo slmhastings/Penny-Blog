@@ -7,7 +7,7 @@ description: >+
   clarity – to this hot topic that’s causing a lot of buzz in the investment
   world. 
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/54edf938e4a2d284e47bf1e109bae682.jpg
 tags:
   - Bitcoin
