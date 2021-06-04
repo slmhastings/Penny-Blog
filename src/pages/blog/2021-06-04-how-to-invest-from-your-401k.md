@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to invest from your 401k
 date: 2021-06-04T14:36:00.000Z
-description: "3 questions you need to answer before you invest your retirement money "
+description: "4 questions you need to answer before you invest your retirement money "
 featuredpost: true
 featuredimage: /img/img_2328.jpg
 tags:
