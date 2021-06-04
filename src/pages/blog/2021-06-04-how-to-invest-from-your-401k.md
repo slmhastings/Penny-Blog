@@ -52,9 +52,7 @@ One of the biggest mistakes people make is assuming your money will be auto-magi
 
 Once you invest, it’s a set-it-and-forget-it kind of deal. (Or don’t forget it – it’s fun to see how much your money grows while you’re out living your life!)
 
-If invested, you'll see  
-
-Check out this [short video clip](https://www.loom.com/share/61f7c640d483472fab2263acd390c06e) to see what an invested account looks like. 
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/61f7c640d483472fab2263acd390c06e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 **More good news?** 
 
