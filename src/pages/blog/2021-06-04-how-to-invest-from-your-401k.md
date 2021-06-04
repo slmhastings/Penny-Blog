@@ -12,7 +12,7 @@ tags:
 ---
 **Reading time: 4min read**
 
-3 questions you need to answer before you invest your retirement money
+4 questions you need to answer before you invest your retirement money
 
 (and why you shouldn’t wait to start investing) 
 
@@ -23,7 +23,7 @@ You took the money quiz and opened your retirement accounts for the first time i
 And you confirmed there’s a good chunk of money in there. Picking up dust.\
 Cuz no, it’s not invested. Or maybe it is? How do you know?
 
-**We’ll cover the 3 questions you need to answer to start investing your retirement money – including what to look for, where to start, and why you really do need to pay attention to this now if you want future-you to make real bank.** 
+**We’ll cover the 4 questions you need to answer to start investing your retirement money – including what to look for, where to start, and why you really do need to pay attention to this now if you want future-you to make real bank.** 
 
 # 1. What counts as a retirement account?
 
