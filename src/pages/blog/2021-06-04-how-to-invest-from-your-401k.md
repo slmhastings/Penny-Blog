@@ -75,7 +75,7 @@ Generally speaking, [you can’t go wrong with either](https://blog.penny-financ
 
 We hate making blanket recommendations that aren’t personalized to your financial situation, so we created a money quiz just for you!
 
-Take our [Roth or Regular quiz](penny-finance.com/profile) to get your answer once and for all.
+Take our [Roth versus Regular quiz](https://www.penny-finance.com/profile) to get your answer once and for all.
 
 # 4. How much? Doesn’t matter. Start ASAP!
 
@@ -97,10 +97,7 @@ Think about that for a sec. You just hit 6-figures and you barely had to move a 
 
 (And yes, you can save, invest, AND enjoy your life today. We’re not giving up our mani-pedis, neither should you.)
 
-# \
-
-\
-PS. Not sure if you own a retirement account yet? 
+# PS. Not sure if you own a retirement account yet? 
 
 If your bank statement just says your name on it and / or you can withdraw money without any \*major\* warnings that you are about to “distribute” or incur a tax bill – then it isn’t a retirement account. 
 
