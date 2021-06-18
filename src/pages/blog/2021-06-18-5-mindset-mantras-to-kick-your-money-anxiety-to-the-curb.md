@@ -79,7 +79,7 @@ And your younger self went… Oh! Women aren’t good with money. I guess that�
 
 (Which is complete BS and you know it!)
 
-If you need a reminder about why women are awesome investors, planners, and money-makers, [we wrote this post for you](https://blog.penny-finance.com/blog/2021-03-30-women-are-freakin%E2%80%99-awesome-your-financial-mentor-should-be-too/).)  
+If you need a reminder about why women are awesome investors, planners, and money-makers, [we wrote this post for you](https://blog.penny-finance.com/blog/2021-03-30-women-are-freakin%E2%80%99-awesome-your-financial-mentor-should-be-too/).
 
 PS. This work can get real heavy, real quick. Give yourself time to rest, and dive into the self-care. Chat with a therapist or close friend you feel safe with. Go easy on yourself, girl!
 
@@ -91,7 +91,7 @@ Write them down in your journal, print a copy for your agenda, or save this post
 
 \---
 
-**I am worthy of accepting, making, and receiving money and abundance**
+**I am worthy of accepting, making, and receiving money and abundance.**
 
 \---
 
@@ -109,10 +109,7 @@ Write them down in your journal, print a copy for your agenda, or save this post
 
 Money is energy. The positive energy I invest in my money, work, and finances, will flourish and grow, and come back to me tenfold. 
 
-### \
-
-\
-Struggling with money and finance isn’t who you are. It’s just habits you picked up and reinforced throughout your life. 
+> #### Struggling with money and finance isn’t who you are. It’s just habits you picked up and reinforced throughout your life. 
 
 You’re not broken. You’re not flawed. Most importantly: You are not alone. 
 
@@ -120,16 +117,10 @@ We all have these thoughts. 
 
 When you start noticing your money stories, your self-talk, you can give yourself the opportunity to change. 
 
-You can start to question and say, 
-
-“Hey, where did I pick up this belief? Why do I have so much anxiety about money? 
-
-Yeah, I’m not down for that anymore. Let’s change that.
-
-…What are those money mindset mantras again?”
+You can start to question and say, *“Hey, where did I pick up this belief? Why do I have so much anxiety about money? Yeah, I’m not down for that anymore. Let’s change that.…What are those money mindset mantras again?”*
 
 We’re here for you. 
 
-Want more money #inspo? Sign up for [Penny’s newsletter](http://penny-finance.com)
+**Want more money #inspo? Sign up for [Penny’s newsletter](http://penny-finance.com)**
 
 **Follow us on Insta [@startwithapenny](http://instagram.com/startwithapenny)**
