@@ -16,7 +16,7 @@ Everyone we know is either buying a home, or thinking of buying a new home. 
 
 But is it really worth it? 
 
-![](/img/59368415_030_b.jpeg)
+![](/img/39805312_020_b.jpeg)
 
 📸: Urban Outfitters
 
