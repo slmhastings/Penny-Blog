@@ -4,7 +4,7 @@ title: Should you buy a home right now?
 date: 2021-06-25T13:49:14.150Z
 description: Everything you need to know about the home buying craze
 featuredpost: false
-featuredimage: /img/59368415_030_b.jpeg
+featuredimage: /img/39805312_020_b.jpeg
 tags:
   - Housing
   - Mortgage
@@ -156,8 +156,6 @@ PS. Some people are cashing out their 401ks in order to make the down payment --
 **PPS. Not sure what your money goals are? Take our [free money maker quiz](https://www.penny-finance.com/quiz) and find out! We give you personalized recs based on your financial situation.**
 
 # Know the housing lingo!
-
-![](/img/39805312_020_b.jpeg)
 
 Your home buying, home financing, and housing market mini-dictionary.
 
