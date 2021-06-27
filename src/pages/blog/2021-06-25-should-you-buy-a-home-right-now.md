@@ -184,3 +184,13 @@ Building or community fees to fund maintenance for stuff like landscaping, gyms 
 Down payment = an initial up-front payment, similar to a deposit. Usually 20-30% of the house value. 
 
 Mortgage = recurring payments you make every month, to pay the remainder of your home loan. Like rent, but paid to your bank/lender.
+
+\-----
+
+Want more money #inspo? 
+
+Follow us on Insta [@startwithapenny](https://www.instagram.com/startwithapenny/)
+
+Feeling ready to make smart money moves? 
+
+[Start with the money maker quiz](https://www.penny-finance.com/quiz)
