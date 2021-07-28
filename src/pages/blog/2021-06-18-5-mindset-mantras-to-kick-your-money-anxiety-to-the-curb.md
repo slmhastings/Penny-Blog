@@ -3,6 +3,7 @@ templateKey: blog-post
 title: 5 Mindset Mantras to Kick Your Money Anxiety to the Curb
 date: 2021-06-18T17:57:06.104Z
 description: Break down the beliefs that stop you from saying hello, money!
+  Learn how to stop worrying about money today.
 featuredpost: false
 featuredimage: /img/screen-shot-2021-05-06-at-6.42.23-pm.png
 tags:
