@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: "Forget traditional budgeting. Try this instead. "
 date: 2021-03-29T14:00:00.000Z
-description: "What you need to do differently if your budget just goes out the window.  "
+description: Follow these mindful spending tips to understand what you need to
+  do differently if your budget just goes out the window.
 featuredpost: false
 featuredimage: /img/2d92664174e42f9f2c89ad5945280ad4.jpg
 tags:
