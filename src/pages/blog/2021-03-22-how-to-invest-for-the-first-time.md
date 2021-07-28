@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: How to invest for the first time
 date: 2021-02-15T15:00:00.000Z
-description: Where to start and how much money you *really* need to invest.
+description: Learn where to start in your investing journey and how much money
+  you *really* need to invest.
 featuredpost: false
 featuredimage: /img/8618ae8a82491781dcdb38d044081c41.jpg
 tags:
