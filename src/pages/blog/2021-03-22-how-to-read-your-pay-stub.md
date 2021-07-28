@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: How to read your pay stub
 date: 2021-03-01T15:00:00.000Z
-description: UGH What is FICA? Withholding? Social Security?
+description: UGH What is FICA? Withholding? Social Security? Learn how to ready
+  your pay stub with these helpful tips.
 featuredpost: false
 featuredimage: /img/f27ca8b714055f9dcd9aee60372ecf71.jpg
 tags:
