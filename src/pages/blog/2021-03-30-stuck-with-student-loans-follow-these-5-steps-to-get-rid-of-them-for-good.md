@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Stuck with student loans? Follow these 5 steps to get rid of them for good
 date: 2021-02-10T15:00:00.000Z
-description: How to pay off your student loans and launch your debt-free life.
+description: Learn how to get rid of your student loan debt and launch your debt-free life.
 featuredpost: false
 featuredimage: /img/3889328983b92735673c1e88193e7999.jpg
 tags:
