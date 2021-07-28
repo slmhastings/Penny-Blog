@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "What are the money things NO ONE tells you "
+title: What are the money things NO ONE tells you TEST
 date: 2021-02-01T15:00:00.000Z
-description: "The things the boys are doing that we are not – and the mistakes
-  stopping you from  financial success. "
+description: Learn these financial tips for women to see the things the boys are
+  doing that we are not – and the mistakes stopping you from  financial success.
 featuredpost: false
 featuredimage: /img/img_1472.jpg
 tags:
