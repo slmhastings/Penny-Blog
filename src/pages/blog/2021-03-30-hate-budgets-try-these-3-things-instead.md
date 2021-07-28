@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: "Hate budgets? Try these 3 things instead "
 date: 2021-03-03T15:00:00.000Z
-description: Tips for mindful spending in action, and budgeting ideas you’ll
-  actually stick to.
+description: Follow these tips for alternative approached to budgeting w/
+  mindful spending in action, and budgeting ideas you’ll actually stick to.
 featuredpost: false
 featuredimage: /img/366e54cd87dbcb8de08d0261d92d3d59.jpg
 tags:
