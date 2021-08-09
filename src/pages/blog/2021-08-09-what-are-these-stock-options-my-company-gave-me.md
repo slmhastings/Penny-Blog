@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "What are these stock options my company gave me? "
 date: 2021-08-09T20:49:20.152Z
 description: What the heck do you own? And what should you do with it?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/c5856d33785822689d6f95d1e5816828.jpg
 tags:
   - Options
