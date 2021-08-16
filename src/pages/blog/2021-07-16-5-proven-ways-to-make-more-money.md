@@ -4,7 +4,7 @@ title: 5 proven ways to make more money
 date: 2021-07-16T14:01:46.580Z
 description: "No, selling clothes on Poshmark doesn’t count. "
 featuredpost: false
-featuredimage: /img/pg6273846-c8b16caa-da41-42f0-bebc-c9b3835960be.jpg
+featuredimage: /img/b5542eb6877e6438a81ab0bc77cd1655.jpg
 tags:
   - financial tips for women
   - money
@@ -12,9 +12,9 @@ tags:
 ---
 No, selling clothes on Poshmark doesn’t count. 
 
-![](/img/pg6273846-c8b16caa-da41-42f0-bebc-c9b3835960be.jpg "financial tips for women")
+![](/img/b5542eb6877e6438a81ab0bc77cd1655.jpg "financial tips for women")
 
-📸: Penny Finance 
+📸: Cultura Collective
 
 It’s so hard to find good financial tips for women online. Sure, financial advice is gender-free. But everyone just assumes we can all pay our bills, become debt-free, and make more money by selling our clothes on Poshmark. \*sigh\*
 
